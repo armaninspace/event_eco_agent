@@ -1,0 +1,16 @@
+path,exists,rows,size_bytes
+data/processed/us/modeling/county_event_panel.csv,True,9047.0,2963056
+data/processed/us/modeling/cbsa_event_panel.csv,True,7194.0,2834013
+data/processed/us/statistics/baseline_test_results.csv,True,64.0,33741
+data/processed/us/statistics/county_event_window_panel.csv,True,8682.0,2425762
+data/processed/us/statistics/cbsa_event_window_panel.csv,True,7626.0,2719263
+data/processed/us/statistics/event_window_test_results.csv,True,48.0,20868
+data/processed/us/statistics/controlled_model_results.csv,True,24.0,11440
+data/processed/us/statistics/multiple_testing_adjustment.csv,True,136.0,26324
+data/processed/us/statistics/robustness_checks.csv,True,56.0,17702
+data/processed/us/statistics/county_cbsa_consistency.csv,True,12.0,2432
+data/processed/us/statistics/hypothesis_candidates.csv,True,8.0,3492
+docs/explorer/us_eda_dashboard.html,True,,6934788
+docs/explorer/us_statistical_testing.html,True,,195592
+demos/phase-16-demo.mp4,True,,158621
+demos/phase-22-demo.mp4,True,,182362

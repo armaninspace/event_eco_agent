@@ -1,0 +1,7 @@
+event_eco_semantic:
+  target: dev
+  outputs:
+    dev:
+      type: duckdb
+      path: event_eco_semantic.duckdb
+      threads: 4

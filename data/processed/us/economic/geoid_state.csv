@@ -1,0 +1,52 @@
+statefips,statename,stateabbrev,state_pop2019,statefips_str
+1,Alabama,AL,4903185,01
+2,Alaska,AK,731545,02
+4,Arizona,AZ,7278717,04
+5,Arkansas,AR,3017804,05
+6,California,CA,39512223,06
+8,Colorado,CO,5758736,08
+9,Connecticut,CT,3565287,09
+10,Delaware,DE,973764,10
+11,District of Columbia,DC,705749,11
+12,Florida,FL,21477737,12
+13,Georgia,GA,10617423,13
+15,Hawaii,HI,1415872,15
+16,Idaho,ID,1787065,16
+17,Illinois,IL,12671821,17
+18,Indiana,IN,6732219,18
+19,Iowa,IA,3155070,19
+20,Kansas,KS,2913314,20
+21,Kentucky,KY,4467673,21
+22,Louisiana,LA,4648794,22
+23,Maine,ME,1344212,23
+24,Maryland,MD,6045680,24
+25,Massachusetts,MA,6892503,25
+26,Michigan,MI,9986857,26
+27,Minnesota,MN,5639632,27
+28,Mississippi,MS,2976149,28
+29,Missouri,MO,6137428,29
+30,Montana,MT,1068778,30
+31,Nebraska,NE,1934408,31
+32,Nevada,NV,3080156,32
+33,New Hampshire,NH,1359711,33
+34,New Jersey,NJ,8882190,34
+35,New Mexico,NM,2096829,35
+36,New York,NY,19453561,36
+37,North Carolina,NC,10488084,37
+38,North Dakota,ND,762062,38
+39,Ohio,OH,11689100,39
+40,Oklahoma,OK,3956971,40
+41,Oregon,OR,4217737,41
+42,Pennsylvania,PA,12801989,42
+44,Rhode Island,RI,1059361,44
+45,South Carolina,SC,5148714,45
+46,South Dakota,SD,884659,46
+47,Tennessee,TN,6829174,47
+48,Texas,TX,28995881,48
+49,Utah,UT,3205958,49
+50,Vermont,VT,623989,50
+51,Virginia,VA,8535519,51
+53,Washington,WA,7614893,53
+54,West Virginia,WV,1792147,54
+55,Wisconsin,WI,5822434,55
+56,Wyoming,WY,578759,56

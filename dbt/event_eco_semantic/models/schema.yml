@@ -1,0 +1,35 @@
+version: 2
+
+models:
+  - name: stg_event_county_weekly_exposure
+    description: County-week sports event exposure from curated processed data.
+    columns:
+      - name: county_fips
+        tests:
+          - not_null
+      - name: week_start_monday
+        tests:
+          - not_null
+      - name: league
+        tests:
+          - not_null
+
+  - name: stg_womply_county_weekly
+    description: County-week Womply economic activity outcomes.
+    columns:
+      - name: county_fips
+        tests:
+          - not_null
+      - name: week_start_monday
+        tests:
+          - not_null
+
+  - name: county_event_economic_weekly
+    description: Teaching mart joining county event exposure to Womply county outcomes.
+    columns:
+      - name: county_fips
+        tests:
+          - not_null
+      - name: week_start_monday
+        tests:
+          - not_null

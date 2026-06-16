@@ -1,0 +1,137 @@
+test_family,geography_level,outcome,treatment,test_name,raw_p_value,bh_adjusted_p_value,significant_raw_0_05,significant_bh_0_05,caveat
+baseline,county,revenue_all,has_event,Welch t-test,5.616698513385728e-11,2.4640999929692226e-10,True,True,Observational baseline comparison; do not interpret as causal.
+baseline,county,revenue_all,has_event,Student two-sample t-test,1.446481374879313e-10,5.952223163160145e-10,True,True,Observational baseline comparison; do not interpret as causal.
+baseline,county,revenue_all,has_event,Mann-Whitney U,2.5150159524974292e-11,1.140140565132168e-10,True,True,Observational baseline comparison; do not interpret as causal.
+baseline,county,revenue_all,playoff_event,Welch t-test,0.0577526774389424,0.1033468964696864,False,False,Observational baseline comparison; do not interpret as causal.
+baseline,county,revenue_all,playoff_event,Student two-sample t-test,0.1355356144925572,0.21943861394033068,False,False,Observational baseline comparison; do not interpret as causal.
+baseline,county,revenue_all,playoff_event,Mann-Whitney U,0.1148635919673742,0.18821022298268542,False,False,Observational baseline comparison; do not interpret as causal.
+baseline,county,revenue_all,event_intensity_group,ANOVA,2.796071733939137e-12,1.4083916882063802e-11,True,True,Observational multi-group comparison; event intensity is not randomly assigned.
+baseline,county,revenue_all,event_intensity_group,Kruskal-Wallis,1.9910685022493302e-14,1.1282721512746205e-13,True,True,Observational multi-group comparison; event intensity is not randomly assigned.
+baseline,county,merchants_all,has_event,Welch t-test,4.4591900086545333e-44,2.021499470590055e-42,True,True,Observational baseline comparison; do not interpret as causal.
+baseline,county,merchants_all,has_event,Student two-sample t-test,4.3153789956792836e-38,1.1737830868247651e-36,True,True,Observational baseline comparison; do not interpret as causal.
+baseline,county,merchants_all,has_event,Mann-Whitney U,3.2917981692314036e-41,1.1192113775386773e-39,True,True,Observational baseline comparison; do not interpret as causal.
+baseline,county,merchants_all,playoff_event,Welch t-test,0.6173700948577817,0.7055658226946077,False,False,Observational baseline comparison; do not interpret as causal.
+baseline,county,merchants_all,playoff_event,Student two-sample t-test,0.6312838238870895,0.7103507106866102,False,False,Observational baseline comparison; do not interpret as causal.
+baseline,county,merchants_all,playoff_event,Mann-Whitney U,0.7886190046092566,0.8379076923973351,False,False,Observational baseline comparison; do not interpret as causal.
+baseline,county,merchants_all,event_intensity_group,ANOVA,2.1714913750197145e-46,1.476614135013406e-44,True,True,Observational multi-group comparison; event intensity is not randomly assigned.
+baseline,county,merchants_all,event_intensity_group,Kruskal-Wallis,9.894109520503578e-52,1.3455988947884865e-49,True,True,Observational multi-group comparison; event intensity is not randomly assigned.
+baseline,county,revenue_all_vs_rolling4,has_event,Welch t-test,0.202883117132905,0.2904431992639482,False,False,Observational baseline comparison; do not interpret as causal.
+baseline,county,revenue_all_vs_rolling4,has_event,Student two-sample t-test,0.2586110377862941,0.34822872414788114,False,False,Observational baseline comparison; do not interpret as causal.
+baseline,county,revenue_all_vs_rolling4,has_event,Mann-Whitney U,0.1730817485741852,0.2586716242427383,False,False,Observational baseline comparison; do not interpret as causal.
+baseline,county,revenue_all_vs_rolling4,playoff_event,Welch t-test,0.2416001731868433,0.3320971194516805,False,False,Observational baseline comparison; do not interpret as causal.
+baseline,county,revenue_all_vs_rolling4,playoff_event,Student two-sample t-test,0.3829835780070281,0.49605492008529356,False,False,Observational baseline comparison; do not interpret as causal.
+baseline,county,revenue_all_vs_rolling4,playoff_event,Mann-Whitney U,0.1502066700675539,0.2403306721080862,False,False,Observational baseline comparison; do not interpret as causal.
+baseline,county,revenue_all_vs_rolling4,event_intensity_group,ANOVA,0.437968698049428,0.5414885721338383,False,False,Observational multi-group comparison; event intensity is not randomly assigned.
+baseline,county,revenue_all_vs_rolling4,event_intensity_group,Kruskal-Wallis,0.3952624257327462,0.5071291499967311,False,False,Observational multi-group comparison; event intensity is not randomly assigned.
+baseline,county,merchants_all_vs_rolling4,has_event,Welch t-test,0.0006971624846537,0.001788945243639683,True,True,Observational baseline comparison; do not interpret as causal.
+baseline,county,merchants_all_vs_rolling4,has_event,Student two-sample t-test,0.0093205437387449,0.020120538864592166,True,True,Observational baseline comparison; do not interpret as causal.
+baseline,county,merchants_all_vs_rolling4,has_event,Mann-Whitney U,0.000303983580044,0.00082683533771968,True,True,Observational baseline comparison; do not interpret as causal.
+baseline,county,merchants_all_vs_rolling4,playoff_event,Welch t-test,0.1061209731602629,0.17600551646092383,False,False,Observational baseline comparison; do not interpret as causal.
+baseline,county,merchants_all_vs_rolling4,playoff_event,Student two-sample t-test,0.1561413334653255,0.24408300403775018,False,False,Observational baseline comparison; do not interpret as causal.
+baseline,county,merchants_all_vs_rolling4,playoff_event,Mann-Whitney U,0.6986339639957415,0.7601137528273667,False,False,Observational baseline comparison; do not interpret as causal.
+baseline,county,merchants_all_vs_rolling4,event_intensity_group,ANOVA,0.0333740460802416,0.06303986481823415,True,False,Observational multi-group comparison; event intensity is not randomly assigned.
+baseline,county,merchants_all_vs_rolling4,event_intensity_group,Kruskal-Wallis,0.0003983716142711,0.0010623243047229332,True,True,Observational multi-group comparison; event intensity is not randomly assigned.
+baseline,cbsa,revenue_all,has_event,Welch t-test,1.067032094558558e-10,4.5348864018738716e-10,True,True,Observational baseline comparison; do not interpret as causal.
+baseline,cbsa,revenue_all,has_event,Student two-sample t-test,3.8046969721132875e-09,1.3616810215984398e-08,True,True,Observational baseline comparison; do not interpret as causal.
+baseline,cbsa,revenue_all,has_event,Mann-Whitney U,1.9976619954023706e-16,1.509344618748458e-15,True,True,Observational baseline comparison; do not interpret as causal.
+baseline,cbsa,revenue_all,playoff_event,Welch t-test,0.2550343807950452,0.3468467578812615,False,False,Observational baseline comparison; do not interpret as causal.
+baseline,cbsa,revenue_all,playoff_event,Student two-sample t-test,0.378820058147585,0.49538007603914963,False,False,Observational baseline comparison; do not interpret as causal.
+baseline,cbsa,revenue_all,playoff_event,Mann-Whitney U,0.428762655827428,0.5399233443752797,False,False,Observational baseline comparison; do not interpret as causal.
+baseline,cbsa,revenue_all,event_intensity_group,ANOVA,3.7430843373650036e-10,1.4544556282332586e-09,True,True,Observational multi-group comparison; event intensity is not randomly assigned.
+baseline,cbsa,revenue_all,event_intensity_group,Kruskal-Wallis,1.5208505212679211e-18,1.3789044726162485e-17,True,True,Observational multi-group comparison; event intensity is not randomly assigned.
+baseline,cbsa,merchants_all,has_event,Welch t-test,4.6503389334363774e-27,7.027178832748304e-26,True,True,Observational baseline comparison; do not interpret as causal.
+baseline,cbsa,merchants_all,has_event,Student two-sample t-test,8.717816422645925e-22,9.880191945665382e-21,True,True,Observational baseline comparison; do not interpret as causal.
+baseline,cbsa,merchants_all,has_event,Mann-Whitney U,5.4707959228403136e-24,6.763893140966205e-23,True,True,Observational baseline comparison; do not interpret as causal.
+baseline,cbsa,merchants_all,playoff_event,Welch t-test,0.8622420923073497,0.895152095830531,False,False,Observational baseline comparison; do not interpret as causal.
+baseline,cbsa,merchants_all,playoff_event,Student two-sample t-test,0.8600607311845828,0.895152095830531,False,False,Observational baseline comparison; do not interpret as causal.
+baseline,cbsa,merchants_all,playoff_event,Mann-Whitney U,0.4346861362167494,0.5414885721338383,False,False,Observational baseline comparison; do not interpret as causal.
+baseline,cbsa,merchants_all,event_intensity_group,ANOVA,2.1441428024543694e-26,2.9160342113379426e-25,True,True,Observational multi-group comparison; event intensity is not randomly assigned.
+baseline,cbsa,merchants_all,event_intensity_group,Kruskal-Wallis,1.3648629729356064e-30,2.651733775989178e-29,True,True,Observational multi-group comparison; event intensity is not randomly assigned.
+baseline,cbsa,revenue_all_vs_rolling4,has_event,Welch t-test,0.989621268658778,0.9908716014992845,False,False,Observational baseline comparison; do not interpret as causal.
+baseline,cbsa,revenue_all_vs_rolling4,has_event,Student two-sample t-test,0.9908716014992844,0.9908716014992845,False,False,Observational baseline comparison; do not interpret as causal.
+baseline,cbsa,revenue_all_vs_rolling4,has_event,Mann-Whitney U,0.0306843905029558,0.058775733921154774,True,False,Observational baseline comparison; do not interpret as causal.
+baseline,cbsa,revenue_all_vs_rolling4,playoff_event,Welch t-test,0.5483898065216403,0.6485305537995051,False,False,Observational baseline comparison; do not interpret as causal.
+baseline,cbsa,revenue_all_vs_rolling4,playoff_event,Student two-sample t-test,0.6320032058314693,0.7103507106866102,False,False,Observational baseline comparison; do not interpret as causal.
+baseline,cbsa,revenue_all_vs_rolling4,playoff_event,Mann-Whitney U,0.3399400652470604,0.44885290168543895,False,False,Observational baseline comparison; do not interpret as causal.
+baseline,cbsa,revenue_all_vs_rolling4,event_intensity_group,ANOVA,0.7547742878495527,0.8146770091074538,False,False,Observational multi-group comparison; event intensity is not randomly assigned.
+baseline,cbsa,revenue_all_vs_rolling4,event_intensity_group,Kruskal-Wallis,0.0161209595961141,0.03321894704653815,True,True,Observational multi-group comparison; event intensity is not randomly assigned.
+baseline,cbsa,merchants_all_vs_rolling4,has_event,Welch t-test,0.0811144045483506,0.137894487732196,False,False,Observational baseline comparison; do not interpret as causal.
+baseline,cbsa,merchants_all_vs_rolling4,has_event,Student two-sample t-test,0.1615832905165332,0.24691379224998333,False,False,Observational baseline comparison; do not interpret as causal.
+baseline,cbsa,merchants_all_vs_rolling4,has_event,Mann-Whitney U,1.897207612661508e-05,5.6091355504775014e-05,True,True,Observational baseline comparison; do not interpret as causal.
+baseline,cbsa,merchants_all_vs_rolling4,playoff_event,Welch t-test,0.0122796261566282,0.025725933302282115,True,True,Observational baseline comparison; do not interpret as causal.
+baseline,cbsa,merchants_all_vs_rolling4,playoff_event,Student two-sample t-test,0.0305777447455591,0.058775733921154774,True,False,Observational baseline comparison; do not interpret as causal.
+baseline,cbsa,merchants_all_vs_rolling4,playoff_event,Mann-Whitney U,0.2416447864163916,0.3320971194516805,False,False,Observational baseline comparison; do not interpret as causal.
+baseline,cbsa,merchants_all_vs_rolling4,event_intensity_group,ANOVA,0.3272453336918344,0.4363271115891125,False,False,Observational multi-group comparison; event intensity is not randomly assigned.
+baseline,cbsa,merchants_all_vs_rolling4,event_intensity_group,Kruskal-Wallis,7.588830702661986e-06,2.2935132790267338e-05,True,True,Observational multi-group comparison; event intensity is not randomly assigned.
+event_window,county,revenue_all,,Paired t-test,0.9022447795156184,0.9295855304100311,False,False,Within-geography event-window comparison; overlapping events and seasonality may remain.
+event_window,county,revenue_all,,Wilcoxon signed-rank,0.1962038548166184,0.2838694069687245,False,False,Within-geography event-window comparison; overlapping events and seasonality may remain.
+event_window,county,merchants_all,,Paired t-test,0.2327718780315738,0.3297601605447295,False,False,Within-geography event-window comparison; overlapping events and seasonality may remain.
+event_window,county,merchants_all,,Wilcoxon signed-rank,0.0600537808100334,0.10606901545668238,False,False,Within-geography event-window comparison; overlapping events and seasonality may remain.
+event_window,county,revenue_all_vs_rolling4,,Paired t-test,0.1587137178253186,0.24528483663912873,False,False,Within-geography event-window comparison; overlapping events and seasonality may remain.
+event_window,county,revenue_all_vs_rolling4,,Wilcoxon signed-rank,0.0245777893892156,0.04988924413333316,True,True,Within-geography event-window comparison; overlapping events and seasonality may remain.
+event_window,county,merchants_all_vs_rolling4,,Paired t-test,0.176861234195519,0.2614470418542455,False,False,Within-geography event-window comparison; overlapping events and seasonality may remain.
+event_window,county,merchants_all_vs_rolling4,,Wilcoxon signed-rank,0.6743414587050005,0.73960030954742,False,False,Within-geography event-window comparison; overlapping events and seasonality may remain.
+event_window,county,revenue_all,,Paired t-test,0.5829537268357735,0.6776214260655146,False,False,Within-geography event-window comparison; overlapping events and seasonality may remain.
+event_window,county,revenue_all,,Wilcoxon signed-rank,0.5328896927130178,0.6413539664510657,False,False,Within-geography event-window comparison; overlapping events and seasonality may remain.
+event_window,county,merchants_all,,Paired t-test,8.447937192605586e-07,2.6688592131816523e-06,True,True,Within-geography event-window comparison; overlapping events and seasonality may remain.
+event_window,county,merchants_all,,Wilcoxon signed-rank,1.9548874111810964e-13,1.0634587516825163e-12,True,True,Within-geography event-window comparison; overlapping events and seasonality may remain.
+event_window,county,revenue_all_vs_rolling4,,Paired t-test,0.0078160380704489,0.017425920943951644,True,True,Within-geography event-window comparison; overlapping events and seasonality may remain.
+event_window,county,revenue_all_vs_rolling4,,Wilcoxon signed-rank,0.0001709110087238,0.00048424785805076666,True,True,Within-geography event-window comparison; overlapping events and seasonality may remain.
+event_window,county,merchants_all_vs_rolling4,,Paired t-test,0.0260102941719621,0.0520205883439242,True,False,Within-geography event-window comparison; overlapping events and seasonality may remain.
+event_window,county,merchants_all_vs_rolling4,,Wilcoxon signed-rank,0.0748139550141341,0.12879364407496502,False,False,Within-geography event-window comparison; overlapping events and seasonality may remain.
+event_window,county,revenue_all,,Paired t-test,0.6497751681216447,0.7243395316765875,False,False,Within-geography event-window comparison; overlapping events and seasonality may remain.
+event_window,county,revenue_all,,Wilcoxon signed-rank,0.0017718891157043,0.00422766525852254,True,True,Within-geography event-window comparison; overlapping events and seasonality may remain.
+event_window,county,merchants_all,,Paired t-test,0.0001806024090985,0.0005012638293346123,True,True,Within-geography event-window comparison; overlapping events and seasonality may remain.
+event_window,county,merchants_all,,Wilcoxon signed-rank,2.6598716198013547e-32,6.0290423382164045e-31,True,True,Within-geography event-window comparison; overlapping events and seasonality may remain.
+event_window,county,revenue_all_vs_rolling4,,Paired t-test,7.046270218801295e-12,3.422474106274914e-11,True,True,Within-geography event-window comparison; overlapping events and seasonality may remain.
+event_window,county,revenue_all_vs_rolling4,,Wilcoxon signed-rank,1.66445914150006e-12,8.706401663231084e-12,True,True,Within-geography event-window comparison; overlapping events and seasonality may remain.
+event_window,county,merchants_all_vs_rolling4,,Paired t-test,9.12540180435321e-16,5.909784025676365e-15,True,True,Within-geography event-window comparison; overlapping events and seasonality may remain.
+event_window,county,merchants_all_vs_rolling4,,Wilcoxon signed-rank,3.10844430700949e-08,1.0568710643832268e-07,True,True,Within-geography event-window comparison; overlapping events and seasonality may remain.
+event_window,cbsa,revenue_all,,Paired t-test,0.66094641975525,0.7308025454204391,False,False,Within-geography event-window comparison; overlapping events and seasonality may remain.
+event_window,cbsa,revenue_all,,Wilcoxon signed-rank,0.0356036049886707,0.06633000381450979,True,False,Within-geography event-window comparison; overlapping events and seasonality may remain.
+event_window,cbsa,merchants_all,,Paired t-test,0.4524189193558737,0.5543150723639534,False,False,Within-geography event-window comparison; overlapping events and seasonality may remain.
+event_window,cbsa,merchants_all,,Wilcoxon signed-rank,0.0987387781828309,0.1657836275662346,False,False,Within-geography event-window comparison; overlapping events and seasonality may remain.
+event_window,cbsa,revenue_all_vs_rolling4,,Paired t-test,0.1540014979324392,0.24353725254432246,False,False,Within-geography event-window comparison; overlapping events and seasonality may remain.
+event_window,cbsa,revenue_all_vs_rolling4,,Wilcoxon signed-rank,0.0053326233811552,0.012087279663951787,True,True,Within-geography event-window comparison; overlapping events and seasonality may remain.
+event_window,cbsa,merchants_all_vs_rolling4,,Paired t-test,0.2417471678361498,0.3320971194516805,False,False,Within-geography event-window comparison; overlapping events and seasonality may remain.
+event_window,cbsa,merchants_all_vs_rolling4,,Wilcoxon signed-rank,0.9664794524027543,0.9809045188565267,False,False,Within-geography event-window comparison; overlapping events and seasonality may remain.
+event_window,cbsa,revenue_all,,Paired t-test,0.5700210287469843,0.6683005164619816,False,False,Within-geography event-window comparison; overlapping events and seasonality may remain.
+event_window,cbsa,revenue_all,,Wilcoxon signed-rank,0.8169078691667395,0.8612362031525316,False,False,Within-geography event-window comparison; overlapping events and seasonality may remain.
+event_window,cbsa,merchants_all,,Paired t-test,0.0006419752542271,0.0016790122033631847,True,True,Within-geography event-window comparison; overlapping events and seasonality may remain.
+event_window,cbsa,merchants_all,,Wilcoxon signed-rank,1.7253019043399827e-11,8.091070999663368e-11,True,True,Within-geography event-window comparison; overlapping events and seasonality may remain.
+event_window,cbsa,revenue_all_vs_rolling4,,Paired t-test,0.0468467413507513,0.08494875764936236,True,False,Within-geography event-window comparison; overlapping events and seasonality may remain.
+event_window,cbsa,revenue_all_vs_rolling4,,Wilcoxon signed-rank,0.0015039261397798,0.0037187991820009604,True,True,Within-geography event-window comparison; overlapping events and seasonality may remain.
+event_window,cbsa,merchants_all_vs_rolling4,,Paired t-test,0.0364381233619926,0.06696736185447288,True,False,Within-geography event-window comparison; overlapping events and seasonality may remain.
+event_window,cbsa,merchants_all_vs_rolling4,,Wilcoxon signed-rank,0.1638770088142318,0.2476363688748392,False,False,Within-geography event-window comparison; overlapping events and seasonality may remain.
+event_window,cbsa,revenue_all,,Paired t-test,0.5477934557725166,0.6485305537995051,False,False,Within-geography event-window comparison; overlapping events and seasonality may remain.
+event_window,cbsa,revenue_all,,Wilcoxon signed-rank,0.0030525278022584,0.007157651398399007,True,True,Within-geography event-window comparison; overlapping events and seasonality may remain.
+event_window,cbsa,merchants_all,,Paired t-test,0.0641845958201786,0.11191160296851653,False,False,Within-geography event-window comparison; overlapping events and seasonality may remain.
+event_window,cbsa,merchants_all,,Wilcoxon signed-rank,1.2122263046145956e-20,1.177591267339893e-19,True,True,Within-geography event-window comparison; overlapping events and seasonality may remain.
+event_window,cbsa,revenue_all_vs_rolling4,,Paired t-test,1.3069954764318872e-08,4.557727815249658e-08,True,True,Within-geography event-window comparison; overlapping events and seasonality may remain.
+event_window,cbsa,revenue_all_vs_rolling4,,Wilcoxon signed-rank,5.170735879929142e-10,1.9533891101954537e-09,True,True,Within-geography event-window comparison; overlapping events and seasonality may remain.
+event_window,cbsa,merchants_all_vs_rolling4,,Paired t-test,8.258022588386851e-15,5.104959418275508e-14,True,True,Within-geography event-window comparison; overlapping events and seasonality may remain.
+event_window,cbsa,merchants_all_vs_rolling4,,Wilcoxon signed-rank,1.2491522454079326e-07,4.044873937511401e-07,True,True,Within-geography event-window comparison; overlapping events and seasonality may remain.
+controlled_model,county,revenue_all,has_event,,3.459983994951002e-16,2.352789116566681e-15,True,True,Controlled association model; coefficients are not causal effects without stronger identification.
+controlled_model,county,revenue_all,event_intensity,,1.4880557907900362e-10,5.952223163160145e-10,True,True,Controlled association model; coefficients are not causal effects without stronger identification.
+controlled_model,county,revenue_all,playoff_event,,0.1931415310341133,0.2824435292541872,False,False,Controlled association model; coefficients are not causal effects without stronger identification.
+controlled_model,county,merchants_all,has_event,,1.0384092505365068e-27,1.7652957259120616e-26,True,True,Controlled association model; coefficients are not causal effects without stronger identification.
+controlled_model,county,merchants_all,event_intensity,,6.030334093740215e-21,6.308657205758995e-20,True,True,Controlled association model; coefficients are not causal effects without stronger identification.
+controlled_model,county,merchants_all,playoff_event,,0.0010669720540333,0.002687188876824608,True,True,Controlled association model; coefficients are not causal effects without stronger identification.
+controlled_model,county,revenue_all_vs_rolling4,has_event,,0.5306267598726468,0.6413539664510657,False,False,Controlled association model; coefficients are not causal effects without stronger identification.
+controlled_model,county,revenue_all_vs_rolling4,event_intensity,,0.9156104643687484,0.9362633319860886,False,False,Controlled association model; coefficients are not causal effects without stronger identification.
+controlled_model,county,revenue_all_vs_rolling4,playoff_event,,3.734083945367088e-05,0.00010805008863189872,True,True,Controlled association model; coefficients are not causal effects without stronger identification.
+controlled_model,county,merchants_all_vs_rolling4,has_event,,0.0015955070749474,0.0038748028963008284,True,True,Controlled association model; coefficients are not causal effects without stronger identification.
+controlled_model,county,merchants_all_vs_rolling4,event_intensity,,0.00873194563533,0.019153945264594838,True,True,Controlled association model; coefficients are not causal effects without stronger identification.
+controlled_model,county,merchants_all_vs_rolling4,playoff_event,,1.4970775788952228e-14,8.852284814336969e-14,True,True,Controlled association model; coefficients are not causal effects without stronger identification.
+controlled_model,cbsa,revenue_all,has_event,,3.798855546202578e-09,1.3616810215984398e-08,True,True,Controlled association model; coefficients are not causal effects without stronger identification.
+controlled_model,cbsa,revenue_all,event_intensity,,7.177355454524698e-08,2.3807813215008757e-07,True,True,Controlled association model; coefficients are not causal effects without stronger identification.
+controlled_model,cbsa,revenue_all,playoff_event,,0.4239592023457364,0.5388640328880389,False,False,Controlled association model; coefficients are not causal effects without stronger identification.
+controlled_model,cbsa,merchants_all,has_event,,1.0550941893777152e-16,8.440753515021723e-16,True,True,Controlled association model; coefficients are not causal effects without stronger identification.
+controlled_model,cbsa,merchants_all,event_intensity,,1.3462148194426148e-17,1.1442825965262225e-16,True,True,Controlled association model; coefficients are not causal effects without stronger identification.
+controlled_model,cbsa,merchants_all,playoff_event,,0.0043273023108074,0.00997479854694587,True,True,Controlled association model; coefficients are not causal effects without stronger identification.
+controlled_model,cbsa,revenue_all_vs_rolling4,has_event,,0.7666865450181457,0.8210186623816363,False,False,Controlled association model; coefficients are not causal effects without stronger identification.
+controlled_model,cbsa,revenue_all_vs_rolling4,event_intensity,,0.6102720388958937,0.7033643838122163,False,False,Controlled association model; coefficients are not causal effects without stronger identification.
+controlled_model,cbsa,revenue_all_vs_rolling4,playoff_event,,8.634544513234757e-07,2.6688592131816523e-06,True,True,Controlled association model; coefficients are not causal effects without stronger identification.
+controlled_model,cbsa,merchants_all_vs_rolling4,has_event,,0.0122954828282966,0.025725933302282115,True,True,Controlled association model; coefficients are not causal effects without stronger identification.
+controlled_model,cbsa,merchants_all_vs_rolling4,event_intensity,,0.0286422323204258,0.05645425500837549,True,False,Controlled association model; coefficients are not causal effects without stronger identification.
+controlled_model,cbsa,merchants_all_vs_rolling4,playoff_event,,3.282571762183009e-16,2.3496303139836275e-15,True,True,Controlled association model; coefficients are not causal effects without stronger identification.

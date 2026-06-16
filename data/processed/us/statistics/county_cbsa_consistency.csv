@@ -1,0 +1,13 @@
+outcome,treatment,county_coefficient,cbsa_coefficient,same_sign,county_p_value,cbsa_p_value,caveat
+merchants_all,event_intensity,0.0044667511829452,0.0037345027834401,True,6.030334093740215e-21,1.3462148194426148e-17,"Consistency of sign is a robustness signal, not proof of causal stability."
+merchants_all,has_event,0.0217780608018942,0.0180901039537856,True,1.0384092505365068e-27,1.0550941893777152e-16,"Consistency of sign is a robustness signal, not proof of causal stability."
+merchants_all,playoff_event,0.0174189009545984,0.0145919471171809,True,0.0010669720540333,0.0043273023108074,"Consistency of sign is a robustness signal, not proof of causal stability."
+merchants_all_vs_rolling4,event_intensity,0.0006528554628022,0.0005174931042899,True,0.00873194563533,0.0286422323204258,"Consistency of sign is a robustness signal, not proof of causal stability."
+merchants_all_vs_rolling4,has_event,0.0033200409099473,0.0029655028524518,True,0.0015955070749474,0.0122954828282966,"Consistency of sign is a robustness signal, not proof of causal stability."
+merchants_all_vs_rolling4,playoff_event,-0.0216043149862083,-0.022783855139157,True,1.4970775788952228e-14,3.282571762183009e-16,"Consistency of sign is a robustness signal, not proof of causal stability."
+revenue_all,event_intensity,0.0071696885530745,0.0053343082378788,True,1.4880557907900362e-10,7.177355454524698e-08,"Consistency of sign is a robustness signal, not proof of causal stability."
+revenue_all,has_event,0.0383076281571917,0.0290788259570849,True,3.459983994951002e-16,3.798855546202578e-09,"Consistency of sign is a robustness signal, not proof of causal stability."
+revenue_all,playoff_event,0.0162788754041385,0.0092477281056154,True,0.1931415310341133,0.4239592023457364,"Consistency of sign is a robustness signal, not proof of causal stability."
+revenue_all_vs_rolling4,event_intensity,-7.109602316543456e-05,-0.0003128054270232,True,0.9156104643687484,0.6102720388958937,"Consistency of sign is a robustness signal, not proof of causal stability."
+revenue_all_vs_rolling4,has_event,0.0017774778833782,-0.0009122054150736,False,0.5306267598726468,0.7666865450181457,"Consistency of sign is a robustness signal, not proof of causal stability."
+revenue_all_vs_rolling4,playoff_event,-0.0312600165304096,-0.0356938316341353,True,3.734083945367088e-05,8.634544513234757e-07,"Consistency of sign is a robustness signal, not proof of causal stability."

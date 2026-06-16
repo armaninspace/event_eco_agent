@@ -1,0 +1,3 @@
+week_type,city_weeks,mean_revenue_all,median_revenue_all,mean_merchants_all,median_merchants_all,mean_game_count,total_game_count
+event_week,2277,-0.07603730917874396,-0.0695,-0.033629446288976725,-0.0142,3.2094861660079053,7308
+non_event_week,3500,-0.10482782914285714,-0.102,-0.0856475260857143,-0.06945000000000001,0.0,0

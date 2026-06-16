@@ -1,0 +1,3 @@
+week_type,geography_weeks,geographies,mean_revenue_all,median_revenue_all,mean_merchants_all,median_merchants_all,mean_game_count,total_game_count,mean_total_attendance
+event_week,2894,63,-0.06873829267449896,-0.06745,-0.027146045922598477,-0.0152,2.8949550794747756,8378.0,24308.24395300622
+non_event_week,6153,83,-0.10715828100113767,-0.1,-0.06176729195514383,-0.0462,0.0,0.0,0.0
