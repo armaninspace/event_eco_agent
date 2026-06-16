@@ -45,6 +45,18 @@ DATA = ROOT / "data" / "processed" / "us"
 """
 
 
+def lesson_prompt(text: str) -> dict:
+    return md(
+        f"""
+## Coding Agent Prompt
+
+```text
+{text.strip()}
+```
+"""
+    )
+
+
 def statistics_notebooks() -> None:
     write_notebook(
         "notebooks/statistics/01_t_tests_and_mann_whitney.ipynb",
@@ -60,7 +72,20 @@ This notebook explains the two-group tests used in the project:
 - Mann-Whitney U
 
 Use these when comparing two groups, such as event weeks vs non-event weeks.
+
+## Formula
+
+Welch's test statistic is:
+
+$$
+t = \\frac{\\bar{x}_1 - \\bar{x}_2}{\\sqrt{s_1^2/n_1 + s_2^2/n_2}}
+$$
+
+Mann-Whitney U is rank-based, so it asks whether one group tends to have larger values than the other.
 """
+            ),
+            lesson_prompt(
+                "Given two groups of geography-week outcomes, decide whether Welch t-test, Student t-test, or Mann-Whitney U is appropriate. State the null hypothesis, assumptions, sample sizes, effect size, p-value interpretation, and why the result is association only."
             ),
             code(COMMON_SETUP),
             md(
@@ -145,7 +170,24 @@ This notebook explains multi-group tests used for event intensity:
 - no-event weeks
 - low-intensity event weeks
 - high-intensity event weeks
+
+## Formulas
+
+ANOVA compares between-group variance to within-group variance:
+
+$$
+F = \\frac{MS_{between}}{MS_{within}}
+$$
+
+Kruskal-Wallis is a rank-based alternative:
+
+$$
+H = \\frac{12}{N(N+1)}\\sum_i n_i(\\bar{R}_i - \\bar{R})^2
+$$
 """
+            ),
+            lesson_prompt(
+                "Given no-event, low-intensity, and high-intensity groups, choose ANOVA or Kruskal-Wallis. Explain assumptions, group-size power concerns, and what a significant omnibus result does and does not tell us."
             ),
             code(COMMON_SETUP),
             code(
@@ -219,7 +261,20 @@ This notebook explains:
 - Wilcoxon signed-rank test
 
 These compare event/post-event windows with pre-event windows inside the same geography.
+
+## Formula
+
+For paired differences $d_i = post_i - pre_i$:
+
+$$
+t = \\frac{\\bar{d}}{s_d / \\sqrt{n}}
+$$
+
+Wilcoxon signed-rank uses the ranks of non-zero paired differences.
 """
+            ),
+            lesson_prompt(
+                "Given event-window pre and post means for the same geographies, choose paired t-test or Wilcoxon signed-rank. State the paired null hypothesis, overlap risks, power concerns, and interpretation caveats."
             ),
             code(COMMON_SETUP),
             code(
@@ -282,7 +337,26 @@ Positive `post - pre` means event/post windows are higher than pre-event windows
 # Controlled Models, Multiple Testing, And Power
 
 This notebook explains the controlled OLS model outputs, Benjamini-Hochberg adjustment, and basic statistical power intuition.
+
+## Formulas
+
+Controlled association model:
+
+$$
+y_{g,t} = \\beta_0 + \\beta_1 EventExposure_{g,t} + \\gamma_g + \\delta_t + \\theta Trend_{g,t} + \\epsilon_{g,t}
+$$
+
+Benjamini-Hochberg adjustment ranks p-values and compares each p-value to:
+
+$$
+\\frac{i}{m}Q
+$$
+
+where $i$ is rank, $m$ is the number of tests, and $Q$ is the target false-discovery rate.
 """
+            ),
+            lesson_prompt(
+                "Given controlled model outputs and multiple-testing results, identify which associations are strongest. Explain coefficient direction, confidence interval, raw p-value, BH-adjusted p-value, power concerns, and why OLS is not causal proof here."
             ),
             code(COMMON_SETUP),
             code(
@@ -352,7 +426,19 @@ In this project, the semantic layer turns processed CSVs into reusable concepts:
 - geography-week grain
 - treatment flags
 - analysis-ready marts
+
+```mermaid
+flowchart LR
+    CSV[Curated CSV files] --> Sources[dbt sources]
+    Sources --> Staging[staging models]
+    Staging --> Marts[analysis marts]
+    Marts --> Metrics[metrics and tests]
+    Metrics --> Agents[agent tools and notebooks]
+```
 """
+            ),
+            lesson_prompt(
+                "Act as an analytics engineer. Explain how a semantic layer turns curated CSVs into tested, reusable marts for event/economic analysis. Identify sources, staging models, marts, tests, and metrics."
             ),
             code(COMMON_SETUP),
             code(
@@ -387,7 +473,16 @@ The starter project lives in `dbt/event_eco_semantic/`.
 # dbt Sources And Staging Models
 
 This notebook walks through how the dbt starter project reads curated CSVs and turns them into staging models.
+
+```mermaid
+flowchart TD
+    RawCSV[event_county_weekly_exposure.csv] --> Staging[stg_event_county_weekly_exposure]
+    Womply[womply_county_weekly.csv] --> EconStage[stg_womply_county_weekly]
+```
 """
+            ),
+            lesson_prompt(
+                "Create a dbt staging model for one processed CSV. Cast identifiers and numeric columns, document the grain, add not-null tests, and explain how students should validate the model."
             ),
             code(
                 """
@@ -421,7 +516,17 @@ Add a CBSA staging model:
 # dbt Marts, Metrics, And Tests
 
 Marts are teaching-friendly tables that express the analytical grain clearly. Here the mart grain is county-week.
+
+```mermaid
+flowchart LR
+    ExposureStage[Event exposure staging] --> Mart[County event economic weekly mart]
+    EconomicStage[Womply county staging] --> Mart
+    Mart --> StatisticalPanel[Statistics-ready panel]
+```
 """
+            ),
+            lesson_prompt(
+                "Design a dbt mart for county-week event/economic analysis. Specify the grain, join keys, expected tests, and metrics a student should expose."
             ),
             code(
                 """
@@ -474,7 +579,18 @@ def agent_notebooks() -> None:
 Goal: build the simplest statistical tool-calling agent.
 
 The live Microsoft Agent Framework pattern is to pass Python functions through `tools=` or decorate with `@tool`. This notebook keeps a deterministic local function first, then shows optional Agent Framework wiring.
+
+```mermaid
+flowchart LR
+    Prompt[Student prompt with data] --> Agent[TTestCoach]
+    Agent --> Tool[Welch t-test tool]
+    Tool --> Agent
+    Agent --> Answer[Assumptions, p-value, interpretation]
+```
 """
+            ),
+            lesson_prompt(
+                "Build a single-tool statistical agent. The agent should ask for two numeric groups, call a Welch t-test tool, report sample sizes, means, p-value, and explain that the result is association evidence only."
             ),
             code(AGENT_SETUP),
             code(
@@ -525,7 +641,19 @@ welch_t_test([1.2, 1.5, 1.7, 1.4], [0.8, 1.0, 1.1, 0.9])
 # Agent 2 - Multiple Statistical Tools
 
 Goal: give the agent several tools and teach it to choose based on scenario.
+
+```mermaid
+flowchart TD
+    Scenario[Scenario] --> Paired{Paired data?}
+    Paired -- Yes --> PairTools[Paired t-test or Wilcoxon]
+    Paired -- No --> Groups{How many groups?}
+    Groups -- Two --> TwoTools[Welch, Student, or Mann-Whitney]
+    Groups -- ThreePlus --> MultiTools[ANOVA or Kruskal-Wallis]
+```
 """
+            ),
+            lesson_prompt(
+                "Given a statistical scenario, route to one of this project's tests. Explain the routing rule, assumptions, and what additional information the agent should ask for before calling a tool."
             ),
             code(AGENT_SETUP),
             code(
@@ -577,7 +705,17 @@ Tool selection should be grounded in assumptions:
 # Agent 3 - Reflection Loop
 
 Goal: add a review step before final interpretation.
+
+```mermaid
+flowchart LR
+    Draft[Draft answer] --> Reflect[Reflection checklist]
+    Reflect --> Issues[Assumptions, power, overclaiming]
+    Issues --> Revised[Revised interpretation]
+```
 """
+            ),
+            lesson_prompt(
+                "Review a statistical answer for missing assumptions, wrong test choice, power concerns, multiple testing, effect-size interpretation, and causal overclaiming. Return a safer revised answer."
             ),
             code(
                 """
@@ -617,7 +755,20 @@ Reflection is useful when the first answer may be statistically overconfident. T
 # Agent 4 - Generate Code, Run It, Learn From Bugs
 
 Goal: show a constrained code-generation loop for statistical examples.
+
+```mermaid
+flowchart TD
+    Generate[Generate statistical code] --> Run[Run code]
+    Run --> Error{Error?}
+    Error -- Yes --> Diagnose[Diagnose bug]
+    Diagnose --> Fix[Patch code]
+    Fix --> Run
+    Error -- No --> Interpret[Interpret output]
+```
 """
+            ),
+            lesson_prompt(
+                "Generate Python code for a small statistical test, execute it, inspect failures, fix bugs, and rerun. Keep the example limited to pandas and scipy, and end with a guarded interpretation."
             ),
             code(
                 """
@@ -682,7 +833,22 @@ Roles:
 - charting specialist: proposes plots
 
 Microsoft Agent Framework's `GroupChatBuilder` supports manager-directed group chat where a manager chooses the next speaker.
+
+```mermaid
+flowchart TD
+    User[User] --> Lead[Team lead]
+    Lead --> Economist[Economist]
+    Lead --> Statistician[Statistician]
+    Lead --> Charting[Charting specialist]
+    Economist --> Lead
+    Statistician --> Lead
+    Charting --> Lead
+    Lead --> Final[Final answer]
+```
 """
+            ),
+            lesson_prompt(
+                "Design a hierarchical group chat for an event/economic research question. Assign roles to a team lead, economist, statistician, and charting specialist, then define the final synthesis rules."
             ),
             code(
                 """
@@ -722,7 +888,18 @@ for role, responsibility in roles.items():
 # Agent 6 - Peer Group Without Hierarchy
 
 Goal: compare a no-hierarchy team with a manager-led team.
+
+```mermaid
+flowchart LR
+    Economist <--> Statistician
+    Statistician <--> DataEngineer[Data engineer]
+    DataEngineer <--> Visualization[Visualization specialist]
+    Visualization <--> Economist
+```
 """
+            ),
+            lesson_prompt(
+                "Design a no-hierarchy peer group for the same research question. Explain how peers exchange critiques, how conflicts are resolved, and how the final answer avoids overclaiming."
             ),
             code(
                 """
@@ -753,7 +930,19 @@ No-hierarchy teams can generate diverse ideas quickly, but they need a synthesis
 # Agent 7 - Event/Economic Research Team
 
 Goal: simulate a group of economists and statisticians proposing hypotheses, designing experiments, pulling data, and running tests.
+
+```mermaid
+flowchart TD
+    Hypothesis[Propose hypothesis] --> Design[Choose design]
+    Design --> Data[Pull modeling/statistical data]
+    Data --> Test[Run ANOVA, t-test, paired test, or OLS]
+    Test --> Review[Robustness and caveat review]
+    Review --> Decision[Accept, reject, or revise]
+```
 """
+            ),
+            lesson_prompt(
+                "Act as an economist-statistician research team. Propose a hypothesis from the event/economic data, choose an experimental architecture using only tests from this project, run or reference the appropriate output, and accept, reject, or revise with caveats."
             ),
             code(COMMON_SETUP),
             code(

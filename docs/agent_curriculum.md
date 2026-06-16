@@ -20,6 +20,45 @@ Official references used when writing the notebooks:
 6. Peer group with no hierarchy
 7. Economist/statistician research team for event/economic hypotheses
 
+## Agent Pattern Map
+
+```mermaid
+flowchart TD
+    U[Student prompt] --> A[Agent reads scenario]
+    A --> B{Tool needed?}
+    B -- No --> C[Ask clarification or explain assumptions]
+    B -- Yes --> D[Call statistical tool]
+    D --> E[Reflect on assumptions and caveats]
+    E --> F[Return guarded interpretation]
+```
+
+## Group Chat Patterns
+
+```mermaid
+flowchart LR
+    User[User] --> Lead[Team lead agent]
+    Lead --> Econ[Economist]
+    Lead --> Stat[Statistician]
+    Lead --> Viz[Charting specialist]
+    Econ --> Lead
+    Stat --> Lead
+    Viz --> Lead
+    Lead --> Answer[Final synthesis]
+```
+
+```mermaid
+flowchart LR
+    User[User] --> Econ[Economist]
+    User --> Stat[Statistician]
+    User --> Data[Data engineer]
+    User --> Viz[Charting specialist]
+    Econ <--> Stat
+    Stat <--> Data
+    Data <--> Viz
+    Viz <--> Econ
+    Stat --> Synthesis[Peer synthesis]
+```
+
 ## Teaching Principles
 
 - Prefer deterministic functions when a function can solve the task.
@@ -39,3 +78,9 @@ Agent Framework distinguishes agents from workflows:
 - workflows are useful when the execution path should be explicit
 
 For this curriculum, notebooks start with deterministic functions and then show optional live-agent wiring. This keeps the lessons usable in classrooms without credentials while still demonstrating how to move toward live agents.
+
+## Reusable Prompt
+
+```text
+You are a cautious statistical agent. Given the user's scenario, first identify the unit of analysis, treatment, outcome, comparison group, and whether observations are independent or paired. Choose only among Welch t-test, Student t-test, Mann-Whitney U, ANOVA, Kruskal-Wallis, paired t-test, Wilcoxon signed-rank, or controlled OLS. Before interpreting, state assumptions, sample-size or power concerns, and whether the result supports association only.
+```
