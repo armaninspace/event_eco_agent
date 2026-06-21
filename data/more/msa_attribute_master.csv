@@ -1,0 +1,936 @@
+cbsa_code,cbsa_title,cbsa_type,state_list,region,county_count,population_latest,population_2019,population_growth_pct_2019_latest,population_cagr_2019_latest,net_migration_rate,age_share_under_18,age_share_65_plus,race_ethnicity_shares,pop_size_bin,pop_growth_bin,nchs_urban_rural_dominant,nchs_large_central_metro_share,nchs_large_fringe_metro_share,nchs_medium_metro_share,nchs_small_metro_share,nchs_micro_noncore_share,urban_core_flag,rucc_dominant,rucc_population_weighted_mean,uic_dominant,uic_population_weighted_mean,metro_adjacent_share,rurality_cluster,farming_dependent_share,mining_dependent_share,manufacturing_dependent_share,government_dependent_share,recreation_dependent_share,nonspecialized_share,dominant_county_typology,gdp_total,gdp_per_capita,gdp_growth_pct_2019_latest,industry_share_information,industry_share_finance,industry_share_healthcare,industry_share_accommodation_food,industry_share_arts_entertainment_recreation,industry_share_retail,dominant_gdp_industry,economic_diversity_hhi,avg_weekly_wage,local_service_economy_index,natural_amenities_bin,climate_cluster,dominant_ecoregion_level_3,svi_overall_population_weighted,svi_overall_quintile,source_vintage_summary,attribute_completeness_score
+10100,"Aberdeen, SD",Micropolitan Statistical Area,SD,midwest,2,42668,42668,,,,,,,medium,unknown,micro_proxy,,,,,,0,,,,,,micro_or_unknown,,,,,,,,,,,,,,,,,,,,,,,,,,2023-07,0.529
+10140,"Aberdeen, WA",Micropolitan Statistical Area,WA,west,1,75061,75061,,,,,,,large,unknown,micro_proxy,,,,,,0,,,,,,micro_or_unknown,,,,,,,,,,,,,,,,,,,,,,,,,,2023-07,0.529
+10180,"Abilene, TX",Metropolitan Statistical Area,TX,south,3,172060,172060,,,,,,,very_large,unknown,small_metro_proxy,,,,,,1,,,,,,metro,,,,,,,,,,,,,,,,,,,,,,,,,,2023-07,0.529
+10220,"Ada, OK",Micropolitan Statistical Area,OK,south,1,38284,38284,,,,,,,medium,unknown,micro_proxy,,,,,,0,,,,,,micro_or_unknown,,,,,,,,,,,,,,,,,,,,,,,,,,2023-07,0.529
+10300,"Adrian, MI",Micropolitan Statistical Area,MI,midwest,1,98451,98451,,,,,,,large,unknown,micro_proxy,,,,,,0,,,,,,micro_or_unknown,,,,,,,,,,,,,,,,,,,,,,,,,,2023-07,0.529
+10380,"Aguadilla, PR",Metropolitan Statistical Area,PR,unknown,7,,,,,,,,,unknown,unknown,small_metro_proxy,,,,,,1,,,,,,metro,,,,,,,,,,,,,,,,,,,,,,,,,,2023-07,0.412
+10420,"Akron, OH",Metropolitan Statistical Area,OH,midwest,2,703479,703479,,,,,,,mega,unknown,medium_metro_proxy,,,,,,1,,,,,,metro,,,,,,,,,,,,,,,,,,,,,,,,,,2023-07,0.529
+10460,"Alamogordo, NM",Micropolitan Statistical Area,NM,west,1,67490,67490,,,,,,,large,unknown,micro_proxy,,,,,,0,,,,,,micro_or_unknown,,,,,,,,,,,,,,,,,,,,,,,,,,2023-07,0.529
+10480,"Alamosa, CO",Micropolitan Statistical Area,CO,west,3,28325,28325,,,,,,,small,unknown,micro_proxy,,,,,,0,,,,,,micro_or_unknown,,,,,,,,,,,,,,,,,,,,,,,,,,2023-07,0.529
+10500,"Albany, GA",Metropolitan Statistical Area,GA,south,4,146726,146726,,,,,,,very_large,unknown,small_metro_proxy,,,,,,1,,,,,,metro,,,,,,,,,,,,,,,,,,,,,,,,,,2023-07,0.529
+10540,"Albany, OR",Metropolitan Statistical Area,OR,west,1,129749,129749,,,,,,,very_large,unknown,small_metro_proxy,,,,,,1,,,,,,metro,,,,,,,,,,,,,,,,,,,,,,,,,,2023-07,0.529
+10580,"Albany-Schenectady-Troy, NY",Metropolitan Statistical Area,NY,northeast,5,880381,880381,,,,,,,mega,unknown,medium_metro_proxy,,,,,,1,,,,,,metro,,,,,,,,,,,,,,,,,,,,,,,,,,2023-07,0.529
+10620,"Albemarle, NC",Micropolitan Statistical Area,NC,south,1,62806,62806,,,,,,,large,unknown,micro_proxy,,,,,,0,,,,,,micro_or_unknown,,,,,,,,,,,,,,,,,,,,,,,,,,2023-07,0.529
+10660,"Albert Lea, MN",Micropolitan Statistical Area,MN,midwest,1,30281,30281,,,,,,,small,unknown,micro_proxy,,,,,,0,,,,,,micro_or_unknown,,,,,,,,,,,,,,,,,,,,,,,,,,2023-07,0.529
+10700,"Albertville, AL",Micropolitan Statistical Area,AL,south,1,96774,96774,,,,,,,large,unknown,micro_proxy,,,,,,0,,,,,,micro_or_unknown,,,,,,,,,,,,,,,,,,,,,,,,,,2023-07,0.529
+10740,"Albuquerque, NM",Metropolitan Statistical Area,NM,west,4,918018,918018,,,,,,,mega,unknown,medium_metro_proxy,,,,,,1,,,,,,metro,,,,,,,,,,,,,,,,,,,,,,,,,,2023-07,0.529
+10760,"Alexander City, AL",Micropolitan Statistical Area,AL,south,1,40367,40367,,,,,,,medium,unknown,micro_proxy,,,,,,0,,,,,,micro_or_unknown,,,,,,,,,,,,,,,,,,,,,,,,,,2023-07,0.529
+10780,"Alexandria, LA",Metropolitan Statistical Area,LA,south,2,152037,152037,,,,,,,very_large,unknown,small_metro_proxy,,,,,,1,,,,,,metro,,,,,,,,,,,,,,,,,,,,,,,,,,2023-07,0.529
+10820,"Alexandria, MN",Micropolitan Statistical Area,MN,midwest,1,38141,38141,,,,,,,medium,unknown,micro_proxy,,,,,,0,,,,,,micro_or_unknown,,,,,,,,,,,,,,,,,,,,,,,,,,2023-07,0.529
+10860,"Alice, TX",Micropolitan Statistical Area,TX,south,2,47575,47575,,,,,,,medium,unknown,micro_proxy,,,,,,0,,,,,,micro_or_unknown,,,,,,,,,,,,,,,,,,,,,,,,,,2023-07,0.529
+10900,"Allentown-Bethlehem-Easton, PA-NJ",Metropolitan Statistical Area,NJ;PA,northeast,4,844052,844052,,,,,,,mega,unknown,medium_metro_proxy,,,,,,1,,,,,,metro,,,,,,,,,,,,,,,,,,,,,,,,,,2023-07,0.529
+10940,"Alma, MI",Micropolitan Statistical Area,MI,midwest,1,40711,40711,,,,,,,medium,unknown,micro_proxy,,,,,,0,,,,,,micro_or_unknown,,,,,,,,,,,,,,,,,,,,,,,,,,2023-07,0.529
+10980,"Alpena, MI",Micropolitan Statistical Area,MI,midwest,1,28405,28405,,,,,,,small,unknown,micro_proxy,,,,,,0,,,,,,micro_or_unknown,,,,,,,,,,,,,,,,,,,,,,,,,,2023-07,0.529
+11020,"Altoona, PA",Metropolitan Statistical Area,PA,northeast,1,121829,121829,,,,,,,very_large,unknown,small_metro_proxy,,,,,,1,,,,,,metro,,,,,,,,,,,,,,,,,,,,,,,,,,2023-07,0.529
+11060,"Altus, OK",Micropolitan Statistical Area,OK,south,1,24530,24530,,,,,,,small,unknown,micro_proxy,,,,,,0,,,,,,micro_or_unknown,,,,,,,,,,,,,,,,,,,,,,,,,,2023-07,0.529
+11100,"Amarillo, TX",Metropolitan Statistical Area,TX,south,5,265053,265053,,,,,,,mega,unknown,medium_metro_proxy,,,,,,1,,,,,,metro,,,,,,,,,,,,,,,,,,,,,,,,,,2023-07,0.529
+11140,"Americus, GA",Micropolitan Statistical Area,GA,south,2,34781,34781,,,,,,,small,unknown,micro_proxy,,,,,,0,,,,,,micro_or_unknown,,,,,,,,,,,,,,,,,,,,,,,,,,2023-07,0.529
+11180,"Ames, IA",Metropolitan Statistical Area,IA,midwest,2,123351,123351,,,,,,,very_large,unknown,small_metro_proxy,,,,,,1,,,,,,metro,,,,,,,,,,,,,,,,,,,,,,,,,,2023-07,0.529
+11200,"Amherst Town-Northampton, MA",Metropolitan Statistical Area,MA,northeast,1,160830,160830,,,,,,,very_large,unknown,small_metro_proxy,,,,,,1,,,,,,metro,,,,,,,,,,,,,,,,,,,,,,,,,,2023-07,0.529
+11220,"Amsterdam, NY",Micropolitan Statistical Area,NY,northeast,1,49221,49221,,,,,,,medium,unknown,micro_proxy,,,,,,0,,,,,,micro_or_unknown,,,,,,,,,,,,,,,,,,,,,,,,,,2023-07,0.529
+11260,"Anchorage, AK",Metropolitan Statistical Area,AK,west,2,396317,396317,,,,,,,mega,unknown,medium_metro_proxy,,,,,,1,,,,,,metro,,,,,,,,,,,,,,,,,,,,,,,,,,2023-07,0.529
+11360,"Anderson Creek, NC",Micropolitan Statistical Area,NC,south,1,135976,135976,,,,,,,very_large,unknown,micro_proxy,,,,,,0,,,,,,micro_or_unknown,,,,,,,,,,,,,,,,,,,,,,,,,,2023-07,0.529
+11380,"Andrews, TX",Micropolitan Statistical Area,TX,south,1,18705,18705,,,,,,,small,unknown,micro_proxy,,,,,,0,,,,,,micro_or_unknown,,,,,,,,,,,,,,,,,,,,,,,,,,2023-07,0.529
+11420,"Angola, IN",Micropolitan Statistical Area,IN,midwest,1,34594,34594,,,,,,,small,unknown,micro_proxy,,,,,,0,,,,,,micro_or_unknown,,,,,,,,,,,,,,,,,,,,,,,,,,2023-07,0.529
+11460,"Ann Arbor, MI",Metropolitan Statistical Area,MI,midwest,1,367601,367601,,,,,,,mega,unknown,medium_metro_proxy,,,,,,1,,,,,,metro,,,,,,,,,,,,,,,,,,,,,,,,,,2023-07,0.529
+11500,"Anniston-Oxford, AL",Metropolitan Statistical Area,AL,south,1,113605,113605,,,,,,,very_large,unknown,small_metro_proxy,,,,,,1,,,,,,metro,,,,,,,,,,,,,,,,,,,,,,,,,,2023-07,0.529
+11540,"Appleton, WI",Metropolitan Statistical Area,WI,midwest,2,237974,237974,,,,,,,very_large,unknown,small_metro_proxy,,,,,,1,,,,,,metro,,,,,,,,,,,,,,,,,,,,,,,,,,2023-07,0.529
+11580,"Arcadia, FL",Micropolitan Statistical Area,FL,south,1,38001,38001,,,,,,,medium,unknown,micro_proxy,,,,,,0,,,,,,micro_or_unknown,,,,,,,,,,,,,,,,,,,,,,,,,,2023-07,0.529
+11620,"Ardmore, OK",Micropolitan Statistical Area,OK,south,1,48111,48111,,,,,,,medium,unknown,micro_proxy,,,,,,0,,,,,,micro_or_unknown,,,,,,,,,,,,,,,,,,,,,,,,,,2023-07,0.529
+11640,"Arecibo, PR",Metropolitan Statistical Area,PR,unknown,4,,,,,,,,,unknown,unknown,small_metro_proxy,,,,,,1,,,,,,metro,,,,,,,,,,,,,,,,,,,,,,,,,,2023-07,0.412
+11660,"Arkadelphia, AR",Micropolitan Statistical Area,AR,south,1,22320,22320,,,,,,,small,unknown,micro_proxy,,,,,,0,,,,,,micro_or_unknown,,,,,,,,,,,,,,,,,,,,,,,,,,2023-07,0.529
+11680,"Arkansas City-Winfield, KS",Micropolitan Statistical Area,KS,midwest,1,34908,34908,,,,,,,small,unknown,micro_proxy,,,,,,0,,,,,,micro_or_unknown,,,,,,,,,,,,,,,,,,,,,,,,,,2023-07,0.529
+11700,"Asheville, NC",Metropolitan Statistical Area,NC,south,3,400363,400363,,,,,,,mega,unknown,medium_metro_proxy,,,,,,1,,,,,,metro,,,,,,,,,,,,,,,,,,,,,,,,,,2023-07,0.529
+11740,"Ashland, OH",Micropolitan Statistical Area,OH,midwest,1,53484,53484,,,,,,,medium,unknown,micro_proxy,,,,,,0,,,,,,micro_or_unknown,,,,,,,,,,,,,,,,,,,,,,,,,,2023-07,0.529
+11820,"Astoria, OR",Micropolitan Statistical Area,OR,west,1,40224,40224,,,,,,,medium,unknown,micro_proxy,,,,,,0,,,,,,micro_or_unknown,,,,,,,,,,,,,,,,,,,,,,,,,,2023-07,0.529
+11860,"Atchison, KS",Micropolitan Statistical Area,KS,midwest,1,16073,16073,,,,,,,small,unknown,micro_proxy,,,,,,0,,,,,,micro_or_unknown,,,,,,,,,,,,,,,,,,,,,,,,,,2023-07,0.529
+11900,"Athens, OH",Micropolitan Statistical Area,OH,midwest,1,65327,65327,,,,,,,large,unknown,micro_proxy,,,,,,0,,,,,,micro_or_unknown,,,,,,,,,,,,,,,,,,,,,,,,,,2023-07,0.529
+11940,"Athens, TN",Micropolitan Statistical Area,TN,south,2,66216,66216,,,,,,,large,unknown,micro_proxy,,,,,,0,,,,,,micro_or_unknown,,,,,,,,,,,,,,,,,,,,,,,,,,2023-07,0.529
+11980,"Athens, TX",Micropolitan Statistical Area,TX,south,1,82737,82737,,,,,,,large,unknown,micro_proxy,,,,,,0,,,,,,micro_or_unknown,,,,,,,,,,,,,,,,,,,,,,,,,,2023-07,0.529
+12020,"Athens-Clarke County, GA",Metropolitan Statistical Area,GA,south,4,213750,213750,,,,,,,very_large,unknown,small_metro_proxy,,,,,,1,,,,,,metro,,,,,,,,,,,,,,,,,,,,,,,,,,2023-07,0.529
+12060,"Atlanta-Sandy Springs-Roswell, GA",Metropolitan Statistical Area,GA,south,29,6034897,6034897,,,,,,,mega,unknown,large_metro_proxy,,,,,,1,,,,,,metro,,,,,,,,,,,,,,,,,,,,,,,,,,2023-07,0.529
+12100,"Atlantic City-Hammonton, NJ",Metropolitan Statistical Area,NJ,northeast,2,355709,355709,,,,,,,mega,unknown,medium_metro_proxy,,,,,,1,,,,,,metro,,,,,,,,,,,,,,,,,,,,,,,,,,2023-07,0.529
+12140,"Auburn, IN",Micropolitan Statistical Area,IN,midwest,1,43475,43475,,,,,,,medium,unknown,micro_proxy,,,,,,0,,,,,,micro_or_unknown,,,,,,,,,,,,,,,,,,,,,,,,,,2023-07,0.529
+12180,"Auburn, NY",Micropolitan Statistical Area,NY,northeast,1,76576,76576,,,,,,,large,unknown,micro_proxy,,,,,,0,,,,,,micro_or_unknown,,,,,,,,,,,,,,,,,,,,,,,,,,2023-07,0.529
+12220,"Auburn-Opelika, AL",Metropolitan Statistical Area,AL,south,2,182610,182610,,,,,,,very_large,unknown,small_metro_proxy,,,,,,1,,,,,,metro,,,,,,,,,,,,,,,,,,,,,,,,,,2023-07,0.529
+12260,"Augusta-Richmond County, GA-SC",Metropolitan Statistical Area,GA;SC,south,7,608980,608980,,,,,,,mega,unknown,medium_metro_proxy,,,,,,1,,,,,,metro,,,,,,,,,,,,,,,,,,,,,,,,,,2023-07,0.529
+12300,"Augusta-Waterville, ME",Micropolitan Statistical Area,ME,northeast,1,122302,122302,,,,,,,very_large,unknown,micro_proxy,,,,,,0,,,,,,micro_or_unknown,,,,,,,,,,,,,,,,,,,,,,,,,,2023-07,0.529
+12380,"Austin, MN",Micropolitan Statistical Area,MN,midwest,1,40062,40062,,,,,,,medium,unknown,micro_proxy,,,,,,0,,,,,,micro_or_unknown,,,,,,,,,,,,,,,,,,,,,,,,,,2023-07,0.529
+12420,"Austin-Round Rock-San Marcos, TX",Metropolitan Statistical Area,TX,south,5,2227083,2227083,,,,,,,mega,unknown,large_metro_proxy,,,,,,1,,,,,,metro,,,,,,,,,,,,,,,,,,,,,,,,,,2023-07,0.529
+12460,"Bainbridge, GA",Micropolitan Statistical Area,GA,south,1,26404,26404,,,,,,,small,unknown,micro_proxy,,,,,,0,,,,,,micro_or_unknown,,,,,,,,,,,,,,,,,,,,,,,,,,2023-07,0.529
+12520,"Baker City, OR",Micropolitan Statistical Area,OR,west,1,16124,16124,,,,,,,small,unknown,micro_proxy,,,,,,0,,,,,,micro_or_unknown,,,,,,,,,,,,,,,,,,,,,,,,,,2023-07,0.529
+12540,"Bakersfield-Delano, CA",Metropolitan Statistical Area,CA,west,1,900202,900202,,,,,,,mega,unknown,medium_metro_proxy,,,,,,1,,,,,,metro,,,,,,,,,,,,,,,,,,,,,,,,,,2023-07,0.529
+12580,"Baltimore-Columbia-Towson, MD",Metropolitan Statistical Area,MD,south,7,2800053,2800053,,,,,,,mega,unknown,large_metro_proxy,,,,,,1,,,,,,metro,,,,,,,,,,,,,,,,,,,,,,,,,,2023-07,0.529
+12620,"Bangor, ME",Metropolitan Statistical Area,ME,northeast,1,152148,152148,,,,,,,very_large,unknown,small_metro_proxy,,,,,,1,,,,,,metro,,,,,,,,,,,,,,,,,,,,,,,,,,2023-07,0.529
+12660,"Baraboo, WI",Micropolitan Statistical Area,WI,midwest,1,64442,64442,,,,,,,large,unknown,micro_proxy,,,,,,0,,,,,,micro_or_unknown,,,,,,,,,,,,,,,,,,,,,,,,,,2023-07,0.529
+12700,"Barnstable Town, MA",Metropolitan Statistical Area,MA,northeast,1,212990,212990,,,,,,,very_large,unknown,small_metro_proxy,,,,,,1,,,,,,metro,,,,,,,,,,,,,,,,,,,,,,,,,,2023-07,0.529
+12740,"Barre, VT",Micropolitan Statistical Area,VT,northeast,1,58409,58409,,,,,,,large,unknown,micro_proxy,,,,,,0,,,,,,micro_or_unknown,,,,,,,,,,,,,,,,,,,,,,,,,,2023-07,0.529
+12780,"Bartlesville, OK",Micropolitan Statistical Area,OK,south,1,51527,51527,,,,,,,medium,unknown,micro_proxy,,,,,,0,,,,,,micro_or_unknown,,,,,,,,,,,,,,,,,,,,,,,,,,2023-07,0.529
+12860,"Batavia, NY",Micropolitan Statistical Area,NY,northeast,1,57280,57280,,,,,,,large,unknown,micro_proxy,,,,,,0,,,,,,micro_or_unknown,,,,,,,,,,,,,,,,,,,,,,,,,,2023-07,0.529
+12900,"Batesville, AR",Micropolitan Statistical Area,AR,south,1,37825,37825,,,,,,,medium,unknown,micro_proxy,,,,,,0,,,,,,micro_or_unknown,,,,,,,,,,,,,,,,,,,,,,,,,,2023-07,0.529
+12940,"Baton Rouge, LA",Metropolitan Statistical Area,LA,south,10,854884,854884,,,,,,,mega,unknown,medium_metro_proxy,,,,,,1,,,,,,metro,,,,,,,,,,,,,,,,,,,,,,,,,,2023-07,0.529
+12980,"Battle Creek, MI",Metropolitan Statistical Area,MI,midwest,1,134159,134159,,,,,,,very_large,unknown,small_metro_proxy,,,,,,1,,,,,,metro,,,,,,,,,,,,,,,,,,,,,,,,,,2023-07,0.529
+13020,"Bay City, MI",Metropolitan Statistical Area,MI,midwest,1,103126,103126,,,,,,,large,unknown,small_metro_proxy,,,,,,1,,,,,,metro,,,,,,,,,,,,,,,,,,,,,,,,,,2023-07,0.529
+13060,"Bay City, TX",Micropolitan Statistical Area,TX,south,1,36643,36643,,,,,,,small,unknown,micro_proxy,,,,,,0,,,,,,micro_or_unknown,,,,,,,,,,,,,,,,,,,,,,,,,,2023-07,0.529
+13100,"Beatrice, NE",Micropolitan Statistical Area,NE,midwest,1,21513,21513,,,,,,,small,unknown,micro_proxy,,,,,,0,,,,,,micro_or_unknown,,,,,,,,,,,,,,,,,,,,,,,,,,2023-07,0.529
+13140,"Beaumont-Port Arthur, TX",Metropolitan Statistical Area,TX,south,3,392563,392563,,,,,,,mega,unknown,medium_metro_proxy,,,,,,1,,,,,,metro,,,,,,,,,,,,,,,,,,,,,,,,,,2023-07,0.529
+13180,"Beaver Dam, WI",Micropolitan Statistical Area,WI,midwest,1,87839,87839,,,,,,,large,unknown,micro_proxy,,,,,,0,,,,,,micro_or_unknown,,,,,,,,,,,,,,,,,,,,,,,,,,2023-07,0.529
+13220,"Beckley, WV",Metropolitan Statistical Area,WV,south,2,115767,115767,,,,,,,very_large,unknown,small_metro_proxy,,,,,,1,,,,,,metro,,,,,,,,,,,,,,,,,,,,,,,,,,2023-07,0.529
+13260,"Bedford, IN",Micropolitan Statistical Area,IN,midwest,1,45370,45370,,,,,,,medium,unknown,micro_proxy,,,,,,0,,,,,,micro_or_unknown,,,,,,,,,,,,,,,,,,,,,,,,,,2023-07,0.529
+13300,"Beeville, TX",Micropolitan Statistical Area,TX,south,1,32565,32565,,,,,,,small,unknown,micro_proxy,,,,,,0,,,,,,micro_or_unknown,,,,,,,,,,,,,,,,,,,,,,,,,,2023-07,0.529
+13340,"Bellefontaine, OH",Micropolitan Statistical Area,OH,midwest,1,45672,45672,,,,,,,medium,unknown,micro_proxy,,,,,,0,,,,,,micro_or_unknown,,,,,,,,,,,,,,,,,,,,,,,,,,2023-07,0.529
+13380,"Bellingham, WA",Metropolitan Statistical Area,WA,west,1,229247,229247,,,,,,,very_large,unknown,small_metro_proxy,,,,,,1,,,,,,metro,,,,,,,,,,,,,,,,,,,,,,,,,,2023-07,0.529
+13420,"Bemidji, MN",Micropolitan Statistical Area,MN,midwest,1,47188,47188,,,,,,,medium,unknown,micro_proxy,,,,,,0,,,,,,micro_or_unknown,,,,,,,,,,,,,,,,,,,,,,,,,,2023-07,0.529
+13460,"Bend, OR",Metropolitan Statistical Area,OR,west,3,246754,246754,,,,,,,very_large,unknown,small_metro_proxy,,,,,,1,,,,,,metro,,,,,,,,,,,,,,,,,,,,,,,,,,2023-07,0.529
+13540,"Bennington, VT",Micropolitan Statistical Area,VT,northeast,1,35470,35470,,,,,,,small,unknown,micro_proxy,,,,,,0,,,,,,micro_or_unknown,,,,,,,,,,,,,,,,,,,,,,,,,,2023-07,0.529
+13660,"Big Rapids, MI",Micropolitan Statistical Area,MI,midwest,1,43453,43453,,,,,,,medium,unknown,micro_proxy,,,,,,0,,,,,,micro_or_unknown,,,,,,,,,,,,,,,,,,,,,,,,,,2023-07,0.529
+13700,"Big Spring, TX",Micropolitan Statistical Area,TX,south,1,36664,36664,,,,,,,small,unknown,micro_proxy,,,,,,0,,,,,,micro_or_unknown,,,,,,,,,,,,,,,,,,,,,,,,,,2023-07,0.529
+13740,"Billings, MT",Metropolitan Statistical Area,MT,west,3,181667,181667,,,,,,,very_large,unknown,small_metro_proxy,,,,,,1,,,,,,metro,,,,,,,,,,,,,,,,,,,,,,,,,,2023-07,0.529
+13780,"Binghamton, NY",Metropolitan Statistical Area,NY,northeast,2,238691,238691,,,,,,,very_large,unknown,small_metro_proxy,,,,,,1,,,,,,metro,,,,,,,,,,,,,,,,,,,,,,,,,,2023-07,0.529
+13820,"Birmingham, AL",Metropolitan Statistical Area,AL,south,7,1153956,1153956,,,,,,,mega,unknown,large_metro_proxy,,,,,,1,,,,,,metro,,,,,,,,,,,,,,,,,,,,,,,,,,2023-07,0.529
+13860,"Bishop, CA",Micropolitan Statistical Area,CA,west,1,18039,18039,,,,,,,small,unknown,micro_proxy,,,,,,0,,,,,,micro_or_unknown,,,,,,,,,,,,,,,,,,,,,,,,,,2023-07,0.529
+13900,"Bismarck, ND",Metropolitan Statistical Area,ND,midwest,3,128949,128949,,,,,,,very_large,unknown,small_metro_proxy,,,,,,1,,,,,,metro,,,,,,,,,,,,,,,,,,,,,,,,,,2023-07,0.529
+13940,"Blackfoot, ID",Micropolitan Statistical Area,ID,west,1,46811,46811,,,,,,,medium,unknown,micro_proxy,,,,,,0,,,,,,micro_or_unknown,,,,,,,,,,,,,,,,,,,,,,,,,,2023-07,0.529
+13980,"Blacksburg-Christiansburg-Radford, VA",Metropolitan Statistical Area,VA,south,5,183280,183280,,,,,,,very_large,unknown,small_metro_proxy,,,,,,1,,,,,,metro,,,,,,,,,,,,,,,,,,,,,,,,,,2023-07,0.529
+14010,"Bloomington, IL",Metropolitan Statistical Area,IL,midwest,1,171517,171517,,,,,,,very_large,unknown,small_metro_proxy,,,,,,1,,,,,,metro,,,,,,,,,,,,,,,,,,,,,,,,,,2023-07,0.529
+14020,"Bloomington, IN",Metropolitan Statistical Area,IN,midwest,2,169230,169230,,,,,,,very_large,unknown,small_metro_proxy,,,,,,1,,,,,,metro,,,,,,,,,,,,,,,,,,,,,,,,,,2023-07,0.529
+14100,"Bloomsburg-Berwick, PA",Micropolitan Statistical Area,PA,northeast,1,64964,64964,,,,,,,large,unknown,micro_proxy,,,,,,0,,,,,,micro_or_unknown,,,,,,,,,,,,,,,,,,,,,,,,,,2023-07,0.529
+14140,"Bluefield, WV-VA",Micropolitan Statistical Area,VA;WV,south,2,99353,99353,,,,,,,large,unknown,micro_proxy,,,,,,0,,,,,,micro_or_unknown,,,,,,,,,,,,,,,,,,,,,,,,,,2023-07,0.529
+14180,"Blytheville, AR",Micropolitan Statistical Area,AR,south,1,40651,40651,,,,,,,medium,unknown,micro_proxy,,,,,,0,,,,,,micro_or_unknown,,,,,,,,,,,,,,,,,,,,,,,,,,2023-07,0.529
+14220,"Bogalusa, LA",Micropolitan Statistical Area,LA,south,1,46194,46194,,,,,,,medium,unknown,micro_proxy,,,,,,0,,,,,,micro_or_unknown,,,,,,,,,,,,,,,,,,,,,,,,,,2023-07,0.529
+14260,"Boise City, ID",Metropolitan Statistical Area,ID,west,5,749202,749202,,,,,,,mega,unknown,medium_metro_proxy,,,,,,1,,,,,,metro,,,,,,,,,,,,,,,,,,,,,,,,,,2023-07,0.529
+14300,"Bonham, TX",Micropolitan Statistical Area,TX,south,1,35514,35514,,,,,,,small,unknown,micro_proxy,,,,,,0,,,,,,micro_or_unknown,,,,,,,,,,,,,,,,,,,,,,,,,,2023-07,0.529
+14380,"Boone, NC",Micropolitan Statistical Area,NC,south,1,56177,56177,,,,,,,medium,unknown,micro_proxy,,,,,,0,,,,,,micro_or_unknown,,,,,,,,,,,,,,,,,,,,,,,,,,2023-07,0.529
+14420,"Borger, TX",Micropolitan Statistical Area,TX,south,1,20938,20938,,,,,,,small,unknown,micro_proxy,,,,,,0,,,,,,micro_or_unknown,,,,,,,,,,,,,,,,,,,,,,,,,,2023-07,0.529
+14460,"Boston-Cambridge-Newton, MA-NH",Metropolitan Statistical Area,MA;NH,northeast,7,4873019,4873019,,,,,,,mega,unknown,large_metro_proxy,,,,,,1,,,,,,metro,,,,,,,,,,,,,,,,,,,,,,,,,,2023-07,0.529
+14500,"Boulder, CO",Metropolitan Statistical Area,CO,west,1,326196,326196,,,,,,,mega,unknown,medium_metro_proxy,,,,,,1,,,,,,metro,,,,,,,,,,,,,,,,,,,,,,,,,,2023-07,0.529
+14540,"Bowling Green, KY",Metropolitan Statistical Area,KY,south,4,179240,179240,,,,,,,very_large,unknown,small_metro_proxy,,,,,,1,,,,,,metro,,,,,,,,,,,,,,,,,,,,,,,,,,2023-07,0.529
+14580,"Bozeman, MT",Metropolitan Statistical Area,MT,west,1,114434,114434,,,,,,,very_large,unknown,small_metro_proxy,,,,,,1,,,,,,metro,,,,,,,,,,,,,,,,,,,,,,,,,,2023-07,0.529
+14620,"Bradford, PA",Micropolitan Statistical Area,PA,northeast,1,40625,40625,,,,,,,medium,unknown,micro_proxy,,,,,,0,,,,,,micro_or_unknown,,,,,,,,,,,,,,,,,,,,,,,,,,2023-07,0.529
+14660,"Brainerd, MN",Micropolitan Statistical Area,MN,midwest,2,94834,94834,,,,,,,large,unknown,micro_proxy,,,,,,0,,,,,,micro_or_unknown,,,,,,,,,,,,,,,,,,,,,,,,,,2023-07,0.529
+14700,"Branson, MO",Micropolitan Statistical Area,MO,midwest,1,55928,55928,,,,,,,medium,unknown,micro_proxy,,,,,,0,,,,,,micro_or_unknown,,,,,,,,,,,,,,,,,,,,,,,,,,2023-07,0.529
+14710,"Brattleboro, VT",Micropolitan Statistical Area,VT,northeast,1,42222,42222,,,,,,,medium,unknown,micro_proxy,,,,,,0,,,,,,micro_or_unknown,,,,,,,,,,,,,,,,,,,,,,,,,,2023-07,0.529
+14720,"Breckenridge, CO",Micropolitan Statistical Area,CO,west,2,39138,39138,,,,,,,medium,unknown,micro_proxy,,,,,,0,,,,,,micro_or_unknown,,,,,,,,,,,,,,,,,,,,,,,,,,2023-07,0.529
+14740,"Bremerton-Silverdale-Port Orchard, WA",Metropolitan Statistical Area,WA,west,1,271473,271473,,,,,,,mega,unknown,medium_metro_proxy,,,,,,1,,,,,,metro,,,,,,,,,,,,,,,,,,,,,,,,,,2023-07,0.529
+14780,"Brenham, TX",Micropolitan Statistical Area,TX,south,1,35882,35882,,,,,,,small,unknown,micro_proxy,,,,,,0,,,,,,micro_or_unknown,,,,,,,,,,,,,,,,,,,,,,,,,,2023-07,0.529
+14820,"Brevard, NC",Micropolitan Statistical Area,NC,south,1,34385,34385,,,,,,,small,unknown,micro_proxy,,,,,,0,,,,,,micro_or_unknown,,,,,,,,,,,,,,,,,,,,,,,,,,2023-07,0.529
+14860,"Bridgeport-Stamford-Danbury, CT",Metropolitan Statistical Area,CT,northeast,2,,,,,,,,,unknown,unknown,small_metro_proxy,,,,,,1,,,,,,metro,,,,,,,,,,,,,,,,,,,,,,,,,,2023-07,0.412
+14940,"Brigham City, UT-ID",Micropolitan Statistical Area,ID;UT,west,2,60577,60577,,,,,,,large,unknown,micro_proxy,,,,,,0,,,,,,micro_or_unknown,,,,,,,,,,,,,,,,,,,,,,,,,,2023-07,0.529
+15020,"Brookhaven, MS",Micropolitan Statistical Area,MS,south,1,34153,34153,,,,,,,small,unknown,micro_proxy,,,,,,0,,,,,,micro_or_unknown,,,,,,,,,,,,,,,,,,,,,,,,,,2023-07,0.529
+15060,"Brookings, OR",Micropolitan Statistical Area,OR,west,1,22925,22925,,,,,,,small,unknown,micro_proxy,,,,,,0,,,,,,micro_or_unknown,,,,,,,,,,,,,,,,,,,,,,,,,,2023-07,0.529
+15100,"Brookings, SD",Micropolitan Statistical Area,SD,midwest,1,35077,35077,,,,,,,small,unknown,micro_proxy,,,,,,0,,,,,,micro_or_unknown,,,,,,,,,,,,,,,,,,,,,,,,,,2023-07,0.529
+15180,"Brownsville-Harlingen, TX",Metropolitan Statistical Area,TX,south,1,423163,423163,,,,,,,mega,unknown,medium_metro_proxy,,,,,,1,,,,,,metro,,,,,,,,,,,,,,,,,,,,,,,,,,2023-07,0.529
+15220,"Brownwood, TX",Micropolitan Statistical Area,TX,south,1,37864,37864,,,,,,,medium,unknown,micro_proxy,,,,,,0,,,,,,micro_or_unknown,,,,,,,,,,,,,,,,,,,,,,,,,,2023-07,0.529
+15260,"Brunswick-St. Simons, GA",Metropolitan Statistical Area,GA,south,3,118779,118779,,,,,,,very_large,unknown,small_metro_proxy,,,,,,1,,,,,,metro,,,,,,,,,,,,,,,,,,,,,,,,,,2023-07,0.529
+15340,"Bucyrus, OH",Micropolitan Statistical Area,OH,midwest,1,41494,41494,,,,,,,medium,unknown,micro_proxy,,,,,,0,,,,,,micro_or_unknown,,,,,,,,,,,,,,,,,,,,,,,,,,2023-07,0.529
+15380,"Buffalo-Cheektowaga, NY",Metropolitan Statistical Area,NY,northeast,2,1127983,1127983,,,,,,,mega,unknown,large_metro_proxy,,,,,,1,,,,,,metro,,,,,,,,,,,,,,,,,,,,,,,,,,2023-07,0.529
+15420,"Burley, ID",Micropolitan Statistical Area,ID,west,2,45069,45069,,,,,,,medium,unknown,micro_proxy,,,,,,0,,,,,,micro_or_unknown,,,,,,,,,,,,,,,,,,,,,,,,,,2023-07,0.529
+15460,"Burlington, IA-IL",Micropolitan Statistical Area,IA;IL,midwest,2,45613,45613,,,,,,,medium,unknown,micro_proxy,,,,,,0,,,,,,micro_or_unknown,,,,,,,,,,,,,,,,,,,,,,,,,,2023-07,0.529
+15500,"Burlington, NC",Metropolitan Statistical Area,NC,south,1,169509,169509,,,,,,,very_large,unknown,small_metro_proxy,,,,,,1,,,,,,metro,,,,,,,,,,,,,,,,,,,,,,,,,,2023-07,0.529
+15540,"Burlington-South Burlington, VT",Metropolitan Statistical Area,VT,northeast,3,220411,220411,,,,,,,very_large,unknown,small_metro_proxy,,,,,,1,,,,,,metro,,,,,,,,,,,,,,,,,,,,,,,,,,2023-07,0.529
+15580,"Butte-Silver Bow, MT",Micropolitan Statistical Area,MT,west,1,34915,34915,,,,,,,small,unknown,micro_proxy,,,,,,0,,,,,,micro_or_unknown,,,,,,,,,,,,,,,,,,,,,,,,,,2023-07,0.529
+15620,"Cadillac, MI",Micropolitan Statistical Area,MI,midwest,2,48749,48749,,,,,,,medium,unknown,micro_proxy,,,,,,0,,,,,,micro_or_unknown,,,,,,,,,,,,,,,,,,,,,,,,,,2023-07,0.529
+15660,"Calhoun, GA",Micropolitan Statistical Area,GA,south,1,57963,57963,,,,,,,large,unknown,micro_proxy,,,,,,0,,,,,,micro_or_unknown,,,,,,,,,,,,,,,,,,,,,,,,,,2023-07,0.529
+15700,"Cambridge, MD",Micropolitan Statistical Area,MD,south,1,31929,31929,,,,,,,small,unknown,micro_proxy,,,,,,0,,,,,,micro_or_unknown,,,,,,,,,,,,,,,,,,,,,,,,,,2023-07,0.529
+15740,"Cambridge, OH",Micropolitan Statistical Area,OH,midwest,1,38875,38875,,,,,,,medium,unknown,micro_proxy,,,,,,0,,,,,,micro_or_unknown,,,,,,,,,,,,,,,,,,,,,,,,,,2023-07,0.529
+15780,"Camden, AR",Micropolitan Statistical Area,AR,south,2,28571,28571,,,,,,,small,unknown,micro_proxy,,,,,,0,,,,,,micro_or_unknown,,,,,,,,,,,,,,,,,,,,,,,,,,2023-07,0.529
+15820,"Campbellsville, KY",Micropolitan Statistical Area,KY,south,2,36710,36710,,,,,,,small,unknown,micro_proxy,,,,,,0,,,,,,micro_or_unknown,,,,,,,,,,,,,,,,,,,,,,,,,,2023-07,0.529
+15860,"Cañon City, CO",Micropolitan Statistical Area,CO,west,1,47839,47839,,,,,,,medium,unknown,micro_proxy,,,,,,0,,,,,,micro_or_unknown,,,,,,,,,,,,,,,,,,,,,,,,,,2023-07,0.529
+15900,"Canton, IL",Micropolitan Statistical Area,IL,midwest,1,34340,34340,,,,,,,small,unknown,micro_proxy,,,,,,0,,,,,,micro_or_unknown,,,,,,,,,,,,,,,,,,,,,,,,,,2023-07,0.529
+15940,"Canton-Massillon, OH",Metropolitan Statistical Area,OH,midwest,2,397520,397520,,,,,,,mega,unknown,medium_metro_proxy,,,,,,1,,,,,,metro,,,,,,,,,,,,,,,,,,,,,,,,,,2023-07,0.529
+15980,"Cape Coral-Fort Myers, FL",Metropolitan Statistical Area,FL,south,1,770577,770577,,,,,,,mega,unknown,medium_metro_proxy,,,,,,1,,,,,,metro,,,,,,,,,,,,,,,,,,,,,,,,,,2023-07,0.529
+16020,"Cape Girardeau, MO-IL",Metropolitan Statistical Area,IL;MO,midwest,3,96765,96765,,,,,,,large,unknown,small_metro_proxy,,,,,,1,,,,,,metro,,,,,,,,,,,,,,,,,,,,,,,,,,2023-07,0.529
+16060,"Carbondale, IL",Micropolitan Statistical Area,IL,midwest,1,56750,56750,,,,,,,medium,unknown,micro_proxy,,,,,,0,,,,,,micro_or_unknown,,,,,,,,,,,,,,,,,,,,,,,,,,2023-07,0.529
+16100,"Carlsbad-Artesia, NM",Micropolitan Statistical Area,NM,west,1,58460,58460,,,,,,,large,unknown,micro_proxy,,,,,,0,,,,,,micro_or_unknown,,,,,,,,,,,,,,,,,,,,,,,,,,2023-07,0.529
+16140,"Carroll, IA",Micropolitan Statistical Area,IA,midwest,1,20165,20165,,,,,,,small,unknown,micro_proxy,,,,,,0,,,,,,micro_or_unknown,,,,,,,,,,,,,,,,,,,,,,,,,,2023-07,0.529
+16180,"Carson City, NV",Metropolitan Statistical Area,NV,west,1,55916,55916,,,,,,,medium,unknown,small_metro_proxy,,,,,,1,,,,,,metro,,,,,,,,,,,,,,,,,,,,,,,,,,2023-07,0.529
+16220,"Casper, WY",Metropolitan Statistical Area,WY,west,1,79858,79858,,,,,,,large,unknown,small_metro_proxy,,,,,,1,,,,,,metro,,,,,,,,,,,,,,,,,,,,,,,,,,2023-07,0.529
+16260,"Cedar City, UT",Micropolitan Statistical Area,UT,west,1,54839,54839,,,,,,,medium,unknown,micro_proxy,,,,,,0,,,,,,micro_or_unknown,,,,,,,,,,,,,,,,,,,,,,,,,,2023-07,0.529
+16300,"Cedar Rapids, IA",Metropolitan Statistical Area,IA,midwest,3,273032,273032,,,,,,,mega,unknown,medium_metro_proxy,,,,,,1,,,,,,metro,,,,,,,,,,,,,,,,,,,,,,,,,,2023-07,0.529
+16340,"Cedartown, GA",Micropolitan Statistical Area,GA,south,1,42613,42613,,,,,,,medium,unknown,micro_proxy,,,,,,0,,,,,,micro_or_unknown,,,,,,,,,,,,,,,,,,,,,,,,,,2023-07,0.529
+16380,"Celina, OH",Micropolitan Statistical Area,OH,midwest,1,41172,41172,,,,,,,medium,unknown,micro_proxy,,,,,,0,,,,,,micro_or_unknown,,,,,,,,,,,,,,,,,,,,,,,,,,2023-07,0.529
+16460,"Centralia, IL",Micropolitan Statistical Area,IL,midwest,1,37205,37205,,,,,,,small,unknown,micro_proxy,,,,,,0,,,,,,micro_or_unknown,,,,,,,,,,,,,,,,,,,,,,,,,,2023-07,0.529
+16500,"Centralia, WA",Micropolitan Statistical Area,WA,west,1,80707,80707,,,,,,,large,unknown,micro_proxy,,,,,,0,,,,,,micro_or_unknown,,,,,,,,,,,,,,,,,,,,,,,,,,2023-07,0.529
+16540,"Chambersburg, PA",Metropolitan Statistical Area,PA,northeast,1,155027,155027,,,,,,,very_large,unknown,small_metro_proxy,,,,,,1,,,,,,metro,,,,,,,,,,,,,,,,,,,,,,,,,,2023-07,0.529
+16580,"Champaign-Urbana, IL",Metropolitan Statistical Area,IL,midwest,3,238994,238994,,,,,,,very_large,unknown,small_metro_proxy,,,,,,1,,,,,,metro,,,,,,,,,,,,,,,,,,,,,,,,,,2023-07,0.529
+16620,"Charleston, WV",Metropolitan Statistical Area,WV,south,3,208089,208089,,,,,,,very_large,unknown,small_metro_proxy,,,,,,1,,,,,,metro,,,,,,,,,,,,,,,,,,,,,,,,,,2023-07,0.529
+16660,"Charleston-Mattoon, IL",Micropolitan Statistical Area,IL,midwest,1,50621,50621,,,,,,,medium,unknown,micro_proxy,,,,,,0,,,,,,micro_or_unknown,,,,,,,,,,,,,,,,,,,,,,,,,,2023-07,0.529
+16700,"Charleston-North Charleston, SC",Metropolitan Statistical Area,SC,south,3,802122,802122,,,,,,,mega,unknown,medium_metro_proxy,,,,,,1,,,,,,metro,,,,,,,,,,,,,,,,,,,,,,,,,,2023-07,0.529
+16740,"Charlotte-Concord-Gastonia, NC-SC",Metropolitan Statistical Area,NC;SC,south,11,2636883,2636883,,,,,,,mega,unknown,large_metro_proxy,,,,,,1,,,,,,metro,,,,,,,,,,,,,,,,,,,,,,,,,,2023-07,0.529
+16820,"Charlottesville, VA",Metropolitan Statistical Area,VA,south,5,218615,218615,,,,,,,very_large,unknown,small_metro_proxy,,,,,,1,,,,,,metro,,,,,,,,,,,,,,,,,,,,,,,,,,2023-07,0.529
+16860,"Chattanooga, TN-GA",Metropolitan Statistical Area,GA;TN,south,6,565194,565194,,,,,,,mega,unknown,medium_metro_proxy,,,,,,1,,,,,,metro,,,,,,,,,,,,,,,,,,,,,,,,,,2023-07,0.529
+16940,"Cheyenne, WY",Metropolitan Statistical Area,WY,west,1,99500,99500,,,,,,,large,unknown,small_metro_proxy,,,,,,1,,,,,,metro,,,,,,,,,,,,,,,,,,,,,,,,,,2023-07,0.529
+16980,"Chicago-Naperville-Elgin, IL-IN",Metropolitan Statistical Area,IL;IN,midwest,13,9288978,9288978,,,,,,,mega,unknown,large_metro_proxy,,,,,,1,,,,,,metro,,,,,,,,,,,,,,,,,,,,,,,,,,2023-07,0.529
+17020,"Chico, CA",Metropolitan Statistical Area,CA,west,1,219186,219186,,,,,,,very_large,unknown,small_metro_proxy,,,,,,1,,,,,,metro,,,,,,,,,,,,,,,,,,,,,,,,,,2023-07,0.529
+17060,"Chillicothe, OH",Micropolitan Statistical Area,OH,midwest,1,76666,76666,,,,,,,large,unknown,micro_proxy,,,,,,0,,,,,,micro_or_unknown,,,,,,,,,,,,,,,,,,,,,,,,,,2023-07,0.529
+17140,"Cincinnati, OH-KY-IN",Metropolitan Statistical Area,IN;KY;OH,midwest,15,2214154,2214154,,,,,,,mega,unknown,large_metro_proxy,,,,,,1,,,,,,metro,,,,,,,,,,,,,,,,,,,,,,,,,,2023-07,0.529
+17220,"Clarksburg, WV",Micropolitan Statistical Area,WV,south,3,92399,92399,,,,,,,large,unknown,micro_proxy,,,,,,0,,,,,,micro_or_unknown,,,,,,,,,,,,,,,,,,,,,,,,,,2023-07,0.529
+17260,"Clarksdale, MS",Micropolitan Statistical Area,MS,south,1,22124,22124,,,,,,,small,unknown,micro_proxy,,,,,,0,,,,,,micro_or_unknown,,,,,,,,,,,,,,,,,,,,,,,,,,2023-07,0.529
+17300,"Clarksville, TN-KY",Metropolitan Statistical Area,KY;TN,south,4,307820,307820,,,,,,,mega,unknown,medium_metro_proxy,,,,,,1,,,,,,metro,,,,,,,,,,,,,,,,,,,,,,,,,,2023-07,0.529
+17340,"Clearlake, CA",Micropolitan Statistical Area,CA,west,1,64386,64386,,,,,,,large,unknown,micro_proxy,,,,,,0,,,,,,micro_or_unknown,,,,,,,,,,,,,,,,,,,,,,,,,,2023-07,0.529
+17380,"Cleveland, MS",Micropolitan Statistical Area,MS,south,1,30628,30628,,,,,,,small,unknown,micro_proxy,,,,,,0,,,,,,micro_or_unknown,,,,,,,,,,,,,,,,,,,,,,,,,,2023-07,0.529
+17410,"Cleveland, OH",Metropolitan Statistical Area,OH,midwest,6,2145690,2145690,,,,,,,mega,unknown,large_metro_proxy,,,,,,1,,,,,,metro,,,,,,,,,,,,,,,,,,,,,,,,,,2023-07,0.529
+17420,"Cleveland, TN",Metropolitan Statistical Area,TN,south,2,124942,124942,,,,,,,very_large,unknown,small_metro_proxy,,,,,,1,,,,,,metro,,,,,,,,,,,,,,,,,,,,,,,,,,2023-07,0.529
+17500,"Clewiston, FL",Micropolitan Statistical Area,FL,south,2,55833,55833,,,,,,,medium,unknown,micro_proxy,,,,,,0,,,,,,micro_or_unknown,,,,,,,,,,,,,,,,,,,,,,,,,,2023-07,0.529
+17540,"Clinton, IA",Micropolitan Statistical Area,IA,midwest,1,46429,46429,,,,,,,medium,unknown,micro_proxy,,,,,,0,,,,,,micro_or_unknown,,,,,,,,,,,,,,,,,,,,,,,,,,2023-07,0.529
+17580,"Clovis, NM",Micropolitan Statistical Area,NM,west,2,67454,67454,,,,,,,large,unknown,micro_proxy,,,,,,0,,,,,,micro_or_unknown,,,,,,,,,,,,,,,,,,,,,,,,,,2023-07,0.529
+17620,"Coamo, PR",Micropolitan Statistical Area,PR,unknown,2,,,,,,,,,unknown,unknown,micro_proxy,,,,,,0,,,,,,micro_or_unknown,,,,,,,,,,,,,,,,,,,,,,,,,,2023-07,0.412
+17640,"Coco, PR",Micropolitan Statistical Area,PR,unknown,1,,,,,,,,,unknown,unknown,micro_proxy,,,,,,0,,,,,,micro_or_unknown,,,,,,,,,,,,,,,,,,,,,,,,,,2023-07,0.412
+17650,"Cody, WY",Micropolitan Statistical Area,WY,west,1,29194,29194,,,,,,,small,unknown,micro_proxy,,,,,,0,,,,,,micro_or_unknown,,,,,,,,,,,,,,,,,,,,,,,,,,2023-07,0.529
+17660,"Coeur d'Alene, ID",Metropolitan Statistical Area,ID,west,1,165697,165697,,,,,,,very_large,unknown,small_metro_proxy,,,,,,1,,,,,,metro,,,,,,,,,,,,,,,,,,,,,,,,,,2023-07,0.529
+17740,"Coldwater, MI",Micropolitan Statistical Area,MI,midwest,1,43517,43517,,,,,,,medium,unknown,micro_proxy,,,,,,0,,,,,,micro_or_unknown,,,,,,,,,,,,,,,,,,,,,,,,,,2023-07,0.529
+17780,"College Station-Bryan, TX",Metropolitan Statistical Area,TX,south,3,264728,264728,,,,,,,mega,unknown,medium_metro_proxy,,,,,,1,,,,,,metro,,,,,,,,,,,,,,,,,,,,,,,,,,2023-07,0.529
+17820,"Colorado Springs, CO",Metropolitan Statistical Area,CO,west,2,745791,745791,,,,,,,mega,unknown,medium_metro_proxy,,,,,,1,,,,,,metro,,,,,,,,,,,,,,,,,,,,,,,,,,2023-07,0.529
+17860,"Columbia, MO",Metropolitan Statistical Area,MO,midwest,3,208173,208173,,,,,,,very_large,unknown,small_metro_proxy,,,,,,1,,,,,,metro,,,,,,,,,,,,,,,,,,,,,,,,,,2023-07,0.529
+17900,"Columbia, SC",Metropolitan Statistical Area,SC,south,6,838433,838433,,,,,,,mega,unknown,medium_metro_proxy,,,,,,1,,,,,,metro,,,,,,,,,,,,,,,,,,,,,,,,,,2023-07,0.529
+17980,"Columbus, GA-AL",Metropolitan Statistical Area,AL;GA,south,7,321048,321048,,,,,,,mega,unknown,medium_metro_proxy,,,,,,1,,,,,,metro,,,,,,,,,,,,,,,,,,,,,,,,,,2023-07,0.529
+18020,"Columbus, IN",Metropolitan Statistical Area,IN,midwest,1,83779,83779,,,,,,,large,unknown,small_metro_proxy,,,,,,1,,,,,,metro,,,,,,,,,,,,,,,,,,,,,,,,,,2023-07,0.529
+18060,"Columbus, MS",Micropolitan Statistical Area,MS,south,2,69012,69012,,,,,,,large,unknown,micro_proxy,,,,,,0,,,,,,micro_or_unknown,,,,,,,,,,,,,,,,,,,,,,,,,,2023-07,0.529
+18100,"Columbus, NE",Micropolitan Statistical Area,NE,midwest,2,44179,44179,,,,,,,medium,unknown,micro_proxy,,,,,,0,,,,,,micro_or_unknown,,,,,,,,,,,,,,,,,,,,,,,,,,2023-07,0.529
+18140,"Columbus, OH",Metropolitan Statistical Area,OH,midwest,10,2122271,2122271,,,,,,,mega,unknown,large_metro_proxy,,,,,,1,,,,,,metro,,,,,,,,,,,,,,,,,,,,,,,,,,2023-07,0.529
+18180,"Concord, NH",Micropolitan Statistical Area,NH,northeast,1,151391,151391,,,,,,,very_large,unknown,micro_proxy,,,,,,0,,,,,,micro_or_unknown,,,,,,,,,,,,,,,,,,,,,,,,,,2023-07,0.529
+18220,"Connersville, IN",Micropolitan Statistical Area,IN,midwest,1,23102,23102,,,,,,,small,unknown,micro_proxy,,,,,,0,,,,,,micro_or_unknown,,,,,,,,,,,,,,,,,,,,,,,,,,2023-07,0.529
+18260,"Cookeville, TN",Micropolitan Statistical Area,TN,south,4,141617,141617,,,,,,,very_large,unknown,micro_proxy,,,,,,0,,,,,,micro_or_unknown,,,,,,,,,,,,,,,,,,,,,,,,,,2023-07,0.529
+18300,"Coos Bay-North Bend, OR",Micropolitan Statistical Area,OR,west,1,64487,64487,,,,,,,large,unknown,micro_proxy,,,,,,0,,,,,,micro_or_unknown,,,,,,,,,,,,,,,,,,,,,,,,,,2023-07,0.529
+18340,"Corbin, KY",Micropolitan Statistical Area,KY,south,4,148123,148123,,,,,,,very_large,unknown,micro_proxy,,,,,,0,,,,,,micro_or_unknown,,,,,,,,,,,,,,,,,,,,,,,,,,2023-07,0.529
+18380,"Cordele, GA",Micropolitan Statistical Area,GA,south,1,22372,22372,,,,,,,small,unknown,micro_proxy,,,,,,0,,,,,,micro_or_unknown,,,,,,,,,,,,,,,,,,,,,,,,,,2023-07,0.529
+18420,"Corinth, MS",Micropolitan Statistical Area,MS,south,1,36953,36953,,,,,,,small,unknown,micro_proxy,,,,,,0,,,,,,micro_or_unknown,,,,,,,,,,,,,,,,,,,,,,,,,,2023-07,0.529
+18460,"Cornelia, GA",Micropolitan Statistical Area,GA,south,1,45328,45328,,,,,,,medium,unknown,micro_proxy,,,,,,0,,,,,,micro_or_unknown,,,,,,,,,,,,,,,,,,,,,,,,,,2023-07,0.529
+18500,"Corning, NY",Micropolitan Statistical Area,NY,northeast,1,95379,95379,,,,,,,large,unknown,micro_proxy,,,,,,0,,,,,,micro_or_unknown,,,,,,,,,,,,,,,,,,,,,,,,,,2023-07,0.529
+18580,"Corpus Christi, TX",Metropolitan Statistical Area,TX,south,3,452534,452534,,,,,,,mega,unknown,medium_metro_proxy,,,,,,1,,,,,,metro,,,,,,,,,,,,,,,,,,,,,,,,,,2023-07,0.529
+18620,"Corsicana, TX",Micropolitan Statistical Area,TX,south,1,50113,50113,,,,,,,medium,unknown,micro_proxy,,,,,,0,,,,,,micro_or_unknown,,,,,,,,,,,,,,,,,,,,,,,,,,2023-07,0.529
+18660,"Cortland, NY",Micropolitan Statistical Area,NY,northeast,1,47581,47581,,,,,,,medium,unknown,micro_proxy,,,,,,0,,,,,,micro_or_unknown,,,,,,,,,,,,,,,,,,,,,,,,,,2023-07,0.529
+18700,"Corvallis, OR",Metropolitan Statistical Area,OR,west,1,93053,93053,,,,,,,large,unknown,small_metro_proxy,,,,,,1,,,,,,metro,,,,,,,,,,,,,,,,,,,,,,,,,,2023-07,0.529
+18740,"Coshocton, OH",Micropolitan Statistical Area,OH,midwest,1,36600,36600,,,,,,,small,unknown,micro_proxy,,,,,,0,,,,,,micro_or_unknown,,,,,,,,,,,,,,,,,,,,,,,,,,2023-07,0.529
+18820,"Crawfordsville, IN",Micropolitan Statistical Area,IN,midwest,1,38338,38338,,,,,,,medium,unknown,micro_proxy,,,,,,0,,,,,,micro_or_unknown,,,,,,,,,,,,,,,,,,,,,,,,,,2023-07,0.529
+18860,"Crescent City, CA",Micropolitan Statistical Area,CA,west,1,27812,27812,,,,,,,small,unknown,micro_proxy,,,,,,0,,,,,,micro_or_unknown,,,,,,,,,,,,,,,,,,,,,,,,,,2023-07,0.529
+18880,"Crestview-Fort Walton Beach-Destin, FL",Metropolitan Statistical Area,FL,south,2,284809,284809,,,,,,,mega,unknown,medium_metro_proxy,,,,,,1,,,,,,metro,,,,,,,,,,,,,,,,,,,,,,,,,,2023-07,0.529
+18900,"Crossville, TN",Micropolitan Statistical Area,TN,south,1,60520,60520,,,,,,,large,unknown,micro_proxy,,,,,,0,,,,,,micro_or_unknown,,,,,,,,,,,,,,,,,,,,,,,,,,2023-07,0.529
+18980,"Cullman, AL",Micropolitan Statistical Area,AL,south,1,83768,83768,,,,,,,large,unknown,micro_proxy,,,,,,0,,,,,,micro_or_unknown,,,,,,,,,,,,,,,,,,,,,,,,,,2023-07,0.529
+19060,"Cumberland, MD-WV",Micropolitan Statistical Area,MD;WV,south,2,97284,97284,,,,,,,large,unknown,micro_proxy,,,,,,0,,,,,,micro_or_unknown,,,,,,,,,,,,,,,,,,,,,,,,,,2023-07,0.529
+19100,"Dallas-Fort Worth-Arlington, TX",Metropolitan Statistical Area,TX,south,11,7573136,7573136,,,,,,,mega,unknown,large_metro_proxy,,,,,,1,,,,,,metro,,,,,,,,,,,,,,,,,,,,,,,,,,2023-07,0.529
+19140,"Dalton, GA",Metropolitan Statistical Area,GA,south,2,144724,144724,,,,,,,very_large,unknown,small_metro_proxy,,,,,,1,,,,,,metro,,,,,,,,,,,,,,,,,,,,,,,,,,2023-07,0.529
+19180,"Danville, IL",Micropolitan Statistical Area,IL,midwest,1,75758,75758,,,,,,,large,unknown,micro_proxy,,,,,,0,,,,,,micro_or_unknown,,,,,,,,,,,,,,,,,,,,,,,,,,2023-07,0.529
+19220,"Danville, KY",Micropolitan Statistical Area,KY,south,2,54609,54609,,,,,,,medium,unknown,micro_proxy,,,,,,0,,,,,,micro_or_unknown,,,,,,,,,,,,,,,,,,,,,,,,,,2023-07,0.529
+19260,"Danville, VA",Micropolitan Statistical Area,VA,south,2,100398,100398,,,,,,,large,unknown,micro_proxy,,,,,,0,,,,,,micro_or_unknown,,,,,,,,,,,,,,,,,,,,,,,,,,2023-07,0.529
+19300,"Daphne-Fairhope-Foley, AL",Metropolitan Statistical Area,AL,south,1,223234,223234,,,,,,,very_large,unknown,small_metro_proxy,,,,,,1,,,,,,metro,,,,,,,,,,,,,,,,,,,,,,,,,,2023-07,0.529
+19340,"Davenport-Moline-Rock Island, IA-IL",Metropolitan Statistical Area,IA;IL,midwest,4,379172,379172,,,,,,,mega,unknown,medium_metro_proxy,,,,,,1,,,,,,metro,,,,,,,,,,,,,,,,,,,,,,,,,,2023-07,0.529
+19430,"Dayton-Kettering-Beavercreek, OH",Metropolitan Statistical Area,OH,midwest,3,807611,807611,,,,,,,mega,unknown,medium_metro_proxy,,,,,,1,,,,,,metro,,,,,,,,,,,,,,,,,,,,,,,,,,2023-07,0.529
+19460,"Decatur, AL",Metropolitan Statistical Area,AL,south,2,152603,152603,,,,,,,very_large,unknown,small_metro_proxy,,,,,,1,,,,,,metro,,,,,,,,,,,,,,,,,,,,,,,,,,2023-07,0.529
+19500,"Decatur, IL",Metropolitan Statistical Area,IL,midwest,1,104009,104009,,,,,,,large,unknown,small_metro_proxy,,,,,,1,,,,,,metro,,,,,,,,,,,,,,,,,,,,,,,,,,2023-07,0.529
+19540,"Decatur, IN",Micropolitan Statistical Area,IN,midwest,1,35777,35777,,,,,,,small,unknown,micro_proxy,,,,,,0,,,,,,micro_or_unknown,,,,,,,,,,,,,,,,,,,,,,,,,,2023-07,0.529
+19580,"Defiance, OH",Micropolitan Statistical Area,OH,midwest,1,38087,38087,,,,,,,medium,unknown,micro_proxy,,,,,,0,,,,,,micro_or_unknown,,,,,,,,,,,,,,,,,,,,,,,,,,2023-07,0.529
+19620,"Del Rio, TX",Micropolitan Statistical Area,TX,south,1,49025,49025,,,,,,,medium,unknown,micro_proxy,,,,,,0,,,,,,micro_or_unknown,,,,,,,,,,,,,,,,,,,,,,,,,,2023-07,0.529
+19660,"Deltona-Daytona Beach-Ormond Beach, FL",Metropolitan Statistical Area,FL,south,2,668365,668365,,,,,,,mega,unknown,medium_metro_proxy,,,,,,1,,,,,,metro,,,,,,,,,,,,,,,,,,,,,,,,,,2023-07,0.529
+19700,"Deming, NM",Micropolitan Statistical Area,NM,west,1,23709,23709,,,,,,,small,unknown,micro_proxy,,,,,,0,,,,,,micro_or_unknown,,,,,,,,,,,,,,,,,,,,,,,,,,2023-07,0.529
+19740,"Denver-Aurora-Centennial, CO",Metropolitan Statistical Area,CO,west,10,2967239,2967239,,,,,,,mega,unknown,large_metro_proxy,,,,,,1,,,,,,metro,,,,,,,,,,,,,,,,,,,,,,,,,,2023-07,0.529
+19760,"DeRidder, LA",Micropolitan Statistical Area,LA,south,1,37497,37497,,,,,,,medium,unknown,micro_proxy,,,,,,0,,,,,,micro_or_unknown,,,,,,,,,,,,,,,,,,,,,,,,,,2023-07,0.529
+19780,"Des Moines-West Des Moines, IA",Metropolitan Statistical Area,IA,midwest,6,699292,699292,,,,,,,mega,unknown,medium_metro_proxy,,,,,,1,,,,,,metro,,,,,,,,,,,,,,,,,,,,,,,,,,2023-07,0.529
+19810,"Detroit Lakes, MN",Micropolitan Statistical Area,MN,midwest,1,34423,34423,,,,,,,small,unknown,micro_proxy,,,,,,0,,,,,,micro_or_unknown,,,,,,,,,,,,,,,,,,,,,,,,,,2023-07,0.529
+19820,"Detroit-Warren-Dearborn, MI",Metropolitan Statistical Area,MI,midwest,6,4319629,4319629,,,,,,,mega,unknown,large_metro_proxy,,,,,,1,,,,,,metro,,,,,,,,,,,,,,,,,,,,,,,,,,2023-07,0.529
+19860,"Dickinson, ND",Micropolitan Statistical Area,ND,midwest,3,36841,36841,,,,,,,small,unknown,micro_proxy,,,,,,0,,,,,,micro_or_unknown,,,,,,,,,,,,,,,,,,,,,,,,,,2023-07,0.529
+19940,"Dixon, IL",Micropolitan Statistical Area,IL,midwest,1,34096,34096,,,,,,,small,unknown,micro_proxy,,,,,,0,,,,,,micro_or_unknown,,,,,,,,,,,,,,,,,,,,,,,,,,2023-07,0.529
+19980,"Dodge City, KS",Micropolitan Statistical Area,KS,midwest,1,33619,33619,,,,,,,small,unknown,micro_proxy,,,,,,0,,,,,,micro_or_unknown,,,,,,,,,,,,,,,,,,,,,,,,,,2023-07,0.529
+20020,"Dothan, AL",Metropolitan Statistical Area,AL,south,3,149358,149358,,,,,,,very_large,unknown,small_metro_proxy,,,,,,1,,,,,,metro,,,,,,,,,,,,,,,,,,,,,,,,,,2023-07,0.529
+20060,"Douglas, GA",Micropolitan Statistical Area,GA,south,2,51438,51438,,,,,,,medium,unknown,micro_proxy,,,,,,0,,,,,,micro_or_unknown,,,,,,,,,,,,,,,,,,,,,,,,,,2023-07,0.529
+20100,"Dover, DE",Metropolitan Statistical Area,DE,south,1,180786,180786,,,,,,,very_large,unknown,small_metro_proxy,,,,,,1,,,,,,metro,,,,,,,,,,,,,,,,,,,,,,,,,,2023-07,0.529
+20140,"Dublin, GA",Micropolitan Statistical Area,GA,south,2,57189,57189,,,,,,,large,unknown,micro_proxy,,,,,,0,,,,,,micro_or_unknown,,,,,,,,,,,,,,,,,,,,,,,,,,2023-07,0.529
+20180,"DuBois, PA",Micropolitan Statistical Area,PA,northeast,1,79255,79255,,,,,,,large,unknown,micro_proxy,,,,,,0,,,,,,micro_or_unknown,,,,,,,,,,,,,,,,,,,,,,,,,,2023-07,0.529
+20220,"Dubuque, IA",Metropolitan Statistical Area,IA,midwest,1,97311,97311,,,,,,,large,unknown,small_metro_proxy,,,,,,1,,,,,,metro,,,,,,,,,,,,,,,,,,,,,,,,,,2023-07,0.529
+20260,"Duluth, MN-WI",Metropolitan Statistical Area,MN;WI,midwest,3,278091,278091,,,,,,,mega,unknown,medium_metro_proxy,,,,,,1,,,,,,metro,,,,,,,,,,,,,,,,,,,,,,,,,,2023-07,0.529
+20300,"Dumas, TX",Micropolitan Statistical Area,TX,south,1,20940,20940,,,,,,,small,unknown,micro_proxy,,,,,,0,,,,,,micro_or_unknown,,,,,,,,,,,,,,,,,,,,,,,,,,2023-07,0.529
+20340,"Duncan, OK",Micropolitan Statistical Area,OK,south,1,43143,43143,,,,,,,medium,unknown,micro_proxy,,,,,,0,,,,,,micro_or_unknown,,,,,,,,,,,,,,,,,,,,,,,,,,2023-07,0.529
+20420,"Durango, CO",Micropolitan Statistical Area,CO,west,1,56221,56221,,,,,,,medium,unknown,micro_proxy,,,,,,0,,,,,,micro_or_unknown,,,,,,,,,,,,,,,,,,,,,,,,,,2023-07,0.529
+20460,"Durant, OK",Micropolitan Statistical Area,OK,south,1,47995,47995,,,,,,,medium,unknown,micro_proxy,,,,,,0,,,,,,micro_or_unknown,,,,,,,,,,,,,,,,,,,,,,,,,,2023-07,0.529
+20500,"Durham-Chapel Hill, NC",Metropolitan Statistical Area,NC,south,4,583924,583924,,,,,,,mega,unknown,medium_metro_proxy,,,,,,1,,,,,,metro,,,,,,,,,,,,,,,,,,,,,,,,,,2023-07,0.529
+20540,"Dyersburg, TN",Micropolitan Statistical Area,TN,south,1,37159,37159,,,,,,,small,unknown,micro_proxy,,,,,,0,,,,,,micro_or_unknown,,,,,,,,,,,,,,,,,,,,,,,,,,2023-07,0.529
+20580,"Eagle Pass, TX",Metropolitan Statistical Area,TX,south,1,58722,58722,,,,,,,large,unknown,small_metro_proxy,,,,,,1,,,,,,metro,,,,,,,,,,,,,,,,,,,,,,,,,,2023-07,0.529
+20660,"Easton, MD",Micropolitan Statistical Area,MD,south,1,37181,37181,,,,,,,small,unknown,micro_proxy,,,,,,0,,,,,,micro_or_unknown,,,,,,,,,,,,,,,,,,,,,,,,,,2023-07,0.529
+20700,"East Stroudsburg, PA",Micropolitan Statistical Area,PA,northeast,1,170271,170271,,,,,,,very_large,unknown,micro_proxy,,,,,,0,,,,,,micro_or_unknown,,,,,,,,,,,,,,,,,,,,,,,,,,2023-07,0.529
+20740,"Eau Claire, WI",Metropolitan Statistical Area,WI,midwest,2,169304,169304,,,,,,,very_large,unknown,small_metro_proxy,,,,,,1,,,,,,metro,,,,,,,,,,,,,,,,,,,,,,,,,,2023-07,0.529
+20780,"Edwards, CO",Micropolitan Statistical Area,CO,west,1,55127,55127,,,,,,,medium,unknown,micro_proxy,,,,,,0,,,,,,micro_or_unknown,,,,,,,,,,,,,,,,,,,,,,,,,,2023-07,0.529
+20820,"Effingham, IL",Micropolitan Statistical Area,IL,midwest,2,44774,44774,,,,,,,medium,unknown,micro_proxy,,,,,,0,,,,,,micro_or_unknown,,,,,,,,,,,,,,,,,,,,,,,,,,2023-07,0.529
+20900,"El Campo, TX",Micropolitan Statistical Area,TX,south,1,41556,41556,,,,,,,medium,unknown,micro_proxy,,,,,,0,,,,,,micro_or_unknown,,,,,,,,,,,,,,,,,,,,,,,,,,2023-07,0.529
+20940,"El Centro, CA",Metropolitan Statistical Area,CA,west,1,181215,181215,,,,,,,very_large,unknown,small_metro_proxy,,,,,,1,,,,,,metro,,,,,,,,,,,,,,,,,,,,,,,,,,2023-07,0.529
+20980,"El Dorado, AR",Micropolitan Statistical Area,AR,south,1,38682,38682,,,,,,,medium,unknown,micro_proxy,,,,,,0,,,,,,micro_or_unknown,,,,,,,,,,,,,,,,,,,,,,,,,,2023-07,0.529
+21020,"Elizabeth City, NC",Micropolitan Statistical Area,NC,south,1,39824,39824,,,,,,,medium,unknown,micro_proxy,,,,,,0,,,,,,micro_or_unknown,,,,,,,,,,,,,,,,,,,,,,,,,,2023-07,0.529
+21060,"Elizabethtown, KY",Metropolitan Statistical Area,KY,south,2,125356,125356,,,,,,,very_large,unknown,small_metro_proxy,,,,,,1,,,,,,metro,,,,,,,,,,,,,,,,,,,,,,,,,,2023-07,0.529
+21120,"Elk City, OK",Micropolitan Statistical Area,OK,south,1,21859,21859,,,,,,,small,unknown,micro_proxy,,,,,,0,,,,,,micro_or_unknown,,,,,,,,,,,,,,,,,,,,,,,,,,2023-07,0.529
+21140,"Elkhart-Goshen, IN",Metropolitan Statistical Area,IN,midwest,1,206341,206341,,,,,,,very_large,unknown,small_metro_proxy,,,,,,1,,,,,,metro,,,,,,,,,,,,,,,,,,,,,,,,,,2023-07,0.529
+21180,"Elkins, WV",Micropolitan Statistical Area,WV,south,1,28695,28695,,,,,,,small,unknown,micro_proxy,,,,,,0,,,,,,micro_or_unknown,,,,,,,,,,,,,,,,,,,,,,,,,,2023-07,0.529
+21220,"Elko, NV",Micropolitan Statistical Area,NV,west,2,54807,54807,,,,,,,medium,unknown,micro_proxy,,,,,,0,,,,,,micro_or_unknown,,,,,,,,,,,,,,,,,,,,,,,,,,2023-07,0.529
+21260,"Ellensburg, WA",Micropolitan Statistical Area,WA,west,1,47935,47935,,,,,,,medium,unknown,micro_proxy,,,,,,0,,,,,,micro_or_unknown,,,,,,,,,,,,,,,,,,,,,,,,,,2023-07,0.529
+21300,"Elmira, NY",Metropolitan Statistical Area,NY,northeast,1,83456,83456,,,,,,,large,unknown,small_metro_proxy,,,,,,1,,,,,,metro,,,,,,,,,,,,,,,,,,,,,,,,,,2023-07,0.529
+21340,"El Paso, TX",Metropolitan Statistical Area,TX,south,2,844124,844124,,,,,,,mega,unknown,medium_metro_proxy,,,,,,1,,,,,,metro,,,,,,,,,,,,,,,,,,,,,,,,,,2023-07,0.529
+21380,"Emporia, KS",Micropolitan Statistical Area,KS,midwest,2,35843,35843,,,,,,,small,unknown,micro_proxy,,,,,,0,,,,,,micro_or_unknown,,,,,,,,,,,,,,,,,,,,,,,,,,2023-07,0.529
+21420,"Enid, OK",Metropolitan Statistical Area,OK,south,1,61056,61056,,,,,,,large,unknown,small_metro_proxy,,,,,,1,,,,,,metro,,,,,,,,,,,,,,,,,,,,,,,,,,2023-07,0.529
+21460,"Enterprise, AL",Micropolitan Statistical Area,AL,south,1,52342,52342,,,,,,,medium,unknown,micro_proxy,,,,,,0,,,,,,micro_or_unknown,,,,,,,,,,,,,,,,,,,,,,,,,,2023-07,0.529
+21500,"Erie, PA",Metropolitan Statistical Area,PA,northeast,1,269728,269728,,,,,,,mega,unknown,medium_metro_proxy,,,,,,1,,,,,,metro,,,,,,,,,,,,,,,,,,,,,,,,,,2023-07,0.529
+21540,"Escanaba, MI",Micropolitan Statistical Area,MI,midwest,1,35784,35784,,,,,,,small,unknown,micro_proxy,,,,,,0,,,,,,micro_or_unknown,,,,,,,,,,,,,,,,,,,,,,,,,,2023-07,0.529
+21580,"Española, NM",Micropolitan Statistical Area,NM,west,1,38921,38921,,,,,,,medium,unknown,micro_proxy,,,,,,0,,,,,,micro_or_unknown,,,,,,,,,,,,,,,,,,,,,,,,,,2023-07,0.529
+21640,"Eufaula, AL-GA",Micropolitan Statistical Area,AL;GA,south,2,26985,26985,,,,,,,small,unknown,micro_proxy,,,,,,0,,,,,,micro_or_unknown,,,,,,,,,,,,,,,,,,,,,,,,,,2023-07,0.529
+21660,"Eugene-Springfield, OR",Metropolitan Statistical Area,OR,west,1,382067,382067,,,,,,,mega,unknown,medium_metro_proxy,,,,,,1,,,,,,metro,,,,,,,,,,,,,,,,,,,,,,,,,,2023-07,0.529
+21700,"Eureka-Arcata, CA",Micropolitan Statistical Area,CA,west,1,135558,135558,,,,,,,very_large,unknown,micro_proxy,,,,,,0,,,,,,micro_or_unknown,,,,,,,,,,,,,,,,,,,,,,,,,,2023-07,0.529
+21740,"Evanston, WY-UT",Micropolitan Statistical Area,UT;WY,west,2,22709,22709,,,,,,,small,unknown,micro_proxy,,,,,,0,,,,,,micro_or_unknown,,,,,,,,,,,,,,,,,,,,,,,,,,2023-07,0.529
+21780,"Evansville, IN",Metropolitan Statistical Area,IN,midwest,3,269876,269876,,,,,,,mega,unknown,medium_metro_proxy,,,,,,1,,,,,,metro,,,,,,,,,,,,,,,,,,,,,,,,,,2023-07,0.529
+21820,"Fairbanks-College, AK",Metropolitan Statistical Area,AK,west,1,96849,96849,,,,,,,large,unknown,small_metro_proxy,,,,,,1,,,,,,metro,,,,,,,,,,,,,,,,,,,,,,,,,,2023-07,0.529
+21860,"Fairmont, MN",Micropolitan Statistical Area,MN,midwest,1,19683,19683,,,,,,,small,unknown,micro_proxy,,,,,,0,,,,,,micro_or_unknown,,,,,,,,,,,,,,,,,,,,,,,,,,2023-07,0.529
+21900,"Fairmont, WV",Micropolitan Statistical Area,WV,south,1,56072,56072,,,,,,,medium,unknown,micro_proxy,,,,,,0,,,,,,micro_or_unknown,,,,,,,,,,,,,,,,,,,,,,,,,,2023-07,0.529
+21980,"Fallon, NV",Micropolitan Statistical Area,NV,west,1,24909,24909,,,,,,,small,unknown,micro_proxy,,,,,,0,,,,,,micro_or_unknown,,,,,,,,,,,,,,,,,,,,,,,,,,2023-07,0.529
+22020,"Fargo, ND-MN",Metropolitan Statistical Area,MN;ND,midwest,2,246145,246145,,,,,,,very_large,unknown,small_metro_proxy,,,,,,1,,,,,,metro,,,,,,,,,,,,,,,,,,,,,,,,,,2023-07,0.529
+22060,"Faribault-Northfield, MN",Micropolitan Statistical Area,MN,midwest,1,66972,66972,,,,,,,large,unknown,micro_proxy,,,,,,0,,,,,,micro_or_unknown,,,,,,,,,,,,,,,,,,,,,,,,,,2023-07,0.529
+22100,"Farmington, MO",Micropolitan Statistical Area,MO,midwest,1,67215,67215,,,,,,,large,unknown,micro_proxy,,,,,,0,,,,,,micro_or_unknown,,,,,,,,,,,,,,,,,,,,,,,,,,2023-07,0.529
+22140,"Farmington, NM",Metropolitan Statistical Area,NM,west,1,123958,123958,,,,,,,very_large,unknown,small_metro_proxy,,,,,,1,,,,,,metro,,,,,,,,,,,,,,,,,,,,,,,,,,2023-07,0.529
+22180,"Fayetteville, NC",Metropolitan Statistical Area,NC,south,2,390743,390743,,,,,,,mega,unknown,medium_metro_proxy,,,,,,1,,,,,,metro,,,,,,,,,,,,,,,,,,,,,,,,,,2023-07,0.529
+22190,"Fayetteville, TN",Micropolitan Statistical Area,TN,south,1,34366,34366,,,,,,,small,unknown,micro_proxy,,,,,,0,,,,,,micro_or_unknown,,,,,,,,,,,,,,,,,,,,,,,,,,2023-07,0.529
+22220,"Fayetteville-Springdale-Rogers, AR",Metropolitan Statistical Area,AR,south,3,534904,534904,,,,,,,mega,unknown,medium_metro_proxy,,,,,,1,,,,,,metro,,,,,,,,,,,,,,,,,,,,,,,,,,2023-07,0.529
+22260,"Fergus Falls, MN",Micropolitan Statistical Area,MN,midwest,1,58746,58746,,,,,,,large,unknown,micro_proxy,,,,,,0,,,,,,micro_or_unknown,,,,,,,,,,,,,,,,,,,,,,,,,,2023-07,0.529
+22300,"Findlay, OH",Micropolitan Statistical Area,OH,midwest,1,75783,75783,,,,,,,large,unknown,micro_proxy,,,,,,0,,,,,,micro_or_unknown,,,,,,,,,,,,,,,,,,,,,,,,,,2023-07,0.529
+22340,"Fitzgerald, GA",Micropolitan Statistical Area,GA,south,1,16700,16700,,,,,,,small,unknown,micro_proxy,,,,,,0,,,,,,micro_or_unknown,,,,,,,,,,,,,,,,,,,,,,,,,,2023-07,0.529
+22380,"Flagstaff, AZ",Metropolitan Statistical Area,AZ,west,1,143476,143476,,,,,,,very_large,unknown,small_metro_proxy,,,,,,1,,,,,,metro,,,,,,,,,,,,,,,,,,,,,,,,,,2023-07,0.529
+22420,"Flint, MI",Metropolitan Statistical Area,MI,midwest,1,405813,405813,,,,,,,mega,unknown,medium_metro_proxy,,,,,,1,,,,,,metro,,,,,,,,,,,,,,,,,,,,,,,,,,2023-07,0.529
+22500,"Florence, SC",Metropolitan Statistical Area,SC,south,2,204911,204911,,,,,,,very_large,unknown,small_metro_proxy,,,,,,1,,,,,,metro,,,,,,,,,,,,,,,,,,,,,,,,,,2023-07,0.529
+22520,"Florence-Muscle Shoals, AL",Metropolitan Statistical Area,AL,south,2,147970,147970,,,,,,,very_large,unknown,small_metro_proxy,,,,,,1,,,,,,metro,,,,,,,,,,,,,,,,,,,,,,,,,,2023-07,0.529
+22540,"Fond du Lac, WI",Metropolitan Statistical Area,WI,midwest,1,103403,103403,,,,,,,large,unknown,small_metro_proxy,,,,,,1,,,,,,metro,,,,,,,,,,,,,,,,,,,,,,,,,,2023-07,0.529
+22580,"Forest City, NC",Micropolitan Statistical Area,NC,south,1,67029,67029,,,,,,,large,unknown,micro_proxy,,,,,,0,,,,,,micro_or_unknown,,,,,,,,,,,,,,,,,,,,,,,,,,2023-07,0.529
+22620,"Forrest City, AR",Micropolitan Statistical Area,AR,south,1,24994,24994,,,,,,,small,unknown,micro_proxy,,,,,,0,,,,,,micro_or_unknown,,,,,,,,,,,,,,,,,,,,,,,,,,2023-07,0.529
+22660,"Fort Collins-Loveland, CO",Metropolitan Statistical Area,CO,west,1,356899,356899,,,,,,,mega,unknown,medium_metro_proxy,,,,,,1,,,,,,metro,,,,,,,,,,,,,,,,,,,,,,,,,,2023-07,0.529
+22700,"Fort Dodge, IA",Micropolitan Statistical Area,IA,midwest,1,35904,35904,,,,,,,small,unknown,micro_proxy,,,,,,0,,,,,,micro_or_unknown,,,,,,,,,,,,,,,,,,,,,,,,,,2023-07,0.529
+22780,"Fort Leonard Wood, MO",Micropolitan Statistical Area,MO,midwest,1,52607,52607,,,,,,,medium,unknown,micro_proxy,,,,,,0,,,,,,micro_or_unknown,,,,,,,,,,,,,,,,,,,,,,,,,,2023-07,0.529
+22800,"Fort Madison, IA",Micropolitan Statistical Area,IA,midwest,1,33657,33657,,,,,,,small,unknown,micro_proxy,,,,,,0,,,,,,micro_or_unknown,,,,,,,,,,,,,,,,,,,,,,,,,,2023-07,0.529
+22820,"Fort Morgan, CO",Micropolitan Statistical Area,CO,west,1,29068,29068,,,,,,,small,unknown,micro_proxy,,,,,,0,,,,,,micro_or_unknown,,,,,,,,,,,,,,,,,,,,,,,,,,2023-07,0.529
+22840,"Fort Payne, AL",Micropolitan Statistical Area,AL,south,1,71513,71513,,,,,,,large,unknown,micro_proxy,,,,,,0,,,,,,micro_or_unknown,,,,,,,,,,,,,,,,,,,,,,,,,,2023-07,0.529
+22900,"Fort Smith, AR-OK",Metropolitan Statistical Area,AR;OK,south,3,232653,232653,,,,,,,very_large,unknown,small_metro_proxy,,,,,,1,,,,,,metro,,,,,,,,,,,,,,,,,,,,,,,,,,2023-07,0.529
+23060,"Fort Wayne, IN",Metropolitan Statistical Area,IN,midwest,3,441559,441559,,,,,,,mega,unknown,medium_metro_proxy,,,,,,1,,,,,,metro,,,,,,,,,,,,,,,,,,,,,,,,,,2023-07,0.529
+23140,"Frankfort, IN",Micropolitan Statistical Area,IN,midwest,1,32399,32399,,,,,,,small,unknown,micro_proxy,,,,,,0,,,,,,micro_or_unknown,,,,,,,,,,,,,,,,,,,,,,,,,,2023-07,0.529
+23180,"Frankfort, KY",Micropolitan Statistical Area,KY,south,2,73738,73738,,,,,,,large,unknown,micro_proxy,,,,,,0,,,,,,micro_or_unknown,,,,,,,,,,,,,,,,,,,,,,,,,,2023-07,0.529
+23190,"Franklin, KY",Micropolitan Statistical Area,KY,south,1,18572,18572,,,,,,,small,unknown,micro_proxy,,,,,,0,,,,,,micro_or_unknown,,,,,,,,,,,,,,,,,,,,,,,,,,2023-07,0.529
+23240,"Fredericksburg, TX",Micropolitan Statistical Area,TX,south,1,26988,26988,,,,,,,small,unknown,micro_proxy,,,,,,0,,,,,,micro_or_unknown,,,,,,,,,,,,,,,,,,,,,,,,,,2023-07,0.529
+23300,"Freeport, IL",Micropolitan Statistical Area,IL,midwest,1,44498,44498,,,,,,,medium,unknown,micro_proxy,,,,,,0,,,,,,micro_or_unknown,,,,,,,,,,,,,,,,,,,,,,,,,,2023-07,0.529
+23340,"Fremont, NE",Micropolitan Statistical Area,NE,midwest,1,36565,36565,,,,,,,small,unknown,micro_proxy,,,,,,0,,,,,,micro_or_unknown,,,,,,,,,,,,,,,,,,,,,,,,,,2023-07,0.529
+23380,"Fremont, OH",Micropolitan Statistical Area,OH,midwest,1,58518,58518,,,,,,,large,unknown,micro_proxy,,,,,,0,,,,,,micro_or_unknown,,,,,,,,,,,,,,,,,,,,,,,,,,2023-07,0.529
+23420,"Fresno, CA",Metropolitan Statistical Area,CA,west,2,1156428,1156428,,,,,,,mega,unknown,large_metro_proxy,,,,,,1,,,,,,metro,,,,,,,,,,,,,,,,,,,,,,,,,,2023-07,0.529
+23460,"Gadsden, AL",Metropolitan Statistical Area,AL,south,1,102268,102268,,,,,,,large,unknown,small_metro_proxy,,,,,,1,,,,,,metro,,,,,,,,,,,,,,,,,,,,,,,,,,2023-07,0.529
+23500,"Gaffney, SC",Micropolitan Statistical Area,SC,south,1,57300,57300,,,,,,,large,unknown,micro_proxy,,,,,,0,,,,,,micro_or_unknown,,,,,,,,,,,,,,,,,,,,,,,,,,2023-07,0.529
+23540,"Gainesville, FL",Metropolitan Statistical Area,FL,south,3,329128,329128,,,,,,,mega,unknown,medium_metro_proxy,,,,,,1,,,,,,metro,,,,,,,,,,,,,,,,,,,,,,,,,,2023-07,0.529
+23580,"Gainesville, GA",Metropolitan Statistical Area,GA,south,1,204441,204441,,,,,,,very_large,unknown,small_metro_proxy,,,,,,1,,,,,,metro,,,,,,,,,,,,,,,,,,,,,,,,,,2023-07,0.529
+23620,"Gainesville, TX",Micropolitan Statistical Area,TX,south,1,41257,41257,,,,,,,medium,unknown,micro_proxy,,,,,,0,,,,,,micro_or_unknown,,,,,,,,,,,,,,,,,,,,,,,,,,2023-07,0.529
+23660,"Galesburg, IL",Micropolitan Statistical Area,IL,midwest,1,49699,49699,,,,,,,medium,unknown,micro_proxy,,,,,,0,,,,,,micro_or_unknown,,,,,,,,,,,,,,,,,,,,,,,,,,2023-07,0.529
+23680,"Gallipolis, OH",Micropolitan Statistical Area,OH,midwest,1,29898,29898,,,,,,,small,unknown,micro_proxy,,,,,,0,,,,,,micro_or_unknown,,,,,,,,,,,,,,,,,,,,,,,,,,2023-07,0.529
+23700,"Gallup, NM",Micropolitan Statistical Area,NM,west,1,71367,71367,,,,,,,large,unknown,micro_proxy,,,,,,0,,,,,,micro_or_unknown,,,,,,,,,,,,,,,,,,,,,,,,,,2023-07,0.529
+23780,"Garden City, KS",Micropolitan Statistical Area,KS,midwest,1,36467,36467,,,,,,,small,unknown,micro_proxy,,,,,,0,,,,,,micro_or_unknown,,,,,,,,,,,,,,,,,,,,,,,,,,2023-07,0.529
+23820,"Gardnerville Ranchos, NV-CA",Micropolitan Statistical Area,CA;NV,west,2,50034,50034,,,,,,,medium,unknown,micro_proxy,,,,,,0,,,,,,micro_or_unknown,,,,,,,,,,,,,,,,,,,,,,,,,,2023-07,0.529
+23900,"Gettysburg, PA",Metropolitan Statistical Area,PA,northeast,1,103009,103009,,,,,,,large,unknown,small_metro_proxy,,,,,,1,,,,,,metro,,,,,,,,,,,,,,,,,,,,,,,,,,2023-07,0.529
+23940,"Gillette, WY",Micropolitan Statistical Area,WY,west,1,46341,46341,,,,,,,medium,unknown,micro_proxy,,,,,,0,,,,,,micro_or_unknown,,,,,,,,,,,,,,,,,,,,,,,,,,2023-07,0.529
+23980,"Glasgow, KY",Micropolitan Statistical Area,KY,south,2,54320,54320,,,,,,,medium,unknown,micro_proxy,,,,,,0,,,,,,micro_or_unknown,,,,,,,,,,,,,,,,,,,,,,,,,,2023-07,0.529
+24020,"Glens Falls, NY",Metropolitan Statistical Area,NY,northeast,2,125148,125148,,,,,,,very_large,unknown,small_metro_proxy,,,,,,1,,,,,,metro,,,,,,,,,,,,,,,,,,,,,,,,,,2023-07,0.529
+24100,"Gloversville, NY",Micropolitan Statistical Area,NY,northeast,1,53383,53383,,,,,,,medium,unknown,micro_proxy,,,,,,0,,,,,,micro_or_unknown,,,,,,,,,,,,,,,,,,,,,,,,,,2023-07,0.529
+24140,"Goldsboro, NC",Metropolitan Statistical Area,NC,south,1,123131,123131,,,,,,,very_large,unknown,small_metro_proxy,,,,,,1,,,,,,metro,,,,,,,,,,,,,,,,,,,,,,,,,,2023-07,0.529
+24180,"Granbury, TX",Micropolitan Statistical Area,TX,south,1,61643,61643,,,,,,,large,unknown,micro_proxy,,,,,,0,,,,,,micro_or_unknown,,,,,,,,,,,,,,,,,,,,,,,,,,2023-07,0.529
+24220,"Grand Forks, ND-MN",Metropolitan Statistical Area,MN;ND,midwest,2,100815,100815,,,,,,,large,unknown,small_metro_proxy,,,,,,1,,,,,,metro,,,,,,,,,,,,,,,,,,,,,,,,,,2023-07,0.529
+24260,"Grand Island, NE",Metropolitan Statistical Area,NE,midwest,3,75553,75553,,,,,,,large,unknown,small_metro_proxy,,,,,,1,,,,,,metro,,,,,,,,,,,,,,,,,,,,,,,,,,2023-07,0.529
+24300,"Grand Junction, CO",Metropolitan Statistical Area,CO,west,1,154210,154210,,,,,,,very_large,unknown,small_metro_proxy,,,,,,1,,,,,,metro,,,,,,,,,,,,,,,,,,,,,,,,,,2023-07,0.529
+24330,"Grand Rapids, MN",Micropolitan Statistical Area,MN,midwest,1,45130,45130,,,,,,,medium,unknown,micro_proxy,,,,,,0,,,,,,micro_or_unknown,,,,,,,,,,,,,,,,,,,,,,,,,,2023-07,0.529
+24340,"Grand Rapids-Wyoming-Kentwood, MI",Metropolitan Statistical Area,MI,midwest,5,1138920,1138920,,,,,,,mega,unknown,large_metro_proxy,,,,,,1,,,,,,metro,,,,,,,,,,,,,,,,,,,,,,,,,,2023-07,0.529
+24420,"Grants Pass, OR",Metropolitan Statistical Area,OR,west,1,87487,87487,,,,,,,large,unknown,small_metro_proxy,,,,,,1,,,,,,metro,,,,,,,,,,,,,,,,,,,,,,,,,,2023-07,0.529
+24460,"Great Bend, KS",Micropolitan Statistical Area,KS,midwest,1,25779,25779,,,,,,,small,unknown,micro_proxy,,,,,,0,,,,,,micro_or_unknown,,,,,,,,,,,,,,,,,,,,,,,,,,2023-07,0.529
+24500,"Great Falls, MT",Metropolitan Statistical Area,MT,west,1,81366,81366,,,,,,,large,unknown,small_metro_proxy,,,,,,1,,,,,,metro,,,,,,,,,,,,,,,,,,,,,,,,,,2023-07,0.529
+24540,"Greeley, CO",Metropolitan Statistical Area,CO,west,1,324492,324492,,,,,,,mega,unknown,medium_metro_proxy,,,,,,1,,,,,,metro,,,,,,,,,,,,,,,,,,,,,,,,,,2023-07,0.529
+24580,"Green Bay, WI",Metropolitan Statistical Area,WI,midwest,3,322906,322906,,,,,,,mega,unknown,medium_metro_proxy,,,,,,1,,,,,,metro,,,,,,,,,,,,,,,,,,,,,,,,,,2023-07,0.529
+24600,"Greencastle, IN",Micropolitan Statistical Area,IN,midwest,1,37576,37576,,,,,,,medium,unknown,micro_proxy,,,,,,0,,,,,,micro_or_unknown,,,,,,,,,,,,,,,,,,,,,,,,,,2023-07,0.529
+24620,"Greeneville, TN",Micropolitan Statistical Area,TN,south,1,69069,69069,,,,,,,large,unknown,micro_proxy,,,,,,0,,,,,,micro_or_unknown,,,,,,,,,,,,,,,,,,,,,,,,,,2023-07,0.529
+24640,"Greenfield, MA",Micropolitan Statistical Area,MA,northeast,1,70180,70180,,,,,,,large,unknown,micro_proxy,,,,,,0,,,,,,micro_or_unknown,,,,,,,,,,,,,,,,,,,,,,,,,,2023-07,0.529
+24660,"Greensboro-High Point, NC",Metropolitan Statistical Area,NC,south,3,771851,771851,,,,,,,mega,unknown,medium_metro_proxy,,,,,,1,,,,,,metro,,,,,,,,,,,,,,,,,,,,,,,,,,2023-07,0.529
+24700,"Greensburg, IN",Micropolitan Statistical Area,IN,midwest,1,26559,26559,,,,,,,small,unknown,micro_proxy,,,,,,0,,,,,,micro_or_unknown,,,,,,,,,,,,,,,,,,,,,,,,,,2023-07,0.529
+24740,"Greenville, MS",Micropolitan Statistical Area,MS,south,1,43909,43909,,,,,,,medium,unknown,micro_proxy,,,,,,0,,,,,,micro_or_unknown,,,,,,,,,,,,,,,,,,,,,,,,,,2023-07,0.529
+24780,"Greenville, NC",Metropolitan Statistical Area,NC,south,1,180742,180742,,,,,,,very_large,unknown,small_metro_proxy,,,,,,1,,,,,,metro,,,,,,,,,,,,,,,,,,,,,,,,,,2023-07,0.529
+24820,"Greenville, OH",Micropolitan Statistical Area,OH,midwest,1,51113,51113,,,,,,,medium,unknown,micro_proxy,,,,,,0,,,,,,micro_or_unknown,,,,,,,,,,,,,,,,,,,,,,,,,,2023-07,0.529
+24860,"Greenville-Anderson-Greer, SC",Metropolitan Statistical Area,SC,south,4,920477,920477,,,,,,,mega,unknown,medium_metro_proxy,,,,,,1,,,,,,metro,,,,,,,,,,,,,,,,,,,,,,,,,,2023-07,0.529
+24900,"Greenwood, MS",Micropolitan Statistical Area,MS,south,2,38130,38130,,,,,,,medium,unknown,micro_proxy,,,,,,0,,,,,,micro_or_unknown,,,,,,,,,,,,,,,,,,,,,,,,,,2023-07,0.529
+24940,"Greenwood, SC",Micropolitan Statistical Area,SC,south,2,95338,95338,,,,,,,large,unknown,micro_proxy,,,,,,0,,,,,,micro_or_unknown,,,,,,,,,,,,,,,,,,,,,,,,,,2023-07,0.529
+24980,"Grenada, MS",Micropolitan Statistical Area,MS,south,2,30533,30533,,,,,,,small,unknown,micro_proxy,,,,,,0,,,,,,micro_or_unknown,,,,,,,,,,,,,,,,,,,,,,,,,,2023-07,0.529
+25020,"Guayama, PR",Metropolitan Statistical Area,PR,unknown,3,,,,,,,,,unknown,unknown,small_metro_proxy,,,,,,1,,,,,,metro,,,,,,,,,,,,,,,,,,,,,,,,,,2023-07,0.412
+25060,"Gulfport-Biloxi, MS",Metropolitan Statistical Area,MS,south,4,417665,417665,,,,,,,mega,unknown,medium_metro_proxy,,,,,,1,,,,,,metro,,,,,,,,,,,,,,,,,,,,,,,,,,2023-07,0.529
+25100,"Guymon, OK",Micropolitan Statistical Area,OK,south,1,19983,19983,,,,,,,small,unknown,micro_proxy,,,,,,0,,,,,,micro_or_unknown,,,,,,,,,,,,,,,,,,,,,,,,,,2023-07,0.529
+25180,"Hagerstown-Martinsburg, MD-WV",Metropolitan Statistical Area,MD;WV,south,3,288104,288104,,,,,,,mega,unknown,medium_metro_proxy,,,,,,1,,,,,,metro,,,,,,,,,,,,,,,,,,,,,,,,,,2023-07,0.529
+25200,"Hailey, ID",Micropolitan Statistical Area,ID,west,3,29493,29493,,,,,,,small,unknown,micro_proxy,,,,,,0,,,,,,micro_or_unknown,,,,,,,,,,,,,,,,,,,,,,,,,,2023-07,0.529
+25220,"Hammond, LA",Metropolitan Statistical Area,LA,south,1,134758,134758,,,,,,,very_large,unknown,small_metro_proxy,,,,,,1,,,,,,metro,,,,,,,,,,,,,,,,,,,,,,,,,,2023-07,0.529
+25260,"Hanford-Corcoran, CA",Metropolitan Statistical Area,CA,west,1,152940,152940,,,,,,,very_large,unknown,small_metro_proxy,,,,,,1,,,,,,metro,,,,,,,,,,,,,,,,,,,,,,,,,,2023-07,0.529
+25300,"Hannibal, MO",Micropolitan Statistical Area,MO,midwest,2,38839,38839,,,,,,,medium,unknown,micro_proxy,,,,,,0,,,,,,micro_or_unknown,,,,,,,,,,,,,,,,,,,,,,,,,,2023-07,0.529
+25420,"Harrisburg-Carlisle, PA",Metropolitan Statistical Area,PA,northeast,3,577941,577941,,,,,,,mega,unknown,medium_metro_proxy,,,,,,1,,,,,,metro,,,,,,,,,,,,,,,,,,,,,,,,,,2023-07,0.529
+25460,"Harrison, AR",Micropolitan Statistical Area,AR,south,2,45185,45185,,,,,,,medium,unknown,micro_proxy,,,,,,0,,,,,,micro_or_unknown,,,,,,,,,,,,,,,,,,,,,,,,,,2023-07,0.529
+25500,"Harrisonburg, VA",Metropolitan Statistical Area,VA,south,2,134964,134964,,,,,,,very_large,unknown,small_metro_proxy,,,,,,1,,,,,,metro,,,,,,,,,,,,,,,,,,,,,,,,,,2023-07,0.529
+25540,"Hartford-West Hartford-East Hartford, CT",Metropolitan Statistical Area,CT,northeast,2,,,,,,,,,unknown,unknown,small_metro_proxy,,,,,,1,,,,,,metro,,,,,,,,,,,,,,,,,,,,,,,,,,2023-07,0.412
+25580,"Hastings, NE",Micropolitan Statistical Area,NE,midwest,3,41053,41053,,,,,,,medium,unknown,micro_proxy,,,,,,0,,,,,,micro_or_unknown,,,,,,,,,,,,,,,,,,,,,,,,,,2023-07,0.529
+25620,"Hattiesburg, MS",Metropolitan Statistical Area,MS,south,3,150213,150213,,,,,,,very_large,unknown,small_metro_proxy,,,,,,1,,,,,,metro,,,,,,,,,,,,,,,,,,,,,,,,,,2023-07,0.529
+25700,"Hays, KS",Micropolitan Statistical Area,KS,midwest,1,28553,28553,,,,,,,small,unknown,micro_proxy,,,,,,0,,,,,,micro_or_unknown,,,,,,,,,,,,,,,,,,,,,,,,,,2023-07,0.529
+25720,"Heber, UT",Micropolitan Statistical Area,UT,west,2,76236,76236,,,,,,,large,unknown,micro_proxy,,,,,,0,,,,,,micro_or_unknown,,,,,,,,,,,,,,,,,,,,,,,,,,2023-07,0.529
+25740,"Helena, MT",Metropolitan Statistical Area,MT,west,3,87890,87890,,,,,,,large,unknown,small_metro_proxy,,,,,,1,,,,,,metro,,,,,,,,,,,,,,,,,,,,,,,,,,2023-07,0.529
+25770,"Hemlock Farms, PA",Micropolitan Statistical Area,PA,northeast,1,55809,55809,,,,,,,medium,unknown,micro_proxy,,,,,,0,,,,,,micro_or_unknown,,,,,,,,,,,,,,,,,,,,,,,,,,2023-07,0.529
+25775,"Henderson, KY",Micropolitan Statistical Area,KY,south,2,58152,58152,,,,,,,large,unknown,micro_proxy,,,,,,0,,,,,,micro_or_unknown,,,,,,,,,,,,,,,,,,,,,,,,,,2023-07,0.529
+25780,"Henderson, NC",Micropolitan Statistical Area,NC,south,1,44535,44535,,,,,,,medium,unknown,micro_proxy,,,,,,0,,,,,,micro_or_unknown,,,,,,,,,,,,,,,,,,,,,,,,,,2023-07,0.529
+25820,"Hereford, TX",Micropolitan Statistical Area,TX,south,1,18546,18546,,,,,,,small,unknown,micro_proxy,,,,,,0,,,,,,micro_or_unknown,,,,,,,,,,,,,,,,,,,,,,,,,,2023-07,0.529
+25840,"Hermiston-Pendleton, OR",Micropolitan Statistical Area,OR,west,2,89553,89553,,,,,,,large,unknown,micro_proxy,,,,,,0,,,,,,micro_or_unknown,,,,,,,,,,,,,,,,,,,,,,,,,,2023-07,0.529
+25850,"Hermitage, PA",Micropolitan Statistical Area,PA,northeast,1,109424,109424,,,,,,,very_large,unknown,micro_proxy,,,,,,0,,,,,,micro_or_unknown,,,,,,,,,,,,,,,,,,,,,,,,,,2023-07,0.529
+25860,"Hickory-Lenoir-Morganton, NC",Metropolitan Statistical Area,NC,south,4,369711,369711,,,,,,,mega,unknown,medium_metro_proxy,,,,,,1,,,,,,metro,,,,,,,,,,,,,,,,,,,,,,,,,,2023-07,0.529
+25880,"Hillsdale, MI",Micropolitan Statistical Area,MI,midwest,1,45605,45605,,,,,,,medium,unknown,micro_proxy,,,,,,0,,,,,,micro_or_unknown,,,,,,,,,,,,,,,,,,,,,,,,,,2023-07,0.529
+25900,"Hilo-Kailua, HI",Micropolitan Statistical Area,HI,west,1,201513,201513,,,,,,,very_large,unknown,micro_proxy,,,,,,0,,,,,,micro_or_unknown,,,,,,,,,,,,,,,,,,,,,,,,,,2023-07,0.529
+25940,"Hilton Head Island-Bluffton-Port Royal, SC",Metropolitan Statistical Area,SC,south,2,222195,222195,,,,,,,very_large,unknown,small_metro_proxy,,,,,,1,,,,,,metro,,,,,,,,,,,,,,,,,,,,,,,,,,2023-07,0.529
+25980,"Hinesville, GA",Metropolitan Statistical Area,GA,south,2,80994,80994,,,,,,,large,unknown,small_metro_proxy,,,,,,1,,,,,,metro,,,,,,,,,,,,,,,,,,,,,,,,,,2023-07,0.529
+26020,"Hobbs, NM",Micropolitan Statistical Area,NM,west,1,71070,71070,,,,,,,large,unknown,micro_proxy,,,,,,0,,,,,,micro_or_unknown,,,,,,,,,,,,,,,,,,,,,,,,,,2023-07,0.529
+26090,"Holland, MI",Micropolitan Statistical Area,MI,midwest,1,118081,118081,,,,,,,very_large,unknown,micro_proxy,,,,,,0,,,,,,micro_or_unknown,,,,,,,,,,,,,,,,,,,,,,,,,,2023-07,0.529
+26140,"Homosassa Springs, FL",Metropolitan Statistical Area,FL,south,1,149657,149657,,,,,,,very_large,unknown,small_metro_proxy,,,,,,1,,,,,,metro,,,,,,,,,,,,,,,,,,,,,,,,,,2023-07,0.529
+26220,"Hood River, OR",Micropolitan Statistical Area,OR,west,1,23382,23382,,,,,,,small,unknown,micro_proxy,,,,,,0,,,,,,micro_or_unknown,,,,,,,,,,,,,,,,,,,,,,,,,,2023-07,0.529
+26300,"Hot Springs, AR",Metropolitan Statistical Area,AR,south,1,99386,99386,,,,,,,large,unknown,small_metro_proxy,,,,,,1,,,,,,metro,,,,,,,,,,,,,,,,,,,,,,,,,,2023-07,0.529
+26340,"Houghton, MI",Micropolitan Statistical Area,MI,midwest,2,37800,37800,,,,,,,medium,unknown,micro_proxy,,,,,,0,,,,,,micro_or_unknown,,,,,,,,,,,,,,,,,,,,,,,,,,2023-07,0.529
+26380,"Houma-Bayou Cane-Thibodaux, LA",Metropolitan Statistical Area,LA,south,2,208075,208075,,,,,,,very_large,unknown,small_metro_proxy,,,,,,1,,,,,,metro,,,,,,,,,,,,,,,,,,,,,,,,,,2023-07,0.529
+26420,"Houston-Pasadena-The Woodlands, TX",Metropolitan Statistical Area,TX,south,10,7095000,7095000,,,,,,,mega,unknown,large_metro_proxy,,,,,,1,,,,,,metro,,,,,,,,,,,,,,,,,,,,,,,,,,2023-07,0.529
+26460,"Hudson, NY",Micropolitan Statistical Area,NY,northeast,1,59461,59461,,,,,,,large,unknown,micro_proxy,,,,,,0,,,,,,micro_or_unknown,,,,,,,,,,,,,,,,,,,,,,,,,,2023-07,0.529
+26500,"Huntingdon, PA",Micropolitan Statistical Area,PA,northeast,1,45144,45144,,,,,,,medium,unknown,micro_proxy,,,,,,0,,,,,,micro_or_unknown,,,,,,,,,,,,,,,,,,,,,,,,,,2023-07,0.529
+26540,"Huntington, IN",Micropolitan Statistical Area,IN,midwest,1,36520,36520,,,,,,,small,unknown,micro_proxy,,,,,,0,,,,,,micro_or_unknown,,,,,,,,,,,,,,,,,,,,,,,,,,2023-07,0.529
+26580,"Huntington-Ashland, WV-KY-OH",Metropolitan Statistical Area,KY;OH;WV,south,8,371190,371190,,,,,,,mega,unknown,medium_metro_proxy,,,,,,1,,,,,,metro,,,,,,,,,,,,,,,,,,,,,,,,,,2023-07,0.529
+26620,"Huntsville, AL",Metropolitan Statistical Area,AL,south,2,471824,471824,,,,,,,mega,unknown,medium_metro_proxy,,,,,,1,,,,,,metro,,,,,,,,,,,,,,,,,,,,,,,,,,2023-07,0.529
+26660,"Huntsville, TX",Micropolitan Statistical Area,TX,south,1,72971,72971,,,,,,,large,unknown,micro_proxy,,,,,,0,,,,,,micro_or_unknown,,,,,,,,,,,,,,,,,,,,,,,,,,2023-07,0.529
+26700,"Huron, SD",Micropolitan Statistical Area,SD,midwest,1,18453,18453,,,,,,,small,unknown,micro_proxy,,,,,,0,,,,,,micro_or_unknown,,,,,,,,,,,,,,,,,,,,,,,,,,2023-07,0.529
+26740,"Hutchinson, KS",Micropolitan Statistical Area,KS,midwest,1,61998,61998,,,,,,,large,unknown,micro_proxy,,,,,,0,,,,,,micro_or_unknown,,,,,,,,,,,,,,,,,,,,,,,,,,2023-07,0.529
+26780,"Hutchinson, MN",Micropolitan Statistical Area,MN,midwest,1,35893,35893,,,,,,,small,unknown,micro_proxy,,,,,,0,,,,,,micro_or_unknown,,,,,,,,,,,,,,,,,,,,,,,,,,2023-07,0.529
+26820,"Idaho Falls, ID",Metropolitan Statistical Area,ID,west,3,151530,151530,,,,,,,very_large,unknown,small_metro_proxy,,,,,,1,,,,,,metro,,,,,,,,,,,,,,,,,,,,,,,,,,2023-07,0.529
+26860,"Indiana, PA",Micropolitan Statistical Area,PA,northeast,1,84073,84073,,,,,,,large,unknown,micro_proxy,,,,,,0,,,,,,micro_or_unknown,,,,,,,,,,,,,,,,,,,,,,,,,,2023-07,0.529
+26900,"Indianapolis-Carmel-Greenwood, IN",Metropolitan Statistical Area,IN,midwest,11,2052109,2052109,,,,,,,mega,unknown,large_metro_proxy,,,,,,1,,,,,,metro,,,,,,,,,,,,,,,,,,,,,,,,,,2023-07,0.529
+26980,"Iowa City, IA",Metropolitan Statistical Area,IA,midwest,2,173105,173105,,,,,,,very_large,unknown,small_metro_proxy,,,,,,1,,,,,,metro,,,,,,,,,,,,,,,,,,,,,,,,,,2023-07,0.529
+27020,"Iron Mountain, MI-WI",Micropolitan Statistical Area,MI;WI,midwest,2,29534,29534,,,,,,,small,unknown,micro_proxy,,,,,,0,,,,,,micro_or_unknown,,,,,,,,,,,,,,,,,,,,,,,,,,2023-07,0.529
+27060,"Ithaca, NY",Metropolitan Statistical Area,NY,northeast,1,102180,102180,,,,,,,large,unknown,small_metro_proxy,,,,,,1,,,,,,metro,,,,,,,,,,,,,,,,,,,,,,,,,,2023-07,0.529
+27100,"Jackson, MI",Metropolitan Statistical Area,MI,midwest,1,158510,158510,,,,,,,very_large,unknown,small_metro_proxy,,,,,,1,,,,,,metro,,,,,,,,,,,,,,,,,,,,,,,,,,2023-07,0.529
+27140,"Jackson, MS",Metropolitan Statistical Area,MS,south,8,622930,622930,,,,,,,mega,unknown,medium_metro_proxy,,,,,,1,,,,,,metro,,,,,,,,,,,,,,,,,,,,,,,,,,2023-07,0.529
+27180,"Jackson, TN",Metropolitan Statistical Area,TN,south,4,178644,178644,,,,,,,very_large,unknown,small_metro_proxy,,,,,,1,,,,,,metro,,,,,,,,,,,,,,,,,,,,,,,,,,2023-07,0.529
+27220,"Jackson, WY-ID",Micropolitan Statistical Area,ID;WY,west,2,35606,35606,,,,,,,small,unknown,micro_proxy,,,,,,0,,,,,,micro_or_unknown,,,,,,,,,,,,,,,,,,,,,,,,,,2023-07,0.529
+27260,"Jacksonville, FL",Metropolitan Statistical Area,FL,south,5,1559514,1559514,,,,,,,mega,unknown,large_metro_proxy,,,,,,1,,,,,,metro,,,,,,,,,,,,,,,,,,,,,,,,,,2023-07,0.529
+27300,"Jacksonville, IL",Micropolitan Statistical Area,IL,midwest,2,38609,38609,,,,,,,medium,unknown,micro_proxy,,,,,,0,,,,,,micro_or_unknown,,,,,,,,,,,,,,,,,,,,,,,,,,2023-07,0.529
+27340,"Jacksonville, NC",Metropolitan Statistical Area,NC,south,1,197938,197938,,,,,,,very_large,unknown,small_metro_proxy,,,,,,1,,,,,,metro,,,,,,,,,,,,,,,,,,,,,,,,,,2023-07,0.529
+27380,"Jacksonville, TX",Micropolitan Statistical Area,TX,south,1,52646,52646,,,,,,,medium,unknown,micro_proxy,,,,,,0,,,,,,micro_or_unknown,,,,,,,,,,,,,,,,,,,,,,,,,,2023-07,0.529
+27420,"Jamestown, ND",Micropolitan Statistical Area,ND,midwest,1,20704,20704,,,,,,,small,unknown,micro_proxy,,,,,,0,,,,,,micro_or_unknown,,,,,,,,,,,,,,,,,,,,,,,,,,2023-07,0.529
+27460,"Jamestown-Dunkirk, NY",Micropolitan Statistical Area,NY,northeast,1,126903,126903,,,,,,,very_large,unknown,micro_proxy,,,,,,0,,,,,,micro_or_unknown,,,,,,,,,,,,,,,,,,,,,,,,,,2023-07,0.529
+27500,"Janesville-Beloit, WI",Metropolitan Statistical Area,WI,midwest,1,163354,163354,,,,,,,very_large,unknown,small_metro_proxy,,,,,,1,,,,,,metro,,,,,,,,,,,,,,,,,,,,,,,,,,2023-07,0.529
+27540,"Jasper, IN",Micropolitan Statistical Area,IN,midwest,1,42736,42736,,,,,,,medium,unknown,micro_proxy,,,,,,0,,,,,,micro_or_unknown,,,,,,,,,,,,,,,,,,,,,,,,,,2023-07,0.529
+27600,"Jefferson, GA",Micropolitan Statistical Area,GA,south,1,72977,72977,,,,,,,large,unknown,micro_proxy,,,,,,0,,,,,,micro_or_unknown,,,,,,,,,,,,,,,,,,,,,,,,,,2023-07,0.529
+27620,"Jefferson City, MO",Metropolitan Statistical Area,MO,midwest,4,151235,151235,,,,,,,very_large,unknown,small_metro_proxy,,,,,,1,,,,,,metro,,,,,,,,,,,,,,,,,,,,,,,,,,2023-07,0.529
+27700,"Jesup, GA",Micropolitan Statistical Area,GA,south,1,29927,29927,,,,,,,small,unknown,micro_proxy,,,,,,0,,,,,,micro_or_unknown,,,,,,,,,,,,,,,,,,,,,,,,,,2023-07,0.529
+27740,"Johnson City, TN",Metropolitan Statistical Area,TN,south,3,203649,203649,,,,,,,very_large,unknown,small_metro_proxy,,,,,,1,,,,,,metro,,,,,,,,,,,,,,,,,,,,,,,,,,2023-07,0.529
+27780,"Johnstown, PA",Metropolitan Statistical Area,PA,northeast,1,130192,130192,,,,,,,very_large,unknown,small_metro_proxy,,,,,,1,,,,,,metro,,,,,,,,,,,,,,,,,,,,,,,,,,2023-07,0.529
+27860,"Jonesboro, AR",Metropolitan Statistical Area,AR,south,2,133860,133860,,,,,,,very_large,unknown,small_metro_proxy,,,,,,1,,,,,,metro,,,,,,,,,,,,,,,,,,,,,,,,,,2023-07,0.529
+27900,"Joplin, MO-KS",Metropolitan Statistical Area,KS;MO,midwest,3,199503,199503,,,,,,,very_large,unknown,small_metro_proxy,,,,,,1,,,,,,metro,,,,,,,,,,,,,,,,,,,,,,,,,,2023-07,0.529
+27940,"Juneau, AK",Micropolitan Statistical Area,AK,west,1,31974,31974,,,,,,,small,unknown,micro_proxy,,,,,,0,,,,,,micro_or_unknown,,,,,,,,,,,,,,,,,,,,,,,,,,2023-07,0.529
+27980,"Kahului-Wailuku, HI",Metropolitan Statistical Area,HI,west,2,167503,167503,,,,,,,very_large,unknown,small_metro_proxy,,,,,,1,,,,,,metro,,,,,,,,,,,,,,,,,,,,,,,,,,2023-07,0.529
+28020,"Kalamazoo-Portage, MI",Metropolitan Statistical Area,MI,midwest,1,265066,265066,,,,,,,mega,unknown,medium_metro_proxy,,,,,,1,,,,,,metro,,,,,,,,,,,,,,,,,,,,,,,,,,2023-07,0.529
+28060,"Kalispell, MT",Micropolitan Statistical Area,MT,west,1,103806,103806,,,,,,,large,unknown,micro_proxy,,,,,,0,,,,,,micro_or_unknown,,,,,,,,,,,,,,,,,,,,,,,,,,2023-07,0.529
+28100,"Kankakee, IL",Metropolitan Statistical Area,IL,midwest,1,109862,109862,,,,,,,very_large,unknown,small_metro_proxy,,,,,,1,,,,,,metro,,,,,,,,,,,,,,,,,,,,,,,,,,2023-07,0.529
+28140,"Kansas City, MO-KS",Metropolitan Statistical Area,KS;MO,midwest,14,2157990,2157990,,,,,,,mega,unknown,large_metro_proxy,,,,,,1,,,,,,metro,,,,,,,,,,,,,,,,,,,,,,,,,,2023-07,0.529
+28180,"Kapaa, HI",Micropolitan Statistical Area,HI,west,1,72293,72293,,,,,,,large,unknown,micro_proxy,,,,,,0,,,,,,micro_or_unknown,,,,,,,,,,,,,,,,,,,,,,,,,,2023-07,0.529
+28260,"Kearney, NE",Micropolitan Statistical Area,NE,midwest,2,56154,56154,,,,,,,medium,unknown,micro_proxy,,,,,,0,,,,,,micro_or_unknown,,,,,,,,,,,,,,,,,,,,,,,,,,2023-07,0.529
+28300,"Keene, NH",Micropolitan Statistical Area,NH,northeast,1,76085,76085,,,,,,,large,unknown,micro_proxy,,,,,,0,,,,,,micro_or_unknown,,,,,,,,,,,,,,,,,,,,,,,,,,2023-07,0.529
+28340,"Kendallville, IN",Micropolitan Statistical Area,IN,midwest,1,47744,47744,,,,,,,medium,unknown,micro_proxy,,,,,,0,,,,,,micro_or_unknown,,,,,,,,,,,,,,,,,,,,,,,,,,2023-07,0.529
+28380,"Kennett, MO",Micropolitan Statistical Area,MO,midwest,1,29131,29131,,,,,,,small,unknown,micro_proxy,,,,,,0,,,,,,micro_or_unknown,,,,,,,,,,,,,,,,,,,,,,,,,,2023-07,0.529
+28420,"Kennewick-Richland, WA",Metropolitan Statistical Area,WA,west,2,299612,299612,,,,,,,mega,unknown,medium_metro_proxy,,,,,,1,,,,,,metro,,,,,,,,,,,,,,,,,,,,,,,,,,2023-07,0.529
+28450,"Kenosha, WI",Metropolitan Statistical Area,WI,midwest,1,169561,169561,,,,,,,very_large,unknown,small_metro_proxy,,,,,,1,,,,,,metro,,,,,,,,,,,,,,,,,,,,,,,,,,2023-07,0.529
+28500,"Kerrville, TX",Micropolitan Statistical Area,TX,south,1,52600,52600,,,,,,,medium,unknown,micro_proxy,,,,,,0,,,,,,micro_or_unknown,,,,,,,,,,,,,,,,,,,,,,,,,,2023-07,0.529
+28540,"Ketchikan, AK",Micropolitan Statistical Area,AK,west,1,13901,13901,,,,,,,small,unknown,micro_proxy,,,,,,0,,,,,,micro_or_unknown,,,,,,,,,,,,,,,,,,,,,,,,,,2023-07,0.529
+28580,"Key West-Key Largo, FL",Micropolitan Statistical Area,FL,south,1,74228,74228,,,,,,,large,unknown,micro_proxy,,,,,,0,,,,,,micro_or_unknown,,,,,,,,,,,,,,,,,,,,,,,,,,2023-07,0.529
+28620,"Kill Devil Hills, NC",Micropolitan Statistical Area,NC,south,1,37009,37009,,,,,,,small,unknown,micro_proxy,,,,,,0,,,,,,micro_or_unknown,,,,,,,,,,,,,,,,,,,,,,,,,,2023-07,0.529
+28660,"Killeen-Temple, TX",Metropolitan Statistical Area,TX,south,3,460303,460303,,,,,,,mega,unknown,medium_metro_proxy,,,,,,1,,,,,,metro,,,,,,,,,,,,,,,,,,,,,,,,,,2023-07,0.529
+28680,"Kingsland, GA",Micropolitan Statistical Area,GA,south,1,54666,54666,,,,,,,medium,unknown,micro_proxy,,,,,,0,,,,,,micro_or_unknown,,,,,,,,,,,,,,,,,,,,,,,,,,2023-07,0.529
+28700,"Kingsport-Bristol, TN-VA",Metropolitan Statistical Area,TN;VA,south,5,307202,307202,,,,,,,mega,unknown,medium_metro_proxy,,,,,,1,,,,,,metro,,,,,,,,,,,,,,,,,,,,,,,,,,2023-07,0.529
+28740,"Kingston, NY",Metropolitan Statistical Area,NY,northeast,1,177573,177573,,,,,,,very_large,unknown,small_metro_proxy,,,,,,1,,,,,,metro,,,,,,,,,,,,,,,,,,,,,,,,,,2023-07,0.529
+28780,"Kingsville, TX",Micropolitan Statistical Area,TX,south,1,30680,30680,,,,,,,small,unknown,micro_proxy,,,,,,0,,,,,,micro_or_unknown,,,,,,,,,,,,,,,,,,,,,,,,,,2023-07,0.529
+28820,"Kinston, NC",Micropolitan Statistical Area,NC,south,1,55949,55949,,,,,,,medium,unknown,micro_proxy,,,,,,0,,,,,,micro_or_unknown,,,,,,,,,,,,,,,,,,,,,,,,,,2023-07,0.529
+28860,"Kirksville, MO",Micropolitan Statistical Area,MO,midwest,2,30003,30003,,,,,,,small,unknown,micro_proxy,,,,,,0,,,,,,micro_or_unknown,,,,,,,,,,,,,,,,,,,,,,,,,,2023-07,0.529
+28880,"Kiryas Joel-Poughkeepsie-Newburgh, NY",Metropolitan Statistical Area,NY,northeast,2,679158,679158,,,,,,,mega,unknown,medium_metro_proxy,,,,,,1,,,,,,metro,,,,,,,,,,,,,,,,,,,,,,,,,,2023-07,0.529
+28900,"Klamath Falls, OR",Micropolitan Statistical Area,OR,west,1,68238,68238,,,,,,,large,unknown,micro_proxy,,,,,,0,,,,,,micro_or_unknown,,,,,,,,,,,,,,,,,,,,,,,,,,2023-07,0.529
+28940,"Knoxville, TN",Metropolitan Statistical Area,TN,south,9,892366,892366,,,,,,,mega,unknown,medium_metro_proxy,,,,,,1,,,,,,metro,,,,,,,,,,,,,,,,,,,,,,,,,,2023-07,0.529
+29020,"Kokomo, IN",Metropolitan Statistical Area,IN,midwest,1,82544,82544,,,,,,,large,unknown,small_metro_proxy,,,,,,1,,,,,,metro,,,,,,,,,,,,,,,,,,,,,,,,,,2023-07,0.529
+29060,"Laconia, NH",Micropolitan Statistical Area,NH,northeast,1,61303,61303,,,,,,,large,unknown,micro_proxy,,,,,,0,,,,,,micro_or_unknown,,,,,,,,,,,,,,,,,,,,,,,,,,2023-07,0.529
+29100,"La Crosse-Onalaska, WI-MN",Metropolitan Statistical Area,MN;WI,midwest,3,167438,167438,,,,,,,very_large,unknown,small_metro_proxy,,,,,,1,,,,,,metro,,,,,,,,,,,,,,,,,,,,,,,,,,2023-07,0.529
+29180,"Lafayette, LA",Metropolitan Statistical Area,LA,south,4,419377,419377,,,,,,,mega,unknown,medium_metro_proxy,,,,,,1,,,,,,metro,,,,,,,,,,,,,,,,,,,,,,,,,,2023-07,0.529
+29200,"Lafayette-West Lafayette, IN",Metropolitan Statistical Area,IN,midwest,4,233002,233002,,,,,,,very_large,unknown,small_metro_proxy,,,,,,1,,,,,,metro,,,,,,,,,,,,,,,,,,,,,,,,,,2023-07,0.529
+29260,"La Grande, OR",Micropolitan Statistical Area,OR,west,1,26835,26835,,,,,,,small,unknown,micro_proxy,,,,,,0,,,,,,micro_or_unknown,,,,,,,,,,,,,,,,,,,,,,,,,,2023-07,0.529
+29300,"LaGrange, GA-AL",Micropolitan Statistical Area,AL;GA,south,2,103176,103176,,,,,,,large,unknown,micro_proxy,,,,,,0,,,,,,micro_or_unknown,,,,,,,,,,,,,,,,,,,,,,,,,,2023-07,0.529
+29340,"Lake Charles, LA",Metropolitan Statistical Area,LA,south,3,241777,241777,,,,,,,very_large,unknown,small_metro_proxy,,,,,,1,,,,,,metro,,,,,,,,,,,,,,,,,,,,,,,,,,2023-07,0.529
+29380,"Lake City, FL",Micropolitan Statistical Area,FL,south,1,71686,71686,,,,,,,large,unknown,micro_proxy,,,,,,0,,,,,,micro_or_unknown,,,,,,,,,,,,,,,,,,,,,,,,,,2023-07,0.529
+29420,"Lake Havasu City-Kingman, AZ",Metropolitan Statistical Area,AZ,west,1,212181,212181,,,,,,,very_large,unknown,small_metro_proxy,,,,,,1,,,,,,metro,,,,,,,,,,,,,,,,,,,,,,,,,,2023-07,0.529
+29460,"Lakeland-Winter Haven, FL",Metropolitan Statistical Area,FL,south,1,724777,724777,,,,,,,mega,unknown,medium_metro_proxy,,,,,,1,,,,,,metro,,,,,,,,,,,,,,,,,,,,,,,,,,2023-07,0.529
+29470,"Lake of the Woods, VA",Micropolitan Statistical Area,VA,south,1,37051,37051,,,,,,,small,unknown,micro_proxy,,,,,,0,,,,,,micro_or_unknown,,,,,,,,,,,,,,,,,,,,,,,,,,2023-07,0.529
+29540,"Lancaster, PA",Metropolitan Statistical Area,PA,northeast,1,545724,545724,,,,,,,mega,unknown,medium_metro_proxy,,,,,,1,,,,,,metro,,,,,,,,,,,,,,,,,,,,,,,,,,2023-07,0.529
+29620,"Lansing-East Lansing, MI",Metropolitan Statistical Area,MI,midwest,3,482269,482269,,,,,,,mega,unknown,medium_metro_proxy,,,,,,1,,,,,,metro,,,,,,,,,,,,,,,,,,,,,,,,,,2023-07,0.529
+29660,"Laramie, WY",Micropolitan Statistical Area,WY,west,1,38880,38880,,,,,,,medium,unknown,micro_proxy,,,,,,0,,,,,,micro_or_unknown,,,,,,,,,,,,,,,,,,,,,,,,,,2023-07,0.529
+29700,"Laredo, TX",Metropolitan Statistical Area,TX,south,1,276652,276652,,,,,,,mega,unknown,medium_metro_proxy,,,,,,1,,,,,,metro,,,,,,,,,,,,,,,,,,,,,,,,,,2023-07,0.529
+29720,"Lares, PR",Micropolitan Statistical Area,PR,unknown,1,,,,,,,,,unknown,unknown,micro_proxy,,,,,,0,,,,,,micro_or_unknown,,,,,,,,,,,,,,,,,,,,,,,,,,2023-07,0.412
+29740,"Las Cruces, NM",Metropolitan Statistical Area,NM,west,1,218195,218195,,,,,,,very_large,unknown,small_metro_proxy,,,,,,1,,,,,,metro,,,,,,,,,,,,,,,,,,,,,,,,,,2023-07,0.529
+29780,"Las Vegas, NM",Micropolitan Statistical Area,NM,west,2,31798,31798,,,,,,,small,unknown,micro_proxy,,,,,,0,,,,,,micro_or_unknown,,,,,,,,,,,,,,,,,,,,,,,,,,2023-07,0.529
+29820,"Las Vegas-Henderson-North Las Vegas, NV",Metropolitan Statistical Area,NV,west,1,2266715,2266715,,,,,,,mega,unknown,large_metro_proxy,,,,,,1,,,,,,metro,,,,,,,,,,,,,,,,,,,,,,,,,,2023-07,0.529
+29860,"Laurel, MS",Micropolitan Statistical Area,MS,south,2,84481,84481,,,,,,,large,unknown,micro_proxy,,,,,,0,,,,,,micro_or_unknown,,,,,,,,,,,,,,,,,,,,,,,,,,2023-07,0.529
+29900,"Laurinburg, NC",Micropolitan Statistical Area,NC,south,1,34823,34823,,,,,,,small,unknown,micro_proxy,,,,,,0,,,,,,micro_or_unknown,,,,,,,,,,,,,,,,,,,,,,,,,,2023-07,0.529
+29940,"Lawrence, KS",Metropolitan Statistical Area,KS,midwest,1,122259,122259,,,,,,,very_large,unknown,small_metro_proxy,,,,,,1,,,,,,metro,,,,,,,,,,,,,,,,,,,,,,,,,,2023-07,0.529
+29980,"Lawrenceburg, TN",Micropolitan Statistical Area,TN,south,1,44142,44142,,,,,,,medium,unknown,micro_proxy,,,,,,0,,,,,,micro_or_unknown,,,,,,,,,,,,,,,,,,,,,,,,,,2023-07,0.529
+30020,"Lawton, OK",Metropolitan Statistical Area,OK,south,2,126415,126415,,,,,,,very_large,unknown,small_metro_proxy,,,,,,1,,,,,,metro,,,,,,,,,,,,,,,,,,,,,,,,,,2023-07,0.529
+30060,"Lebanon, MO",Micropolitan Statistical Area,MO,midwest,1,35723,35723,,,,,,,small,unknown,micro_proxy,,,,,,0,,,,,,micro_or_unknown,,,,,,,,,,,,,,,,,,,,,,,,,,2023-07,0.529
+30140,"Lebanon, PA",Metropolitan Statistical Area,PA,northeast,1,141793,141793,,,,,,,very_large,unknown,small_metro_proxy,,,,,,1,,,,,,metro,,,,,,,,,,,,,,,,,,,,,,,,,,2023-07,0.529
+30150,"Lebanon-Claremont, NH-VT",Micropolitan Statistical Area,NH;VT,northeast,4,216986,216986,,,,,,,very_large,unknown,micro_proxy,,,,,,0,,,,,,micro_or_unknown,,,,,,,,,,,,,,,,,,,,,,,,,,2023-07,0.529
+30180,"Le Mars, IA",Micropolitan Statistical Area,IA,midwest,1,25177,25177,,,,,,,small,unknown,micro_proxy,,,,,,0,,,,,,micro_or_unknown,,,,,,,,,,,,,,,,,,,,,,,,,,2023-07,0.529
+30260,"Lewisburg, PA",Micropolitan Statistical Area,PA,northeast,1,44923,44923,,,,,,,medium,unknown,micro_proxy,,,,,,0,,,,,,micro_or_unknown,,,,,,,,,,,,,,,,,,,,,,,,,,2023-07,0.529
+30280,"Lewisburg, TN",Micropolitan Statistical Area,TN,south,1,34375,34375,,,,,,,small,unknown,micro_proxy,,,,,,0,,,,,,micro_or_unknown,,,,,,,,,,,,,,,,,,,,,,,,,,2023-07,0.529
+30300,"Lewiston, ID-WA",Metropolitan Statistical Area,ID;WA,west,2,62990,62990,,,,,,,large,unknown,small_metro_proxy,,,,,,1,,,,,,metro,,,,,,,,,,,,,,,,,,,,,,,,,,2023-07,0.529
+30340,"Lewiston-Auburn, ME",Metropolitan Statistical Area,ME,northeast,1,108277,108277,,,,,,,very_large,unknown,small_metro_proxy,,,,,,1,,,,,,metro,,,,,,,,,,,,,,,,,,,,,,,,,,2023-07,0.529
+30380,"Lewistown, PA",Micropolitan Statistical Area,PA,northeast,1,46138,46138,,,,,,,medium,unknown,micro_proxy,,,,,,0,,,,,,micro_or_unknown,,,,,,,,,,,,,,,,,,,,,,,,,,2023-07,0.529
+30420,"Lexington, NE",Micropolitan Statistical Area,NE,midwest,2,25585,25585,,,,,,,small,unknown,micro_proxy,,,,,,0,,,,,,micro_or_unknown,,,,,,,,,,,,,,,,,,,,,,,,,,2023-07,0.529
+30460,"Lexington-Fayette, KY",Metropolitan Statistical Area,KY,south,6,517056,517056,,,,,,,mega,unknown,medium_metro_proxy,,,,,,1,,,,,,metro,,,,,,,,,,,,,,,,,,,,,,,,,,2023-07,0.529
+30500,"Lexington Park, MD",Metropolitan Statistical Area,MD,south,2,206035,206035,,,,,,,very_large,unknown,small_metro_proxy,,,,,,1,,,,,,metro,,,,,,,,,,,,,,,,,,,,,,,,,,2023-07,0.529
+30580,"Liberal, KS",Micropolitan Statistical Area,KS,midwest,1,21428,21428,,,,,,,small,unknown,micro_proxy,,,,,,0,,,,,,micro_or_unknown,,,,,,,,,,,,,,,,,,,,,,,,,,2023-07,0.529
+30620,"Lima, OH",Metropolitan Statistical Area,OH,midwest,1,102351,102351,,,,,,,large,unknown,small_metro_proxy,,,,,,1,,,,,,metro,,,,,,,,,,,,,,,,,,,,,,,,,,2023-07,0.529
+30660,"Lincoln, IL",Micropolitan Statistical Area,IL,midwest,1,28618,28618,,,,,,,small,unknown,micro_proxy,,,,,,0,,,,,,micro_or_unknown,,,,,,,,,,,,,,,,,,,,,,,,,,2023-07,0.529
+30700,"Lincoln, NE",Metropolitan Statistical Area,NE,midwest,2,336374,336374,,,,,,,mega,unknown,medium_metro_proxy,,,,,,1,,,,,,metro,,,,,,,,,,,,,,,,,,,,,,,,,,2023-07,0.529
+30780,"Little Rock-North Little Rock-Conway, AR",Metropolitan Statistical Area,AR,south,6,742384,742384,,,,,,,mega,unknown,medium_metro_proxy,,,,,,1,,,,,,metro,,,,,,,,,,,,,,,,,,,,,,,,,,2023-07,0.529
+30820,"Lock Haven, PA",Micropolitan Statistical Area,PA,northeast,1,38632,38632,,,,,,,medium,unknown,micro_proxy,,,,,,0,,,,,,micro_or_unknown,,,,,,,,,,,,,,,,,,,,,,,,,,2023-07,0.529
+30860,"Logan, UT-ID",Metropolitan Statistical Area,ID;UT,west,2,142165,142165,,,,,,,very_large,unknown,small_metro_proxy,,,,,,1,,,,,,metro,,,,,,,,,,,,,,,,,,,,,,,,,,2023-07,0.529
+30900,"Logansport, IN",Micropolitan Statistical Area,IN,midwest,1,37689,37689,,,,,,,medium,unknown,micro_proxy,,,,,,0,,,,,,micro_or_unknown,,,,,,,,,,,,,,,,,,,,,,,,,,2023-07,0.529
+30980,"Longview, TX",Metropolitan Statistical Area,TX,south,4,286657,286657,,,,,,,mega,unknown,medium_metro_proxy,,,,,,1,,,,,,metro,,,,,,,,,,,,,,,,,,,,,,,,,,2023-07,0.529
+31020,"Longview-Kelso, WA",Metropolitan Statistical Area,WA,west,1,110593,110593,,,,,,,very_large,unknown,small_metro_proxy,,,,,,1,,,,,,metro,,,,,,,,,,,,,,,,,,,,,,,,,,2023-07,0.529
+31060,"Los Alamos, NM",Micropolitan Statistical Area,NM,west,1,19369,19369,,,,,,,small,unknown,micro_proxy,,,,,,0,,,,,,micro_or_unknown,,,,,,,,,,,,,,,,,,,,,,,,,,2023-07,0.529
+31080,"Los Angeles-Long Beach-Anaheim, CA",Metropolitan Statistical Area,CA,west,2,13214799,13214799,,,,,,,mega,unknown,large_metro_proxy,,,,,,1,,,,,,metro,,,,,,,,,,,,,,,,,,,,,,,,,,2023-07,0.529
+31140,"Louisville/Jefferson County, KY-IN",Metropolitan Statistical Area,IN;KY,midwest,12,1339913,1339913,,,,,,,mega,unknown,large_metro_proxy,,,,,,1,,,,,,metro,,,,,,,,,,,,,,,,,,,,,,,,,,2023-07,0.529
+31180,"Lubbock, TX",Metropolitan Statistical Area,TX,south,6,354360,354360,,,,,,,mega,unknown,medium_metro_proxy,,,,,,1,,,,,,metro,,,,,,,,,,,,,,,,,,,,,,,,,,2023-07,0.529
+31220,"Ludington, MI",Micropolitan Statistical Area,MI,midwest,1,29144,29144,,,,,,,small,unknown,micro_proxy,,,,,,0,,,,,,micro_or_unknown,,,,,,,,,,,,,,,,,,,,,,,,,,2023-07,0.529
+31260,"Lufkin, TX",Micropolitan Statistical Area,TX,south,1,86715,86715,,,,,,,large,unknown,micro_proxy,,,,,,0,,,,,,micro_or_unknown,,,,,,,,,,,,,,,,,,,,,,,,,,2023-07,0.529
+31300,"Lumberton, NC",Micropolitan Statistical Area,NC,south,1,130625,130625,,,,,,,very_large,unknown,micro_proxy,,,,,,0,,,,,,micro_or_unknown,,,,,,,,,,,,,,,,,,,,,,,,,,2023-07,0.529
+31340,"Lynchburg, VA",Metropolitan Statistical Area,VA,south,5,263566,263566,,,,,,,mega,unknown,medium_metro_proxy,,,,,,1,,,,,,metro,,,,,,,,,,,,,,,,,,,,,,,,,,2023-07,0.529
+31380,"Macomb, IL",Micropolitan Statistical Area,IL,midwest,1,29682,29682,,,,,,,small,unknown,micro_proxy,,,,,,0,,,,,,micro_or_unknown,,,,,,,,,,,,,,,,,,,,,,,,,,2023-07,0.529
+31420,"Macon-Bibb County, GA",Metropolitan Statistical Area,GA,south,5,229996,229996,,,,,,,very_large,unknown,small_metro_proxy,,,,,,1,,,,,,metro,,,,,,,,,,,,,,,,,,,,,,,,,,2023-07,0.529
+31500,"Madison, IN",Micropolitan Statistical Area,IN,midwest,1,32308,32308,,,,,,,small,unknown,micro_proxy,,,,,,0,,,,,,micro_or_unknown,,,,,,,,,,,,,,,,,,,,,,,,,,2023-07,0.529
+31540,"Madison, WI",Metropolitan Statistical Area,WI,midwest,4,664865,664865,,,,,,,mega,unknown,medium_metro_proxy,,,,,,1,,,,,,metro,,,,,,,,,,,,,,,,,,,,,,,,,,2023-07,0.529
+31580,"Madisonville, KY",Micropolitan Statistical Area,KY,south,1,44686,44686,,,,,,,medium,unknown,micro_proxy,,,,,,0,,,,,,micro_or_unknown,,,,,,,,,,,,,,,,,,,,,,,,,,2023-07,0.529
+31620,"Magnolia, AR",Micropolitan Statistical Area,AR,south,1,23457,23457,,,,,,,small,unknown,micro_proxy,,,,,,0,,,,,,micro_or_unknown,,,,,,,,,,,,,,,,,,,,,,,,,,2023-07,0.529
+31680,"Malvern, AR",Micropolitan Statistical Area,AR,south,1,33771,33771,,,,,,,small,unknown,micro_proxy,,,,,,0,,,,,,micro_or_unknown,,,,,,,,,,,,,,,,,,,,,,,,,,2023-07,0.529
+31700,"Manchester-Nashua, NH",Metropolitan Statistical Area,NH,northeast,1,417025,417025,,,,,,,mega,unknown,medium_metro_proxy,,,,,,1,,,,,,metro,,,,,,,,,,,,,,,,,,,,,,,,,,2023-07,0.529
+31740,"Manhattan, KS",Metropolitan Statistical Area,KS,midwest,3,130285,130285,,,,,,,very_large,unknown,small_metro_proxy,,,,,,1,,,,,,metro,,,,,,,,,,,,,,,,,,,,,,,,,,2023-07,0.529
+31820,"Manitowoc, WI",Micropolitan Statistical Area,WI,midwest,1,78981,78981,,,,,,,large,unknown,micro_proxy,,,,,,0,,,,,,micro_or_unknown,,,,,,,,,,,,,,,,,,,,,,,,,,2023-07,0.529
+31860,"Mankato, MN",Metropolitan Statistical Area,MN,midwest,2,101927,101927,,,,,,,large,unknown,small_metro_proxy,,,,,,1,,,,,,metro,,,,,,,,,,,,,,,,,,,,,,,,,,2023-07,0.529
+31900,"Mansfield, OH",Metropolitan Statistical Area,OH,midwest,1,121154,121154,,,,,,,very_large,unknown,small_metro_proxy,,,,,,1,,,,,,metro,,,,,,,,,,,,,,,,,,,,,,,,,,2023-07,0.529
+31930,"Marietta, OH",Micropolitan Statistical Area,OH,midwest,1,59911,59911,,,,,,,large,unknown,micro_proxy,,,,,,0,,,,,,micro_or_unknown,,,,,,,,,,,,,,,,,,,,,,,,,,2023-07,0.529
+31940,"Marinette, WI-MI",Micropolitan Statistical Area,MI;WI,midwest,2,63130,63130,,,,,,,large,unknown,micro_proxy,,,,,,0,,,,,,micro_or_unknown,,,,,,,,,,,,,,,,,,,,,,,,,,2023-07,0.529
+31980,"Marion, IN",Micropolitan Statistical Area,IN,midwest,1,65769,65769,,,,,,,large,unknown,micro_proxy,,,,,,0,,,,,,micro_or_unknown,,,,,,,,,,,,,,,,,,,,,,,,,,2023-07,0.529
+32000,"Marion, NC",Micropolitan Statistical Area,NC,south,1,45756,45756,,,,,,,medium,unknown,micro_proxy,,,,,,0,,,,,,micro_or_unknown,,,,,,,,,,,,,,,,,,,,,,,,,,2023-07,0.529
+32020,"Marion, OH",Micropolitan Statistical Area,OH,midwest,1,65093,65093,,,,,,,large,unknown,micro_proxy,,,,,,0,,,,,,micro_or_unknown,,,,,,,,,,,,,,,,,,,,,,,,,,2023-07,0.529
+32060,"Marion-Herrin, IL",Micropolitan Statistical Area,IL,midwest,1,66597,66597,,,,,,,large,unknown,micro_proxy,,,,,,0,,,,,,micro_or_unknown,,,,,,,,,,,,,,,,,,,,,,,,,,2023-07,0.529
+32100,"Marquette, MI",Micropolitan Statistical Area,MI,midwest,1,66699,66699,,,,,,,large,unknown,micro_proxy,,,,,,0,,,,,,micro_or_unknown,,,,,,,,,,,,,,,,,,,,,,,,,,2023-07,0.529
+32140,"Marshall, MN",Micropolitan Statistical Area,MN,midwest,1,25474,25474,,,,,,,small,unknown,micro_proxy,,,,,,0,,,,,,micro_or_unknown,,,,,,,,,,,,,,,,,,,,,,,,,,2023-07,0.529
+32180,"Marshall, MO",Micropolitan Statistical Area,MO,midwest,1,22761,22761,,,,,,,small,unknown,micro_proxy,,,,,,0,,,,,,micro_or_unknown,,,,,,,,,,,,,,,,,,,,,,,,,,2023-07,0.529
+32260,"Marshalltown, IA",Micropolitan Statistical Area,IA,midwest,1,39369,39369,,,,,,,medium,unknown,micro_proxy,,,,,,0,,,,,,micro_or_unknown,,,,,,,,,,,,,,,,,,,,,,,,,,2023-07,0.529
+32280,"Martin, TN",Micropolitan Statistical Area,TN,south,1,33328,33328,,,,,,,small,unknown,micro_proxy,,,,,,0,,,,,,micro_or_unknown,,,,,,,,,,,,,,,,,,,,,,,,,,2023-07,0.529
+32300,"Martinsville, VA",Micropolitan Statistical Area,VA,south,2,63111,63111,,,,,,,large,unknown,micro_proxy,,,,,,0,,,,,,micro_or_unknown,,,,,,,,,,,,,,,,,,,,,,,,,,2023-07,0.529
+32340,"Maryville, MO",Micropolitan Statistical Area,MO,midwest,1,22092,22092,,,,,,,small,unknown,micro_proxy,,,,,,0,,,,,,micro_or_unknown,,,,,,,,,,,,,,,,,,,,,,,,,,2023-07,0.529
+32380,"Mason City, IA",Micropolitan Statistical Area,IA,midwest,2,49831,49831,,,,,,,medium,unknown,micro_proxy,,,,,,0,,,,,,micro_or_unknown,,,,,,,,,,,,,,,,,,,,,,,,,,2023-07,0.529
+32390,"Massena-Ogdensburg, NY",Micropolitan Statistical Area,NY,northeast,1,107740,107740,,,,,,,very_large,unknown,micro_proxy,,,,,,0,,,,,,micro_or_unknown,,,,,,,,,,,,,,,,,,,,,,,,,,2023-07,0.529
+32420,"Mayagüez, PR",Metropolitan Statistical Area,PR,unknown,6,,,,,,,,,unknown,unknown,small_metro_proxy,,,,,,1,,,,,,metro,,,,,,,,,,,,,,,,,,,,,,,,,,2023-07,0.412
+32460,"Mayfield, KY",Micropolitan Statistical Area,KY,south,1,37266,37266,,,,,,,small,unknown,micro_proxy,,,,,,0,,,,,,micro_or_unknown,,,,,,,,,,,,,,,,,,,,,,,,,,2023-07,0.529
+32540,"McAlester, OK",Micropolitan Statistical Area,OK,south,1,43654,43654,,,,,,,medium,unknown,micro_proxy,,,,,,0,,,,,,micro_or_unknown,,,,,,,,,,,,,,,,,,,,,,,,,,2023-07,0.529
+32580,"McAllen-Edinburg-Mission, TX",Metropolitan Statistical Area,TX,south,1,868707,868707,,,,,,,mega,unknown,medium_metro_proxy,,,,,,1,,,,,,metro,,,,,,,,,,,,,,,,,,,,,,,,,,2023-07,0.529
+32620,"McComb, MS",Micropolitan Statistical Area,MS,south,2,53574,53574,,,,,,,medium,unknown,micro_proxy,,,,,,0,,,,,,micro_or_unknown,,,,,,,,,,,,,,,,,,,,,,,,,,2023-07,0.529
+32660,"McMinnville, TN",Micropolitan Statistical Area,TN,south,1,41277,41277,,,,,,,medium,unknown,micro_proxy,,,,,,0,,,,,,micro_or_unknown,,,,,,,,,,,,,,,,,,,,,,,,,,2023-07,0.529
+32700,"McPherson, KS",Micropolitan Statistical Area,KS,midwest,1,28542,28542,,,,,,,small,unknown,micro_proxy,,,,,,0,,,,,,micro_or_unknown,,,,,,,,,,,,,,,,,,,,,,,,,,2023-07,0.529
+32740,"Meadville, PA",Micropolitan Statistical Area,PA,northeast,1,84629,84629,,,,,,,large,unknown,micro_proxy,,,,,,0,,,,,,micro_or_unknown,,,,,,,,,,,,,,,,,,,,,,,,,,2023-07,0.529
+32780,"Medford, OR",Metropolitan Statistical Area,OR,west,1,220944,220944,,,,,,,very_large,unknown,small_metro_proxy,,,,,,1,,,,,,metro,,,,,,,,,,,,,,,,,,,,,,,,,,2023-07,0.529
+32820,"Memphis, TN-MS-AR",Metropolitan Statistical Area,AR;MS;TN,south,9,1354304,1354304,,,,,,,mega,unknown,large_metro_proxy,,,,,,1,,,,,,metro,,,,,,,,,,,,,,,,,,,,,,,,,,2023-07,0.529
+32860,"Menomonie, WI",Micropolitan Statistical Area,WI,midwest,1,45368,45368,,,,,,,medium,unknown,micro_proxy,,,,,,0,,,,,,micro_or_unknown,,,,,,,,,,,,,,,,,,,,,,,,,,2023-07,0.529
+32900,"Merced, CA",Metropolitan Statistical Area,CA,west,1,277680,277680,,,,,,,mega,unknown,medium_metro_proxy,,,,,,1,,,,,,metro,,,,,,,,,,,,,,,,,,,,,,,,,,2023-07,0.529
+32940,"Meridian, MS",Micropolitan Statistical Area,MS,south,2,89666,89666,,,,,,,large,unknown,micro_proxy,,,,,,0,,,,,,micro_or_unknown,,,,,,,,,,,,,,,,,,,,,,,,,,2023-07,0.529
+33020,"Mexico, MO",Micropolitan Statistical Area,MO,midwest,1,25388,25388,,,,,,,small,unknown,micro_proxy,,,,,,0,,,,,,micro_or_unknown,,,,,,,,,,,,,,,,,,,,,,,,,,2023-07,0.529
+33060,"Miami, OK",Micropolitan Statistical Area,OK,south,1,31127,31127,,,,,,,small,unknown,micro_proxy,,,,,,0,,,,,,micro_or_unknown,,,,,,,,,,,,,,,,,,,,,,,,,,2023-07,0.529
+33100,"Miami-Fort Lauderdale-West Palm Beach, FL",Metropolitan Statistical Area,FL,south,3,6166488,6166488,,,,,,,mega,unknown,large_metro_proxy,,,,,,1,,,,,,metro,,,,,,,,,,,,,,,,,,,,,,,,,,2023-07,0.529
+33140,"Michigan City-La Porte, IN",Metropolitan Statistical Area,IN,midwest,1,109888,109888,,,,,,,very_large,unknown,small_metro_proxy,,,,,,1,,,,,,metro,,,,,,,,,,,,,,,,,,,,,,,,,,2023-07,0.529
+33180,"Middlesborough, KY",Micropolitan Statistical Area,KY,south,1,26032,26032,,,,,,,small,unknown,micro_proxy,,,,,,0,,,,,,micro_or_unknown,,,,,,,,,,,,,,,,,,,,,,,,,,2023-07,0.529
+33220,"Midland, MI",Metropolitan Statistical Area,MI,midwest,1,83156,83156,,,,,,,large,unknown,small_metro_proxy,,,,,,1,,,,,,metro,,,,,,,,,,,,,,,,,,,,,,,,,,2023-07,0.529
+33260,"Midland, TX",Metropolitan Statistical Area,TX,south,2,182603,182603,,,,,,,very_large,unknown,small_metro_proxy,,,,,,1,,,,,,metro,,,,,,,,,,,,,,,,,,,,,,,,,,2023-07,0.529
+33300,"Milledgeville, GA",Micropolitan Statistical Area,GA,south,1,44890,44890,,,,,,,medium,unknown,micro_proxy,,,,,,0,,,,,,micro_or_unknown,,,,,,,,,,,,,,,,,,,,,,,,,,2023-07,0.529
+33340,"Milwaukee-Waukesha, WI",Metropolitan Statistical Area,WI,midwest,4,1575179,1575179,,,,,,,mega,unknown,large_metro_proxy,,,,,,1,,,,,,metro,,,,,,,,,,,,,,,,,,,,,,,,,,2023-07,0.529
+33380,"Minden, LA",Micropolitan Statistical Area,LA,south,1,38340,38340,,,,,,,medium,unknown,micro_proxy,,,,,,0,,,,,,micro_or_unknown,,,,,,,,,,,,,,,,,,,,,,,,,,2023-07,0.529
+33420,"Mineral Wells, TX",Micropolitan Statistical Area,TX,south,1,29189,29189,,,,,,,small,unknown,micro_proxy,,,,,,0,,,,,,micro_or_unknown,,,,,,,,,,,,,,,,,,,,,,,,,,2023-07,0.529
+33460,"Minneapolis-St. Paul-Bloomington, MN-WI",Metropolitan Statistical Area,MN;WI,midwest,15,3640043,3640043,,,,,,,mega,unknown,large_metro_proxy,,,,,,1,,,,,,metro,,,,,,,,,,,,,,,,,,,,,,,,,,2023-07,0.529
+33500,"Minot, ND",Metropolitan Statistical Area,ND,midwest,3,75713,75713,,,,,,,large,unknown,small_metro_proxy,,,,,,1,,,,,,metro,,,,,,,,,,,,,,,,,,,,,,,,,,2023-07,0.529
+33540,"Missoula, MT",Metropolitan Statistical Area,MT,west,2,123997,123997,,,,,,,very_large,unknown,small_metro_proxy,,,,,,1,,,,,,metro,,,,,,,,,,,,,,,,,,,,,,,,,,2023-07,0.529
+33580,"Mitchell, SD",Micropolitan Statistical Area,SD,midwest,3,25572,25572,,,,,,,small,unknown,micro_proxy,,,,,,0,,,,,,micro_or_unknown,,,,,,,,,,,,,,,,,,,,,,,,,,2023-07,0.529
+33620,"Moberly, MO",Micropolitan Statistical Area,MO,midwest,1,24748,24748,,,,,,,small,unknown,micro_proxy,,,,,,0,,,,,,micro_or_unknown,,,,,,,,,,,,,,,,,,,,,,,,,,2023-07,0.529
+33660,"Mobile, AL",Metropolitan Statistical Area,AL,south,1,413210,413210,,,,,,,mega,unknown,medium_metro_proxy,,,,,,1,,,,,,metro,,,,,,,,,,,,,,,,,,,,,,,,,,2023-07,0.529
+33700,"Modesto, CA",Metropolitan Statistical Area,CA,west,1,550660,550660,,,,,,,mega,unknown,medium_metro_proxy,,,,,,1,,,,,,metro,,,,,,,,,,,,,,,,,,,,,,,,,,2023-07,0.529
+33740,"Monroe, LA",Metropolitan Statistical Area,LA,south,4,220383,220383,,,,,,,very_large,unknown,small_metro_proxy,,,,,,1,,,,,,metro,,,,,,,,,,,,,,,,,,,,,,,,,,2023-07,0.529
+33780,"Monroe, MI",Metropolitan Statistical Area,MI,midwest,1,150500,150500,,,,,,,very_large,unknown,small_metro_proxy,,,,,,1,,,,,,metro,,,,,,,,,,,,,,,,,,,,,,,,,,2023-07,0.529
+33860,"Montgomery, AL",Metropolitan Statistical Area,AL,south,4,373290,373290,,,,,,,mega,unknown,medium_metro_proxy,,,,,,1,,,,,,metro,,,,,,,,,,,,,,,,,,,,,,,,,,2023-07,0.529
+33900,"Monticello, IN",Micropolitan Statistical Area,IN,midwest,1,24102,24102,,,,,,,small,unknown,micro_proxy,,,,,,0,,,,,,micro_or_unknown,,,,,,,,,,,,,,,,,,,,,,,,,,2023-07,0.529
+33910,"Monticello, NY",Micropolitan Statistical Area,NY,northeast,1,75432,75432,,,,,,,large,unknown,micro_proxy,,,,,,0,,,,,,micro_or_unknown,,,,,,,,,,,,,,,,,,,,,,,,,,2023-07,0.529
+33940,"Montrose, CO",Micropolitan Statistical Area,CO,west,1,42758,42758,,,,,,,medium,unknown,micro_proxy,,,,,,0,,,,,,micro_or_unknown,,,,,,,,,,,,,,,,,,,,,,,,,,2023-07,0.529
+33980,"Morehead City, NC",Micropolitan Statistical Area,NC,south,1,69473,69473,,,,,,,large,unknown,micro_proxy,,,,,,0,,,,,,micro_or_unknown,,,,,,,,,,,,,,,,,,,,,,,,,,2023-07,0.529
+34020,"Morgan City, LA",Micropolitan Statistical Area,LA,south,1,49348,49348,,,,,,,medium,unknown,micro_proxy,,,,,,0,,,,,,micro_or_unknown,,,,,,,,,,,,,,,,,,,,,,,,,,2023-07,0.529
+34060,"Morgantown, WV",Metropolitan Statistical Area,WV,south,2,139044,139044,,,,,,,very_large,unknown,small_metro_proxy,,,,,,1,,,,,,metro,,,,,,,,,,,,,,,,,,,,,,,,,,2023-07,0.529
+34100,"Morristown, TN",Metropolitan Statistical Area,TN,south,2,119429,119429,,,,,,,very_large,unknown,small_metro_proxy,,,,,,1,,,,,,metro,,,,,,,,,,,,,,,,,,,,,,,,,,2023-07,0.529
+34140,"Moscow, ID",Micropolitan Statistical Area,ID,west,1,40108,40108,,,,,,,medium,unknown,micro_proxy,,,,,,0,,,,,,micro_or_unknown,,,,,,,,,,,,,,,,,,,,,,,,,,2023-07,0.529
+34180,"Moses Lake, WA",Micropolitan Statistical Area,WA,west,1,97733,97733,,,,,,,large,unknown,micro_proxy,,,,,,0,,,,,,micro_or_unknown,,,,,,,,,,,,,,,,,,,,,,,,,,2023-07,0.529
+34220,"Moultrie, GA",Micropolitan Statistical Area,GA,south,1,45600,45600,,,,,,,medium,unknown,micro_proxy,,,,,,0,,,,,,micro_or_unknown,,,,,,,,,,,,,,,,,,,,,,,,,,2023-07,0.529
+34260,"Mountain Home, AR",Micropolitan Statistical Area,AR,south,1,41932,41932,,,,,,,medium,unknown,micro_proxy,,,,,,0,,,,,,micro_or_unknown,,,,,,,,,,,,,,,,,,,,,,,,,,2023-07,0.529
+34300,"Mountain Home, ID",Micropolitan Statistical Area,ID,west,1,27511,27511,,,,,,,small,unknown,micro_proxy,,,,,,0,,,,,,micro_or_unknown,,,,,,,,,,,,,,,,,,,,,,,,,,2023-07,0.529
+34340,"Mount Airy, NC",Micropolitan Statistical Area,NC,south,1,71783,71783,,,,,,,large,unknown,micro_proxy,,,,,,0,,,,,,micro_or_unknown,,,,,,,,,,,,,,,,,,,,,,,,,,2023-07,0.529
+34380,"Mount Pleasant, MI",Micropolitan Statistical Area,MI,midwest,1,69872,69872,,,,,,,large,unknown,micro_proxy,,,,,,0,,,,,,micro_or_unknown,,,,,,,,,,,,,,,,,,,,,,,,,,2023-07,0.529
+34420,"Mount Pleasant, TX",Micropolitan Statistical Area,TX,south,3,58232,58232,,,,,,,large,unknown,micro_proxy,,,,,,0,,,,,,micro_or_unknown,,,,,,,,,,,,,,,,,,,,,,,,,,2023-07,0.529
+34460,"Mount Sterling, KY",Micropolitan Statistical Area,KY,south,3,47146,47146,,,,,,,medium,unknown,micro_proxy,,,,,,0,,,,,,micro_or_unknown,,,,,,,,,,,,,,,,,,,,,,,,,,2023-07,0.529
+34500,"Mount Vernon, IL",Micropolitan Statistical Area,IL,midwest,1,37684,37684,,,,,,,medium,unknown,micro_proxy,,,,,,0,,,,,,micro_or_unknown,,,,,,,,,,,,,,,,,,,,,,,,,,2023-07,0.529
+34540,"Mount Vernon, OH",Micropolitan Statistical Area,OH,midwest,1,62322,62322,,,,,,,large,unknown,micro_proxy,,,,,,0,,,,,,micro_or_unknown,,,,,,,,,,,,,,,,,,,,,,,,,,2023-07,0.529
+34580,"Mount Vernon-Anacortes, WA",Metropolitan Statistical Area,WA,west,1,129205,129205,,,,,,,very_large,unknown,small_metro_proxy,,,,,,1,,,,,,metro,,,,,,,,,,,,,,,,,,,,,,,,,,2023-07,0.529
+34620,"Muncie, IN",Metropolitan Statistical Area,IN,midwest,1,114135,114135,,,,,,,very_large,unknown,small_metro_proxy,,,,,,1,,,,,,metro,,,,,,,,,,,,,,,,,,,,,,,,,,2023-07,0.529
+34660,"Murray, KY",Micropolitan Statistical Area,KY,south,1,39001,39001,,,,,,,medium,unknown,micro_proxy,,,,,,0,,,,,,micro_or_unknown,,,,,,,,,,,,,,,,,,,,,,,,,,2023-07,0.529
+34680,"Murrells Inlet, SC",Micropolitan Statistical Area,SC,south,1,62680,62680,,,,,,,large,unknown,micro_proxy,,,,,,0,,,,,,micro_or_unknown,,,,,,,,,,,,,,,,,,,,,,,,,,2023-07,0.529
+34700,"Muscatine, IA",Micropolitan Statistical Area,IA,midwest,1,42664,42664,,,,,,,medium,unknown,micro_proxy,,,,,,0,,,,,,micro_or_unknown,,,,,,,,,,,,,,,,,,,,,,,,,,2023-07,0.529
+34740,"Muskegon-Norton Shores, MI",Metropolitan Statistical Area,MI,midwest,1,173566,173566,,,,,,,very_large,unknown,small_metro_proxy,,,,,,1,,,,,,metro,,,,,,,,,,,,,,,,,,,,,,,,,,2023-07,0.529
+34780,"Muskogee, OK",Micropolitan Statistical Area,OK,south,1,67997,67997,,,,,,,large,unknown,micro_proxy,,,,,,0,,,,,,micro_or_unknown,,,,,,,,,,,,,,,,,,,,,,,,,,2023-07,0.529
+34820,"Myrtle Beach-Conway-North Myrtle Beach, SC",Metropolitan Statistical Area,SC,south,1,354081,354081,,,,,,,mega,unknown,medium_metro_proxy,,,,,,1,,,,,,metro,,,,,,,,,,,,,,,,,,,,,,,,,,2023-07,0.529
+34860,"Nacogdoches, TX",Micropolitan Statistical Area,TX,south,1,65204,65204,,,,,,,large,unknown,micro_proxy,,,,,,0,,,,,,micro_or_unknown,,,,,,,,,,,,,,,,,,,,,,,,,,2023-07,0.529
+34880,"Nantucket, MA",Micropolitan Statistical Area,MA,northeast,1,11399,11399,,,,,,,small,unknown,micro_proxy,,,,,,0,,,,,,micro_or_unknown,,,,,,,,,,,,,,,,,,,,,,,,,,2023-07,0.529
+34900,"Napa, CA",Metropolitan Statistical Area,CA,west,1,137744,137744,,,,,,,very_large,unknown,small_metro_proxy,,,,,,1,,,,,,metro,,,,,,,,,,,,,,,,,,,,,,,,,,2023-07,0.529
+34940,"Naples-Marco Island, FL",Metropolitan Statistical Area,FL,south,1,384902,384902,,,,,,,mega,unknown,medium_metro_proxy,,,,,,1,,,,,,metro,,,,,,,,,,,,,,,,,,,,,,,,,,2023-07,0.529
+34980,"Nashville-Davidson--Murfreesboro--Franklin, TN",Metropolitan Statistical Area,TN,south,14,1959495,1959495,,,,,,,mega,unknown,large_metro_proxy,,,,,,1,,,,,,metro,,,,,,,,,,,,,,,,,,,,,,,,,,2023-07,0.529
+35020,"Natchez, MS-LA",Micropolitan Statistical Area,LA;MS,south,3,56942,56942,,,,,,,large,unknown,micro_proxy,,,,,,0,,,,,,micro_or_unknown,,,,,,,,,,,,,,,,,,,,,,,,,,2023-07,0.529
+35060,"Natchitoches, LA",Micropolitan Statistical Area,LA,south,1,38158,38158,,,,,,,medium,unknown,micro_proxy,,,,,,0,,,,,,micro_or_unknown,,,,,,,,,,,,,,,,,,,,,,,,,,2023-07,0.529
+35100,"New Bern, NC",Micropolitan Statistical Area,NC,south,3,124284,124284,,,,,,,very_large,unknown,micro_proxy,,,,,,0,,,,,,micro_or_unknown,,,,,,,,,,,,,,,,,,,,,,,,,,2023-07,0.529
+35140,"Newberry, SC",Micropolitan Statistical Area,SC,south,1,38440,38440,,,,,,,medium,unknown,micro_proxy,,,,,,0,,,,,,micro_or_unknown,,,,,,,,,,,,,,,,,,,,,,,,,,2023-07,0.529
+35220,"New Castle, IN",Micropolitan Statistical Area,IN,midwest,1,47972,47972,,,,,,,medium,unknown,micro_proxy,,,,,,0,,,,,,micro_or_unknown,,,,,,,,,,,,,,,,,,,,,,,,,,2023-07,0.529
+35300,"New Haven, CT",Metropolitan Statistical Area,CT,northeast,1,,,,,,,,,unknown,unknown,small_metro_proxy,,,,,,1,,,,,,metro,,,,,,,,,,,,,,,,,,,,,,,,,,2023-07,0.412
+35340,"New Iberia, LA",Micropolitan Statistical Area,LA,south,1,69830,69830,,,,,,,large,unknown,micro_proxy,,,,,,0,,,,,,micro_or_unknown,,,,,,,,,,,,,,,,,,,,,,,,,,2023-07,0.529
+35380,"New Orleans-Metairie, LA",Metropolitan Statistical Area,LA,south,7,1010111,1010111,,,,,,,mega,unknown,large_metro_proxy,,,,,,1,,,,,,metro,,,,,,,,,,,,,,,,,,,,,,,,,,2023-07,0.529
+35420,"New Philadelphia-Dover, OH",Micropolitan Statistical Area,OH,midwest,1,91987,91987,,,,,,,large,unknown,micro_proxy,,,,,,0,,,,,,micro_or_unknown,,,,,,,,,,,,,,,,,,,,,,,,,,2023-07,0.529
+35440,"Newport, OR",Micropolitan Statistical Area,OR,west,1,49962,49962,,,,,,,medium,unknown,micro_proxy,,,,,,0,,,,,,micro_or_unknown,,,,,,,,,,,,,,,,,,,,,,,,,,2023-07,0.529
+35460,"Newport, TN",Micropolitan Statistical Area,TN,south,1,36004,36004,,,,,,,small,unknown,micro_proxy,,,,,,0,,,,,,micro_or_unknown,,,,,,,,,,,,,,,,,,,,,,,,,,2023-07,0.529
+35580,"New Ulm, MN",Micropolitan Statistical Area,MN,midwest,1,25008,25008,,,,,,,small,unknown,micro_proxy,,,,,,0,,,,,,micro_or_unknown,,,,,,,,,,,,,,,,,,,,,,,,,,2023-07,0.529
+35620,"New York-Newark-Jersey City, NY-NJ",Metropolitan Statistical Area,NJ;NY,northeast,22,19160373,19160373,,,,,,,mega,unknown,large_metro_proxy,,,,,,1,,,,,,metro,,,,,,,,,,,,,,,,,,,,,,,,,,2023-07,0.529
+35660,"Niles, MI",Metropolitan Statistical Area,MI,midwest,1,153401,153401,,,,,,,very_large,unknown,small_metro_proxy,,,,,,1,,,,,,metro,,,,,,,,,,,,,,,,,,,,,,,,,,2023-07,0.529
+35700,"Nogales, AZ",Micropolitan Statistical Area,AZ,west,1,46498,46498,,,,,,,medium,unknown,micro_proxy,,,,,,0,,,,,,micro_or_unknown,,,,,,,,,,,,,,,,,,,,,,,,,,2023-07,0.529
+35740,"Norfolk, NE",Micropolitan Statistical Area,NE,midwest,3,48167,48167,,,,,,,medium,unknown,micro_proxy,,,,,,0,,,,,,micro_or_unknown,,,,,,,,,,,,,,,,,,,,,,,,,,2023-07,0.529
+35820,"North Platte, NE",Micropolitan Statistical Area,NE,midwest,2,35662,35662,,,,,,,small,unknown,micro_proxy,,,,,,0,,,,,,micro_or_unknown,,,,,,,,,,,,,,,,,,,,,,,,,,2023-07,0.529
+35840,"North Port-Bradenton-Sarasota, FL",Metropolitan Statistical Area,FL,south,2,836995,836995,,,,,,,mega,unknown,medium_metro_proxy,,,,,,1,,,,,,metro,,,,,,,,,,,,,,,,,,,,,,,,,,2023-07,0.529
+35900,"North Wilkesboro, NC",Micropolitan Statistical Area,NC,south,1,68412,68412,,,,,,,large,unknown,micro_proxy,,,,,,0,,,,,,micro_or_unknown,,,,,,,,,,,,,,,,,,,,,,,,,,2023-07,0.529
+35940,"Norwalk, OH",Micropolitan Statistical Area,OH,midwest,1,58266,58266,,,,,,,large,unknown,micro_proxy,,,,,,0,,,,,,micro_or_unknown,,,,,,,,,,,,,,,,,,,,,,,,,,2023-07,0.529
+35980,"Norwich-New London-Willimantic, CT",Metropolitan Statistical Area,CT,northeast,1,,,,,,,,,unknown,unknown,small_metro_proxy,,,,,,1,,,,,,metro,,,,,,,,,,,,,,,,,,,,,,,,,,2023-07,0.412
+36020,"Oak Harbor, WA",Micropolitan Statistical Area,WA,west,1,85141,85141,,,,,,,large,unknown,micro_proxy,,,,,,0,,,,,,micro_or_unknown,,,,,,,,,,,,,,,,,,,,,,,,,,2023-07,0.529
+36100,"Ocala, FL",Metropolitan Statistical Area,FL,south,1,365579,365579,,,,,,,mega,unknown,medium_metro_proxy,,,,,,1,,,,,,metro,,,,,,,,,,,,,,,,,,,,,,,,,,2023-07,0.529
+36180,"Ocean Pines, MD",Micropolitan Statistical Area,MD,south,1,52276,52276,,,,,,,medium,unknown,micro_proxy,,,,,,0,,,,,,micro_or_unknown,,,,,,,,,,,,,,,,,,,,,,,,,,2023-07,0.529
+36220,"Odessa, TX",Metropolitan Statistical Area,TX,south,1,166223,166223,,,,,,,very_large,unknown,small_metro_proxy,,,,,,1,,,,,,metro,,,,,,,,,,,,,,,,,,,,,,,,,,2023-07,0.529
+36260,"Ogden, UT",Metropolitan Statistical Area,UT,west,3,627818,627818,,,,,,,mega,unknown,medium_metro_proxy,,,,,,1,,,,,,metro,,,,,,,,,,,,,,,,,,,,,,,,,,2023-07,0.529
+36340,"Oil City, PA",Micropolitan Statistical Area,PA,northeast,1,50668,50668,,,,,,,medium,unknown,micro_proxy,,,,,,0,,,,,,micro_or_unknown,,,,,,,,,,,,,,,,,,,,,,,,,,2023-07,0.529
+36380,"Okeechobee, FL",Micropolitan Statistical Area,FL,south,1,42168,42168,,,,,,,medium,unknown,micro_proxy,,,,,,0,,,,,,micro_or_unknown,,,,,,,,,,,,,,,,,,,,,,,,,,2023-07,0.529
+36420,"Oklahoma City, OK",Metropolitan Statistical Area,OK,south,7,1408950,1408950,,,,,,,mega,unknown,large_metro_proxy,,,,,,1,,,,,,metro,,,,,,,,,,,,,,,,,,,,,,,,,,2023-07,0.529
+36460,"Olean, NY",Micropolitan Statistical Area,NY,northeast,1,76117,76117,,,,,,,large,unknown,micro_proxy,,,,,,0,,,,,,micro_or_unknown,,,,,,,,,,,,,,,,,,,,,,,,,,2023-07,0.529
+36500,"Olympia-Lacey-Tumwater, WA",Metropolitan Statistical Area,WA,west,1,290536,290536,,,,,,,mega,unknown,medium_metro_proxy,,,,,,1,,,,,,metro,,,,,,,,,,,,,,,,,,,,,,,,,,2023-07,0.529
+36540,"Omaha, NE-IA",Metropolitan Statistical Area,IA;NE,midwest,8,949442,949442,,,,,,,mega,unknown,medium_metro_proxy,,,,,,1,,,,,,metro,,,,,,,,,,,,,,,,,,,,,,,,,,2023-07,0.529
+36580,"Oneonta, NY",Micropolitan Statistical Area,NY,northeast,1,59493,59493,,,,,,,large,unknown,micro_proxy,,,,,,0,,,,,,micro_or_unknown,,,,,,,,,,,,,,,,,,,,,,,,,,2023-07,0.529
+36620,"Ontario, OR-ID",Micropolitan Statistical Area,ID;OR,west,2,54522,54522,,,,,,,medium,unknown,micro_proxy,,,,,,0,,,,,,micro_or_unknown,,,,,,,,,,,,,,,,,,,,,,,,,,2023-07,0.529
+36660,"Opelousas, LA",Micropolitan Statistical Area,LA,south,1,82124,82124,,,,,,,large,unknown,micro_proxy,,,,,,0,,,,,,micro_or_unknown,,,,,,,,,,,,,,,,,,,,,,,,,,2023-07,0.529
+36700,"Orangeburg, SC",Micropolitan Statistical Area,SC,south,1,86175,86175,,,,,,,large,unknown,micro_proxy,,,,,,0,,,,,,micro_or_unknown,,,,,,,,,,,,,,,,,,,,,,,,,,2023-07,0.529
+36740,"Orlando-Kissimmee-Sanford, FL",Metropolitan Statistical Area,FL,south,4,2608147,2608147,,,,,,,mega,unknown,large_metro_proxy,,,,,,1,,,,,,metro,,,,,,,,,,,,,,,,,,,,,,,,,,2023-07,0.529
+36780,"Oshkosh-Neenah, WI",Metropolitan Statistical Area,WI,midwest,1,171907,171907,,,,,,,very_large,unknown,small_metro_proxy,,,,,,1,,,,,,metro,,,,,,,,,,,,,,,,,,,,,,,,,,2023-07,0.529
+36820,"Oskaloosa, IA",Micropolitan Statistical Area,IA,midwest,1,22095,22095,,,,,,,small,unknown,micro_proxy,,,,,,0,,,,,,micro_or_unknown,,,,,,,,,,,,,,,,,,,,,,,,,,2023-07,0.529
+36830,"Othello, WA",Micropolitan Statistical Area,WA,west,1,19983,19983,,,,,,,small,unknown,micro_proxy,,,,,,0,,,,,,micro_or_unknown,,,,,,,,,,,,,,,,,,,,,,,,,,2023-07,0.529
+36837,"Ottawa, IL",Micropolitan Statistical Area,IL,midwest,3,147036,147036,,,,,,,very_large,unknown,micro_proxy,,,,,,0,,,,,,micro_or_unknown,,,,,,,,,,,,,,,,,,,,,,,,,,2023-07,0.529
+36840,"Ottawa, KS",Micropolitan Statistical Area,KS,midwest,1,25544,25544,,,,,,,small,unknown,micro_proxy,,,,,,0,,,,,,micro_or_unknown,,,,,,,,,,,,,,,,,,,,,,,,,,2023-07,0.529
+36900,"Ottumwa, IA",Micropolitan Statistical Area,IA,midwest,1,34969,34969,,,,,,,small,unknown,micro_proxy,,,,,,0,,,,,,micro_or_unknown,,,,,,,,,,,,,,,,,,,,,,,,,,2023-07,0.529
+36940,"Owatonna, MN",Micropolitan Statistical Area,MN,midwest,1,36649,36649,,,,,,,small,unknown,micro_proxy,,,,,,0,,,,,,micro_or_unknown,,,,,,,,,,,,,,,,,,,,,,,,,,2023-07,0.529
+36980,"Owensboro, KY",Metropolitan Statistical Area,KY,south,2,110718,110718,,,,,,,very_large,unknown,small_metro_proxy,,,,,,1,,,,,,metro,,,,,,,,,,,,,,,,,,,,,,,,,,2023-07,0.529
+37020,"Owosso, MI",Micropolitan Statistical Area,MI,midwest,1,68122,68122,,,,,,,large,unknown,micro_proxy,,,,,,0,,,,,,micro_or_unknown,,,,,,,,,,,,,,,,,,,,,,,,,,2023-07,0.529
+37060,"Oxford, MS",Micropolitan Statistical Area,MS,south,2,66127,66127,,,,,,,large,unknown,micro_proxy,,,,,,0,,,,,,micro_or_unknown,,,,,,,,,,,,,,,,,,,,,,,,,,2023-07,0.529
+37100,"Oxnard-Thousand Oaks-Ventura, CA",Metropolitan Statistical Area,CA,west,1,846006,846006,,,,,,,mega,unknown,medium_metro_proxy,,,,,,1,,,,,,metro,,,,,,,,,,,,,,,,,,,,,,,,,,2023-07,0.529
+37120,"Ozark, AL",Micropolitan Statistical Area,AL,south,1,49172,49172,,,,,,,medium,unknown,micro_proxy,,,,,,0,,,,,,micro_or_unknown,,,,,,,,,,,,,,,,,,,,,,,,,,2023-07,0.529
+37140,"Paducah, KY-IL",Metropolitan Statistical Area,IL;KY,midwest,5,101032,101032,,,,,,,large,unknown,small_metro_proxy,,,,,,1,,,,,,metro,,,,,,,,,,,,,,,,,,,,,,,,,,2023-07,0.529
+37220,"Pahrump, NV",Micropolitan Statistical Area,NV,west,1,46523,46523,,,,,,,medium,unknown,micro_proxy,,,,,,0,,,,,,micro_or_unknown,,,,,,,,,,,,,,,,,,,,,,,,,,2023-07,0.529
+37260,"Palatka, FL",Micropolitan Statistical Area,FL,south,1,74521,74521,,,,,,,large,unknown,micro_proxy,,,,,,0,,,,,,micro_or_unknown,,,,,,,,,,,,,,,,,,,,,,,,,,2023-07,0.529
+37300,"Palestine, TX",Micropolitan Statistical Area,TX,south,1,57735,57735,,,,,,,large,unknown,micro_proxy,,,,,,0,,,,,,micro_or_unknown,,,,,,,,,,,,,,,,,,,,,,,,,,2023-07,0.529
+37340,"Palm Bay-Melbourne-Titusville, FL",Metropolitan Statistical Area,FL,south,1,601942,601942,,,,,,,mega,unknown,medium_metro_proxy,,,,,,1,,,,,,metro,,,,,,,,,,,,,,,,,,,,,,,,,,2023-07,0.529
+37420,"Pampa, TX",Micropolitan Statistical Area,TX,south,2,22740,22740,,,,,,,small,unknown,micro_proxy,,,,,,0,,,,,,micro_or_unknown,,,,,,,,,,,,,,,,,,,,,,,,,,2023-07,0.529
+37460,"Panama City-Panama City Beach, FL",Metropolitan Statistical Area,FL,south,2,200178,200178,,,,,,,very_large,unknown,small_metro_proxy,,,,,,1,,,,,,metro,,,,,,,,,,,,,,,,,,,,,,,,,,2023-07,0.529
+37500,"Paragould, AR",Micropolitan Statistical Area,AR,south,1,45325,45325,,,,,,,medium,unknown,micro_proxy,,,,,,0,,,,,,micro_or_unknown,,,,,,,,,,,,,,,,,,,,,,,,,,2023-07,0.529
+37540,"Paris, TN",Micropolitan Statistical Area,TN,south,1,32345,32345,,,,,,,small,unknown,micro_proxy,,,,,,0,,,,,,micro_or_unknown,,,,,,,,,,,,,,,,,,,,,,,,,,2023-07,0.529
+37580,"Paris, TX",Micropolitan Statistical Area,TX,south,2,61882,61882,,,,,,,large,unknown,micro_proxy,,,,,,0,,,,,,micro_or_unknown,,,,,,,,,,,,,,,,,,,,,,,,,,2023-07,0.529
+37620,"Parkersburg-Vienna, WV",Metropolitan Statistical Area,WV,south,2,89339,89339,,,,,,,large,unknown,small_metro_proxy,,,,,,1,,,,,,metro,,,,,,,,,,,,,,,,,,,,,,,,,,2023-07,0.529
+37740,"Payson, AZ",Micropolitan Statistical Area,AZ,west,1,54018,54018,,,,,,,medium,unknown,micro_proxy,,,,,,0,,,,,,micro_or_unknown,,,,,,,,,,,,,,,,,,,,,,,,,,2023-07,0.529
+37800,"Pella, IA",Micropolitan Statistical Area,IA,midwest,1,33253,33253,,,,,,,small,unknown,micro_proxy,,,,,,0,,,,,,micro_or_unknown,,,,,,,,,,,,,,,,,,,,,,,,,,2023-07,0.529
+37860,"Pensacola-Ferry Pass-Brent, FL",Metropolitan Statistical Area,FL,south,2,502629,502629,,,,,,,mega,unknown,medium_metro_proxy,,,,,,1,,,,,,metro,,,,,,,,,,,,,,,,,,,,,,,,,,2023-07,0.529
+37900,"Peoria, IL",Metropolitan Statistical Area,IL,midwest,5,366221,366221,,,,,,,mega,unknown,medium_metro_proxy,,,,,,1,,,,,,metro,,,,,,,,,,,,,,,,,,,,,,,,,,2023-07,0.529
+37940,"Peru, IN",Micropolitan Statistical Area,IN,midwest,1,35516,35516,,,,,,,small,unknown,micro_proxy,,,,,,0,,,,,,micro_or_unknown,,,,,,,,,,,,,,,,,,,,,,,,,,2023-07,0.529
+37950,"Petoskey, MI",Micropolitan Statistical Area,MI,midwest,1,33415,33415,,,,,,,small,unknown,micro_proxy,,,,,,0,,,,,,micro_or_unknown,,,,,,,,,,,,,,,,,,,,,,,,,,2023-07,0.529
+37980,"Philadelphia-Camden-Wilmington, PA-NJ-DE-MD",Metropolitan Statistical Area,DE;MD;NJ;PA,south,11,6102434,6102434,,,,,,,mega,unknown,large_metro_proxy,,,,,,1,,,,,,metro,,,,,,,,,,,,,,,,,,,,,,,,,,2023-07,0.529
+38060,"Phoenix-Mesa-Chandler, AZ",Metropolitan Statistical Area,AZ,west,2,4948203,4948203,,,,,,,mega,unknown,large_metro_proxy,,,,,,1,,,,,,metro,,,,,,,,,,,,,,,,,,,,,,,,,,2023-07,0.529
+38100,"Picayune, MS",Micropolitan Statistical Area,MS,south,1,55535,55535,,,,,,,medium,unknown,micro_proxy,,,,,,0,,,,,,micro_or_unknown,,,,,,,,,,,,,,,,,,,,,,,,,,2023-07,0.529
+38180,"Pierre, SD",Micropolitan Statistical Area,SD,midwest,2,20624,20624,,,,,,,small,unknown,micro_proxy,,,,,,0,,,,,,micro_or_unknown,,,,,,,,,,,,,,,,,,,,,,,,,,2023-07,0.529
+38210,"Pikeville, KY",Micropolitan Statistical Area,KY,south,2,93465,93465,,,,,,,large,unknown,micro_proxy,,,,,,0,,,,,,micro_or_unknown,,,,,,,,,,,,,,,,,,,,,,,,,,2023-07,0.529
+38220,"Pine Bluff, AR",Micropolitan Statistical Area,AR,south,2,74780,74780,,,,,,,large,unknown,micro_proxy,,,,,,0,,,,,,micro_or_unknown,,,,,,,,,,,,,,,,,,,,,,,,,,2023-07,0.529
+38240,"Pinehurst-Southern Pines, NC",Metropolitan Statistical Area,NC,south,1,100880,100880,,,,,,,large,unknown,small_metro_proxy,,,,,,1,,,,,,metro,,,,,,,,,,,,,,,,,,,,,,,,,,2023-07,0.529
+38260,"Pittsburg, KS",Micropolitan Statistical Area,KS,midwest,1,38818,38818,,,,,,,medium,unknown,micro_proxy,,,,,,0,,,,,,micro_or_unknown,,,,,,,,,,,,,,,,,,,,,,,,,,2023-07,0.529
+38300,"Pittsburgh, PA",Metropolitan Statistical Area,PA,northeast,8,2403112,2403112,,,,,,,mega,unknown,large_metro_proxy,,,,,,1,,,,,,metro,,,,,,,,,,,,,,,,,,,,,,,,,,2023-07,0.529
+38340,"Pittsfield, MA",Metropolitan Statistical Area,MA,northeast,1,124944,124944,,,,,,,very_large,unknown,small_metro_proxy,,,,,,1,,,,,,metro,,,,,,,,,,,,,,,,,,,,,,,,,,2023-07,0.529
+38380,"Plainview, TX",Micropolitan Statistical Area,TX,south,2,39118,39118,,,,,,,medium,unknown,micro_proxy,,,,,,0,,,,,,micro_or_unknown,,,,,,,,,,,,,,,,,,,,,,,,,,2023-07,0.529
+38420,"Platteville, WI",Micropolitan Statistical Area,WI,midwest,1,51439,51439,,,,,,,medium,unknown,micro_proxy,,,,,,0,,,,,,micro_or_unknown,,,,,,,,,,,,,,,,,,,,,,,,,,2023-07,0.529
+38460,"Plattsburgh, NY",Micropolitan Statistical Area,NY,northeast,1,80485,80485,,,,,,,large,unknown,micro_proxy,,,,,,0,,,,,,micro_or_unknown,,,,,,,,,,,,,,,,,,,,,,,,,,2023-07,0.529
+38500,"Plymouth, IN",Micropolitan Statistical Area,IN,midwest,1,46258,46258,,,,,,,medium,unknown,micro_proxy,,,,,,0,,,,,,micro_or_unknown,,,,,,,,,,,,,,,,,,,,,,,,,,2023-07,0.529
+38540,"Pocatello, ID",Metropolitan Statistical Area,ID,west,1,87808,87808,,,,,,,large,unknown,small_metro_proxy,,,,,,1,,,,,,metro,,,,,,,,,,,,,,,,,,,,,,,,,,2023-07,0.529
+38620,"Ponca City, OK",Micropolitan Statistical Area,OK,south,1,43538,43538,,,,,,,medium,unknown,micro_proxy,,,,,,0,,,,,,micro_or_unknown,,,,,,,,,,,,,,,,,,,,,,,,,,2023-07,0.529
+38660,"Ponce, PR",Metropolitan Statistical Area,PR,unknown,6,,,,,,,,,unknown,unknown,small_metro_proxy,,,,,,1,,,,,,metro,,,,,,,,,,,,,,,,,,,,,,,,,,2023-07,0.412
+38700,"Pontiac, IL",Micropolitan Statistical Area,IL,midwest,1,35648,35648,,,,,,,small,unknown,micro_proxy,,,,,,0,,,,,,micro_or_unknown,,,,,,,,,,,,,,,,,,,,,,,,,,2023-07,0.529
+38740,"Poplar Bluff, MO",Micropolitan Statistical Area,MO,midwest,1,42478,42478,,,,,,,medium,unknown,micro_proxy,,,,,,0,,,,,,micro_or_unknown,,,,,,,,,,,,,,,,,,,,,,,,,,2023-07,0.529
+38820,"Port Angeles, WA",Micropolitan Statistical Area,WA,west,1,77331,77331,,,,,,,large,unknown,micro_proxy,,,,,,0,,,,,,micro_or_unknown,,,,,,,,,,,,,,,,,,,,,,,,,,2023-07,0.529
+38860,"Portland-South Portland, ME",Metropolitan Statistical Area,ME,northeast,3,538500,538500,,,,,,,mega,unknown,medium_metro_proxy,,,,,,1,,,,,,metro,,,,,,,,,,,,,,,,,,,,,,,,,,2023-07,0.529
+38900,"Portland-Vancouver-Hillsboro, OR-WA",Metropolitan Statistical Area,OR;WA,west,7,2492412,2492412,,,,,,,mega,unknown,large_metro_proxy,,,,,,1,,,,,,metro,,,,,,,,,,,,,,,,,,,,,,,,,,2023-07,0.529
+38920,"Port Lavaca, TX",Micropolitan Statistical Area,TX,south,1,21290,21290,,,,,,,small,unknown,micro_proxy,,,,,,0,,,,,,micro_or_unknown,,,,,,,,,,,,,,,,,,,,,,,,,,2023-07,0.529
+38940,"Port St. Lucie, FL",Metropolitan Statistical Area,FL,south,2,489297,489297,,,,,,,mega,unknown,medium_metro_proxy,,,,,,1,,,,,,metro,,,,,,,,,,,,,,,,,,,,,,,,,,2023-07,0.529
+39020,"Portsmouth, OH",Micropolitan Statistical Area,OH,midwest,1,75314,75314,,,,,,,large,unknown,micro_proxy,,,,,,0,,,,,,micro_or_unknown,,,,,,,,,,,,,,,,,,,,,,,,,,2023-07,0.529
+39040,"Port Townsend, WA",Micropolitan Statistical Area,WA,west,1,32221,32221,,,,,,,small,unknown,micro_proxy,,,,,,0,,,,,,micro_or_unknown,,,,,,,,,,,,,,,,,,,,,,,,,,2023-07,0.529
+39060,"Pottsville, PA",Micropolitan Statistical Area,PA,northeast,1,141359,141359,,,,,,,very_large,unknown,micro_proxy,,,,,,0,,,,,,micro_or_unknown,,,,,,,,,,,,,,,,,,,,,,,,,,2023-07,0.529
+39150,"Prescott Valley-Prescott, AZ",Metropolitan Statistical Area,AZ,west,1,235099,235099,,,,,,,very_large,unknown,small_metro_proxy,,,,,,1,,,,,,metro,,,,,,,,,,,,,,,,,,,,,,,,,,2023-07,0.529
+39220,"Price, UT",Micropolitan Statistical Area,UT,west,1,20463,20463,,,,,,,small,unknown,micro_proxy,,,,,,0,,,,,,micro_or_unknown,,,,,,,,,,,,,,,,,,,,,,,,,,2023-07,0.529
+39300,"Providence-Warwick, RI-MA",Metropolitan Statistical Area,MA;RI,northeast,6,1624578,1624578,,,,,,,mega,unknown,large_metro_proxy,,,,,,1,,,,,,metro,,,,,,,,,,,,,,,,,,,,,,,,,,2023-07,0.529
+39340,"Provo-Orem-Lehi, UT",Metropolitan Statistical Area,UT,west,2,648252,648252,,,,,,,mega,unknown,medium_metro_proxy,,,,,,1,,,,,,metro,,,,,,,,,,,,,,,,,,,,,,,,,,2023-07,0.529
+39380,"Pueblo, CO",Metropolitan Statistical Area,CO,west,1,168424,168424,,,,,,,very_large,unknown,small_metro_proxy,,,,,,1,,,,,,metro,,,,,,,,,,,,,,,,,,,,,,,,,,2023-07,0.529
+39420,"Pullman, WA",Micropolitan Statistical Area,WA,west,1,50104,50104,,,,,,,medium,unknown,micro_proxy,,,,,,0,,,,,,micro_or_unknown,,,,,,,,,,,,,,,,,,,,,,,,,,2023-07,0.529
+39460,"Punta Gorda, FL",Metropolitan Statistical Area,FL,south,1,188910,188910,,,,,,,very_large,unknown,small_metro_proxy,,,,,,1,,,,,,metro,,,,,,,,,,,,,,,,,,,,,,,,,,2023-07,0.529
+39480,"Putnam, CT",Micropolitan Statistical Area,CT,northeast,1,,,,,,,,,unknown,unknown,micro_proxy,,,,,,0,,,,,,micro_or_unknown,,,,,,,,,,,,,,,,,,,,,,,,,,2023-07,0.412
+39500,"Quincy, IL-MO",Micropolitan Statistical Area,IL;MO,midwest,2,75211,75211,,,,,,,large,unknown,micro_proxy,,,,,,0,,,,,,micro_or_unknown,,,,,,,,,,,,,,,,,,,,,,,,,,2023-07,0.529
+39540,"Racine-Mount Pleasant, WI",Metropolitan Statistical Area,WI,midwest,1,196311,196311,,,,,,,very_large,unknown,small_metro_proxy,,,,,,1,,,,,,metro,,,,,,,,,,,,,,,,,,,,,,,,,,2023-07,0.529
+39580,"Raleigh-Cary, NC",Metropolitan Statistical Area,NC,south,3,1390785,1390785,,,,,,,mega,unknown,large_metro_proxy,,,,,,1,,,,,,metro,,,,,,,,,,,,,,,,,,,,,,,,,,2023-07,0.529
+39660,"Rapid City, SD",Metropolitan Statistical Area,SD,midwest,3,151079,151079,,,,,,,very_large,unknown,small_metro_proxy,,,,,,1,,,,,,metro,,,,,,,,,,,,,,,,,,,,,,,,,,2023-07,0.529
+39700,"Raymondville, TX",Micropolitan Statistical Area,TX,south,1,21358,21358,,,,,,,small,unknown,micro_proxy,,,,,,0,,,,,,micro_or_unknown,,,,,,,,,,,,,,,,,,,,,,,,,,2023-07,0.529
+39740,"Reading, PA",Metropolitan Statistical Area,PA,northeast,1,421164,421164,,,,,,,mega,unknown,medium_metro_proxy,,,,,,1,,,,,,metro,,,,,,,,,,,,,,,,,,,,,,,,,,2023-07,0.529
+39780,"Red Bluff, CA",Micropolitan Statistical Area,CA,west,1,65084,65084,,,,,,,large,unknown,micro_proxy,,,,,,0,,,,,,micro_or_unknown,,,,,,,,,,,,,,,,,,,,,,,,,,2023-07,0.529
+39820,"Redding, CA",Metropolitan Statistical Area,CA,west,1,180080,180080,,,,,,,very_large,unknown,small_metro_proxy,,,,,,1,,,,,,metro,,,,,,,,,,,,,,,,,,,,,,,,,,2023-07,0.529
+39860,"Red Wing, MN",Micropolitan Statistical Area,MN,midwest,1,46340,46340,,,,,,,medium,unknown,micro_proxy,,,,,,0,,,,,,micro_or_unknown,,,,,,,,,,,,,,,,,,,,,,,,,,2023-07,0.529
+39900,"Reno, NV",Metropolitan Statistical Area,NV,west,3,533152,533152,,,,,,,mega,unknown,medium_metro_proxy,,,,,,1,,,,,,metro,,,,,,,,,,,,,,,,,,,,,,,,,,2023-07,0.529
+39940,"Rexburg, ID",Micropolitan Statistical Area,ID,west,2,53006,53006,,,,,,,medium,unknown,micro_proxy,,,,,,0,,,,,,micro_or_unknown,,,,,,,,,,,,,,,,,,,,,,,,,,2023-07,0.529
+39960,"Rice Lake, WI",Micropolitan Statistical Area,WI,midwest,1,45244,45244,,,,,,,medium,unknown,micro_proxy,,,,,,0,,,,,,micro_or_unknown,,,,,,,,,,,,,,,,,,,,,,,,,,2023-07,0.529
+39980,"Richmond, IN",Micropolitan Statistical Area,IN,midwest,1,65884,65884,,,,,,,large,unknown,micro_proxy,,,,,,0,,,,,,micro_or_unknown,,,,,,,,,,,,,,,,,,,,,,,,,,2023-07,0.529
+40060,"Richmond, VA",Metropolitan Statistical Area,VA,south,17,1291900,1291900,,,,,,,mega,unknown,large_metro_proxy,,,,,,1,,,,,,metro,,,,,,,,,,,,,,,,,,,,,,,,,,2023-07,0.529
+40080,"Richmond-Berea, KY",Micropolitan Statistical Area,KY,south,3,123788,123788,,,,,,,very_large,unknown,micro_proxy,,,,,,0,,,,,,micro_or_unknown,,,,,,,,,,,,,,,,,,,,,,,,,,2023-07,0.529
+40090,"Rifle, CO",Micropolitan Statistical Area,CO,west,2,77828,77828,,,,,,,large,unknown,micro_proxy,,,,,,0,,,,,,micro_or_unknown,,,,,,,,,,,,,,,,,,,,,,,,,,2023-07,0.529
+40100,"Rio Grande City-Roma, TX",Micropolitan Statistical Area,TX,south,1,64633,64633,,,,,,,large,unknown,micro_proxy,,,,,,0,,,,,,micro_or_unknown,,,,,,,,,,,,,,,,,,,,,,,,,,2023-07,0.529
+40140,"Riverside-San Bernardino-Ontario, CA",Metropolitan Statistical Area,CA,west,2,4650631,4650631,,,,,,,mega,unknown,large_metro_proxy,,,,,,1,,,,,,metro,,,,,,,,,,,,,,,,,,,,,,,,,,2023-07,0.529
+40180,"Riverton, WY",Micropolitan Statistical Area,WY,west,1,39261,39261,,,,,,,medium,unknown,micro_proxy,,,,,,0,,,,,,micro_or_unknown,,,,,,,,,,,,,,,,,,,,,,,,,,2023-07,0.529
+40220,"Roanoke, VA",Metropolitan Statistical Area,VA,south,6,313222,313222,,,,,,,mega,unknown,medium_metro_proxy,,,,,,1,,,,,,metro,,,,,,,,,,,,,,,,,,,,,,,,,,2023-07,0.529
+40260,"Roanoke Rapids, NC",Micropolitan Statistical Area,NC,south,2,69493,69493,,,,,,,large,unknown,micro_proxy,,,,,,0,,,,,,micro_or_unknown,,,,,,,,,,,,,,,,,,,,,,,,,,2023-07,0.529
+40300,"Rochelle, IL",Micropolitan Statistical Area,IL,midwest,1,50643,50643,,,,,,,medium,unknown,micro_proxy,,,,,,0,,,,,,micro_or_unknown,,,,,,,,,,,,,,,,,,,,,,,,,,2023-07,0.529
+40340,"Rochester, MN",Metropolitan Statistical Area,MN,midwest,4,221921,221921,,,,,,,very_large,unknown,small_metro_proxy,,,,,,1,,,,,,metro,,,,,,,,,,,,,,,,,,,,,,,,,,2023-07,0.529
+40380,"Rochester, NY",Metropolitan Statistical Area,NY,northeast,5,1044731,1044731,,,,,,,mega,unknown,large_metro_proxy,,,,,,1,,,,,,metro,,,,,,,,,,,,,,,,,,,,,,,,,,2023-07,0.529
+40420,"Rockford, IL",Metropolitan Statistical Area,IL,midwest,2,336116,336116,,,,,,,mega,unknown,medium_metro_proxy,,,,,,1,,,,,,metro,,,,,,,,,,,,,,,,,,,,,,,,,,2023-07,0.529
+40460,"Rockingham, NC",Micropolitan Statistical Area,NC,south,1,44829,44829,,,,,,,medium,unknown,micro_proxy,,,,,,0,,,,,,micro_or_unknown,,,,,,,,,,,,,,,,,,,,,,,,,,2023-07,0.529
+40540,"Rock Springs, WY",Micropolitan Statistical Area,WY,west,1,42343,42343,,,,,,,medium,unknown,micro_proxy,,,,,,0,,,,,,micro_or_unknown,,,,,,,,,,,,,,,,,,,,,,,,,,2023-07,0.529
+40580,"Rocky Mount, NC",Metropolitan Statistical Area,NC,south,2,145770,145770,,,,,,,very_large,unknown,small_metro_proxy,,,,,,1,,,,,,metro,,,,,,,,,,,,,,,,,,,,,,,,,,2023-07,0.529
+40620,"Rolla, MO",Micropolitan Statistical Area,MO,midwest,1,44573,44573,,,,,,,medium,unknown,micro_proxy,,,,,,0,,,,,,micro_or_unknown,,,,,,,,,,,,,,,,,,,,,,,,,,2023-07,0.529
+40660,"Rome, GA",Metropolitan Statistical Area,GA,south,1,98498,98498,,,,,,,large,unknown,small_metro_proxy,,,,,,1,,,,,,metro,,,,,,,,,,,,,,,,,,,,,,,,,,2023-07,0.529
+40700,"Roseburg, OR",Micropolitan Statistical Area,OR,west,1,110980,110980,,,,,,,very_large,unknown,micro_proxy,,,,,,0,,,,,,micro_or_unknown,,,,,,,,,,,,,,,,,,,,,,,,,,2023-07,0.529
+40740,"Roswell, NM",Micropolitan Statistical Area,NM,west,1,64615,64615,,,,,,,large,unknown,micro_proxy,,,,,,0,,,,,,micro_or_unknown,,,,,,,,,,,,,,,,,,,,,,,,,,2023-07,0.529
+40760,"Ruidoso, NM",Micropolitan Statistical Area,NM,west,1,19572,19572,,,,,,,small,unknown,micro_proxy,,,,,,0,,,,,,micro_or_unknown,,,,,,,,,,,,,,,,,,,,,,,,,,2023-07,0.529
+40770,"Russellville, AL",Micropolitan Statistical Area,AL,south,1,31362,31362,,,,,,,small,unknown,micro_proxy,,,,,,0,,,,,,micro_or_unknown,,,,,,,,,,,,,,,,,,,,,,,,,,2023-07,0.529
+40780,"Russellville, AR",Micropolitan Statistical Area,AR,south,2,85413,85413,,,,,,,large,unknown,micro_proxy,,,,,,0,,,,,,micro_or_unknown,,,,,,,,,,,,,,,,,,,,,,,,,,2023-07,0.529
+40820,"Ruston, LA",Micropolitan Statistical Area,LA,south,1,46742,46742,,,,,,,medium,unknown,micro_proxy,,,,,,0,,,,,,micro_or_unknown,,,,,,,,,,,,,,,,,,,,,,,,,,2023-07,0.529
+40860,"Rutland, VT",Micropolitan Statistical Area,VT,northeast,1,58191,58191,,,,,,,large,unknown,micro_proxy,,,,,,0,,,,,,micro_or_unknown,,,,,,,,,,,,,,,,,,,,,,,,,,2023-07,0.529
+40900,"Sacramento-Roseville-Folsom, CA",Metropolitan Statistical Area,CA,west,4,2363730,2363730,,,,,,,mega,unknown,large_metro_proxy,,,,,,1,,,,,,metro,,,,,,,,,,,,,,,,,,,,,,,,,,2023-07,0.529
+40940,"Safford, AZ",Micropolitan Statistical Area,AZ,west,1,38837,38837,,,,,,,medium,unknown,micro_proxy,,,,,,0,,,,,,micro_or_unknown,,,,,,,,,,,,,,,,,,,,,,,,,,2023-07,0.529
+40980,"Saginaw, MI",Metropolitan Statistical Area,MI,midwest,1,190539,190539,,,,,,,very_large,unknown,small_metro_proxy,,,,,,1,,,,,,metro,,,,,,,,,,,,,,,,,,,,,,,,,,2023-07,0.529
+41060,"St. Cloud, MN",Metropolitan Statistical Area,MN,midwest,2,201964,201964,,,,,,,very_large,unknown,small_metro_proxy,,,,,,1,,,,,,metro,,,,,,,,,,,,,,,,,,,,,,,,,,2023-07,0.529
+41100,"St. George, UT",Metropolitan Statistical Area,UT,west,1,177556,177556,,,,,,,very_large,unknown,small_metro_proxy,,,,,,1,,,,,,metro,,,,,,,,,,,,,,,,,,,,,,,,,,2023-07,0.529
+41140,"St. Joseph, MO-KS",Metropolitan Statistical Area,KS;MO,midwest,4,125223,125223,,,,,,,very_large,unknown,small_metro_proxy,,,,,,1,,,,,,metro,,,,,,,,,,,,,,,,,,,,,,,,,,2023-07,0.529
+41180,"St. Louis, MO-IL",Metropolitan Statistical Area,IL;MO,midwest,15,2803228,2803228,,,,,,,mega,unknown,large_metro_proxy,,,,,,1,,,,,,metro,,,,,,,,,,,,,,,,,,,,,,,,,,2023-07,0.529
+41260,"St. Marys, PA",Micropolitan Statistical Area,PA,northeast,1,29910,29910,,,,,,,small,unknown,micro_proxy,,,,,,0,,,,,,micro_or_unknown,,,,,,,,,,,,,,,,,,,,,,,,,,2023-07,0.529
+41400,"Salem, OH",Micropolitan Statistical Area,OH,midwest,1,101883,101883,,,,,,,large,unknown,micro_proxy,,,,,,0,,,,,,micro_or_unknown,,,,,,,,,,,,,,,,,,,,,,,,,,2023-07,0.529
+41420,"Salem, OR",Metropolitan Statistical Area,OR,west,2,433903,433903,,,,,,,mega,unknown,medium_metro_proxy,,,,,,1,,,,,,metro,,,,,,,,,,,,,,,,,,,,,,,,,,2023-07,0.529
+41460,"Salina, KS",Micropolitan Statistical Area,KS,midwest,2,59928,59928,,,,,,,large,unknown,micro_proxy,,,,,,0,,,,,,micro_or_unknown,,,,,,,,,,,,,,,,,,,,,,,,,,2023-07,0.529
+41500,"Salinas, CA",Metropolitan Statistical Area,CA,west,1,434061,434061,,,,,,,mega,unknown,medium_metro_proxy,,,,,,1,,,,,,metro,,,,,,,,,,,,,,,,,,,,,,,,,,2023-07,0.529
+41540,"Salisbury, MD",Metropolitan Statistical Area,MD,south,2,129225,129225,,,,,,,very_large,unknown,small_metro_proxy,,,,,,1,,,,,,metro,,,,,,,,,,,,,,,,,,,,,,,,,,2023-07,0.529
+41620,"Salt Lake City-Murray, UT",Metropolitan Statistical Area,UT,west,2,1232696,1232696,,,,,,,mega,unknown,large_metro_proxy,,,,,,1,,,,,,metro,,,,,,,,,,,,,,,,,,,,,,,,,,2023-07,0.529
+41660,"San Angelo, TX",Metropolitan Statistical Area,TX,south,2,120736,120736,,,,,,,very_large,unknown,small_metro_proxy,,,,,,1,,,,,,metro,,,,,,,,,,,,,,,,,,,,,,,,,,2023-07,0.529
+41700,"San Antonio-New Braunfels, TX",Metropolitan Statistical Area,TX,south,8,2550960,2550960,,,,,,,mega,unknown,large_metro_proxy,,,,,,1,,,,,,metro,,,,,,,,,,,,,,,,,,,,,,,,,,2023-07,0.529
+41740,"San Diego-Chula Vista-Carlsbad, CA",Metropolitan Statistical Area,CA,west,1,3338330,3338330,,,,,,,mega,unknown,large_metro_proxy,,,,,,1,,,,,,metro,,,,,,,,,,,,,,,,,,,,,,,,,,2023-07,0.529
+41760,"Sandpoint, ID",Micropolitan Statistical Area,ID,west,1,45739,45739,,,,,,,medium,unknown,micro_proxy,,,,,,0,,,,,,micro_or_unknown,,,,,,,,,,,,,,,,,,,,,,,,,,2023-07,0.529
+41780,"Sandusky, OH",Metropolitan Statistical Area,OH,midwest,2,114791,114791,,,,,,,very_large,unknown,small_metro_proxy,,,,,,1,,,,,,metro,,,,,,,,,,,,,,,,,,,,,,,,,,2023-07,0.529
+41820,"Sanford, NC",Micropolitan Statistical Area,NC,south,1,61779,61779,,,,,,,large,unknown,micro_proxy,,,,,,0,,,,,,micro_or_unknown,,,,,,,,,,,,,,,,,,,,,,,,,,2023-07,0.529
+41860,"San Francisco-Oakland-Fremont, CA",Metropolitan Statistical Area,CA,west,5,4731803,4731803,,,,,,,mega,unknown,large_metro_proxy,,,,,,1,,,,,,metro,,,,,,,,,,,,,,,,,,,,,,,,,,2023-07,0.529
+41940,"San Jose-Sunnyvale-Santa Clara, CA",Metropolitan Statistical Area,CA,west,2,1990660,1990660,,,,,,,mega,unknown,large_metro_proxy,,,,,,1,,,,,,metro,,,,,,,,,,,,,,,,,,,,,,,,,,2023-07,0.529
+41980,"San Juan-Bayamón-Caguas, PR",Metropolitan Statistical Area,PR,unknown,40,,,,,,,,,unknown,unknown,small_metro_proxy,,,,,,1,,,,,,metro,,,,,,,,,,,,,,,,,,,,,,,,,,2023-07,0.412
+42020,"San Luis Obispo-Paso Robles, CA",Metropolitan Statistical Area,CA,west,1,283111,283111,,,,,,,mega,unknown,medium_metro_proxy,,,,,,1,,,,,,metro,,,,,,,,,,,,,,,,,,,,,,,,,,2023-07,0.529
+42100,"Santa Cruz-Watsonville, CA",Metropolitan Statistical Area,CA,west,1,273213,273213,,,,,,,mega,unknown,medium_metro_proxy,,,,,,1,,,,,,metro,,,,,,,,,,,,,,,,,,,,,,,,,,2023-07,0.529
+42140,"Santa Fe, NM",Metropolitan Statistical Area,NM,west,1,150358,150358,,,,,,,very_large,unknown,small_metro_proxy,,,,,,1,,,,,,metro,,,,,,,,,,,,,,,,,,,,,,,,,,2023-07,0.529
+42200,"Santa Maria-Santa Barbara, CA",Metropolitan Statistical Area,CA,west,1,446499,446499,,,,,,,mega,unknown,medium_metro_proxy,,,,,,1,,,,,,metro,,,,,,,,,,,,,,,,,,,,,,,,,,2023-07,0.529
+42220,"Santa Rosa-Petaluma, CA",Metropolitan Statistical Area,CA,west,1,494336,494336,,,,,,,mega,unknown,medium_metro_proxy,,,,,,1,,,,,,metro,,,,,,,,,,,,,,,,,,,,,,,,,,2023-07,0.529
+42300,"Sault Ste. Marie, MI",Micropolitan Statistical Area,MI,midwest,1,37349,37349,,,,,,,medium,unknown,micro_proxy,,,,,,0,,,,,,micro_or_unknown,,,,,,,,,,,,,,,,,,,,,,,,,,2023-07,0.529
+42340,"Savannah, GA",Metropolitan Statistical Area,GA,south,3,393353,393353,,,,,,,mega,unknown,medium_metro_proxy,,,,,,1,,,,,,metro,,,,,,,,,,,,,,,,,,,,,,,,,,2023-07,0.529
+42380,"Sayre, PA",Micropolitan Statistical Area,PA,northeast,1,60323,60323,,,,,,,large,unknown,micro_proxy,,,,,,0,,,,,,micro_or_unknown,,,,,,,,,,,,,,,,,,,,,,,,,,2023-07,0.529
+42420,"Scottsbluff, NE",Micropolitan Statistical Area,NE,midwest,2,36363,36363,,,,,,,small,unknown,micro_proxy,,,,,,0,,,,,,micro_or_unknown,,,,,,,,,,,,,,,,,,,,,,,,,,2023-07,0.529
+42460,"Scottsboro, AL",Micropolitan Statistical Area,AL,south,1,51626,51626,,,,,,,medium,unknown,micro_proxy,,,,,,0,,,,,,micro_or_unknown,,,,,,,,,,,,,,,,,,,,,,,,,,2023-07,0.529
+42540,"Scranton--Wilkes-Barre, PA",Metropolitan Statistical Area,PA,northeast,3,553885,553885,,,,,,,mega,unknown,medium_metro_proxy,,,,,,1,,,,,,metro,,,,,,,,,,,,,,,,,,,,,,,,,,2023-07,0.529
+42580,"Seaford, DE",Micropolitan Statistical Area,DE,south,1,234225,234225,,,,,,,very_large,unknown,micro_proxy,,,,,,0,,,,,,micro_or_unknown,,,,,,,,,,,,,,,,,,,,,,,,,,2023-07,0.529
+42620,"Searcy, AR",Micropolitan Statistical Area,AR,south,1,78753,78753,,,,,,,large,unknown,micro_proxy,,,,,,0,,,,,,micro_or_unknown,,,,,,,,,,,,,,,,,,,,,,,,,,2023-07,0.529
+42660,"Seattle-Tacoma-Bellevue, WA",Metropolitan Statistical Area,WA,west,3,3979845,3979845,,,,,,,mega,unknown,large_metro_proxy,,,,,,1,,,,,,metro,,,,,,,,,,,,,,,,,,,,,,,,,,2023-07,0.529
+42680,"Sebastian-Vero Beach-West Vero Corridor, FL",Metropolitan Statistical Area,FL,south,1,159923,159923,,,,,,,very_large,unknown,small_metro_proxy,,,,,,1,,,,,,metro,,,,,,,,,,,,,,,,,,,,,,,,,,2023-07,0.529
+42700,"Sebring, FL",Metropolitan Statistical Area,FL,south,1,106221,106221,,,,,,,large,unknown,small_metro_proxy,,,,,,1,,,,,,metro,,,,,,,,,,,,,,,,,,,,,,,,,,2023-07,0.529
+42740,"Sedalia, MO",Micropolitan Statistical Area,MO,midwest,1,42339,42339,,,,,,,medium,unknown,micro_proxy,,,,,,0,,,,,,micro_or_unknown,,,,,,,,,,,,,,,,,,,,,,,,,,2023-07,0.529
+42780,"Selinsgrove, PA",Micropolitan Statistical Area,PA,northeast,1,40372,40372,,,,,,,medium,unknown,micro_proxy,,,,,,0,,,,,,micro_or_unknown,,,,,,,,,,,,,,,,,,,,,,,,,,2023-07,0.529
+42820,"Selma, AL",Micropolitan Statistical Area,AL,south,1,37196,37196,,,,,,,small,unknown,micro_proxy,,,,,,0,,,,,,micro_or_unknown,,,,,,,,,,,,,,,,,,,,,,,,,,2023-07,0.529
+42860,"Seneca, SC",Micropolitan Statistical Area,SC,south,1,79546,79546,,,,,,,large,unknown,micro_proxy,,,,,,0,,,,,,micro_or_unknown,,,,,,,,,,,,,,,,,,,,,,,,,,2023-07,0.529
+42900,"Seneca Falls, NY",Micropolitan Statistical Area,NY,northeast,1,34016,34016,,,,,,,small,unknown,micro_proxy,,,,,,0,,,,,,micro_or_unknown,,,,,,,,,,,,,,,,,,,,,,,,,,2023-07,0.529
+42940,"Sevierville, TN",Micropolitan Statistical Area,TN,south,1,98250,98250,,,,,,,large,unknown,micro_proxy,,,,,,0,,,,,,micro_or_unknown,,,,,,,,,,,,,,,,,,,,,,,,,,2023-07,0.529
+42980,"Seymour, IN",Micropolitan Statistical Area,IN,midwest,1,44231,44231,,,,,,,medium,unknown,micro_proxy,,,,,,0,,,,,,micro_or_unknown,,,,,,,,,,,,,,,,,,,,,,,,,,2023-07,0.529
+43020,"Shawano, WI",Micropolitan Statistical Area,WI,midwest,2,45455,45455,,,,,,,medium,unknown,micro_proxy,,,,,,0,,,,,,micro_or_unknown,,,,,,,,,,,,,,,,,,,,,,,,,,2023-07,0.529
+43060,"Shawnee, OK",Micropolitan Statistical Area,OK,south,1,72592,72592,,,,,,,large,unknown,micro_proxy,,,,,,0,,,,,,micro_or_unknown,,,,,,,,,,,,,,,,,,,,,,,,,,2023-07,0.529
+43100,"Sheboygan, WI",Metropolitan Statistical Area,WI,midwest,1,115340,115340,,,,,,,very_large,unknown,small_metro_proxy,,,,,,1,,,,,,metro,,,,,,,,,,,,,,,,,,,,,,,,,,2023-07,0.529
+43140,"Shelby-Kings Mountain, NC",Micropolitan Statistical Area,NC,south,1,97947,97947,,,,,,,large,unknown,micro_proxy,,,,,,0,,,,,,micro_or_unknown,,,,,,,,,,,,,,,,,,,,,,,,,,2023-07,0.529
+43180,"Shelbyville, TN",Micropolitan Statistical Area,TN,south,1,49713,49713,,,,,,,medium,unknown,micro_proxy,,,,,,0,,,,,,micro_or_unknown,,,,,,,,,,,,,,,,,,,,,,,,,,2023-07,0.529
+43220,"Shelton, WA",Micropolitan Statistical Area,WA,west,1,66768,66768,,,,,,,large,unknown,micro_proxy,,,,,,0,,,,,,micro_or_unknown,,,,,,,,,,,,,,,,,,,,,,,,,,2023-07,0.529
+43260,"Sheridan, WY",Micropolitan Statistical Area,WY,west,1,30485,30485,,,,,,,small,unknown,micro_proxy,,,,,,0,,,,,,micro_or_unknown,,,,,,,,,,,,,,,,,,,,,,,,,,2023-07,0.529
+43300,"Sherman-Denison, TX",Metropolitan Statistical Area,TX,south,1,136212,136212,,,,,,,very_large,unknown,small_metro_proxy,,,,,,1,,,,,,metro,,,,,,,,,,,,,,,,,,,,,,,,,,2023-07,0.529
+43320,"Show Low, AZ",Micropolitan Statistical Area,AZ,west,1,110924,110924,,,,,,,very_large,unknown,micro_proxy,,,,,,0,,,,,,micro_or_unknown,,,,,,,,,,,,,,,,,,,,,,,,,,2023-07,0.529
+43340,"Shreveport-Bossier City, LA",Metropolitan Statistical Area,LA,south,3,394706,394706,,,,,,,mega,unknown,medium_metro_proxy,,,,,,1,,,,,,metro,,,,,,,,,,,,,,,,,,,,,,,,,,2023-07,0.529
+43380,"Sidney, OH",Micropolitan Statistical Area,OH,midwest,1,48590,48590,,,,,,,medium,unknown,micro_proxy,,,,,,0,,,,,,micro_or_unknown,,,,,,,,,,,,,,,,,,,,,,,,,,2023-07,0.529
+43420,"Sierra Vista-Douglas, AZ",Metropolitan Statistical Area,AZ,west,1,125922,125922,,,,,,,very_large,unknown,small_metro_proxy,,,,,,1,,,,,,metro,,,,,,,,,,,,,,,,,,,,,,,,,,2023-07,0.529
+43460,"Sikeston, MO",Micropolitan Statistical Area,MO,midwest,2,51460,51460,,,,,,,medium,unknown,micro_proxy,,,,,,0,,,,,,micro_or_unknown,,,,,,,,,,,,,,,,,,,,,,,,,,2023-07,0.529
+43500,"Silver City, NM",Micropolitan Statistical Area,NM,west,1,26998,26998,,,,,,,small,unknown,micro_proxy,,,,,,0,,,,,,micro_or_unknown,,,,,,,,,,,,,,,,,,,,,,,,,,2023-07,0.529
+43580,"Sioux City, IA-NE-SD",Metropolitan Statistical Area,IA;NE;SD,midwest,3,139065,139065,,,,,,,very_large,unknown,small_metro_proxy,,,,,,1,,,,,,metro,,,,,,,,,,,,,,,,,,,,,,,,,,2023-07,0.529
+43620,"Sioux Falls, SD-MN",Metropolitan Statistical Area,MN;SD,midwest,5,277547,277547,,,,,,,mega,unknown,medium_metro_proxy,,,,,,1,,,,,,metro,,,,,,,,,,,,,,,,,,,,,,,,,,2023-07,0.529
+43640,"Slidell-Mandeville-Covington, LA",Metropolitan Statistical Area,LA,south,1,260419,260419,,,,,,,very_large,unknown,medium_metro_proxy,,,,,,1,,,,,,metro,,,,,,,,,,,,,,,,,,,,,,,,,,2023-07,0.529
+43660,"Snyder, TX",Micropolitan Statistical Area,TX,south,1,16703,16703,,,,,,,small,unknown,micro_proxy,,,,,,0,,,,,,micro_or_unknown,,,,,,,,,,,,,,,,,,,,,,,,,,2023-07,0.529
+43700,"Somerset, KY",Micropolitan Statistical Area,KY,south,1,64979,64979,,,,,,,large,unknown,micro_proxy,,,,,,0,,,,,,micro_or_unknown,,,,,,,,,,,,,,,,,,,,,,,,,,2023-07,0.529
+43740,"Somerset, PA",Micropolitan Statistical Area,PA,northeast,1,73447,73447,,,,,,,large,unknown,micro_proxy,,,,,,0,,,,,,micro_or_unknown,,,,,,,,,,,,,,,,,,,,,,,,,,2023-07,0.529
+43760,"Sonora, CA",Micropolitan Statistical Area,CA,west,1,54478,54478,,,,,,,medium,unknown,micro_proxy,,,,,,0,,,,,,micro_or_unknown,,,,,,,,,,,,,,,,,,,,,,,,,,2023-07,0.529
+43780,"South Bend-Mishawaka, IN-MI",Metropolitan Statistical Area,IN;MI,midwest,2,323613,323613,,,,,,,mega,unknown,medium_metro_proxy,,,,,,1,,,,,,metro,,,,,,,,,,,,,,,,,,,,,,,,,,2023-07,0.529
+43890,"Sparta, WI",Micropolitan Statistical Area,WI,midwest,1,46253,46253,,,,,,,medium,unknown,micro_proxy,,,,,,0,,,,,,micro_or_unknown,,,,,,,,,,,,,,,,,,,,,,,,,,2023-07,0.529
+43900,"Spartanburg, SC",Metropolitan Statistical Area,SC,south,2,347101,347101,,,,,,,mega,unknown,medium_metro_proxy,,,,,,1,,,,,,metro,,,,,,,,,,,,,,,,,,,,,,,,,,2023-07,0.529
+43940,"Spearfish, SD",Micropolitan Statistical Area,SD,midwest,1,25844,25844,,,,,,,small,unknown,micro_proxy,,,,,,0,,,,,,micro_or_unknown,,,,,,,,,,,,,,,,,,,,,,,,,,2023-07,0.529
+43980,"Spencer, IA",Micropolitan Statistical Area,IA,midwest,1,16016,16016,,,,,,,small,unknown,micro_proxy,,,,,,0,,,,,,micro_or_unknown,,,,,,,,,,,,,,,,,,,,,,,,,,2023-07,0.529
+44020,"Spirit Lake, IA",Micropolitan Statistical Area,IA,midwest,1,17258,17258,,,,,,,small,unknown,micro_proxy,,,,,,0,,,,,,micro_or_unknown,,,,,,,,,,,,,,,,,,,,,,,,,,2023-07,0.529
+44060,"Spokane-Spokane Valley, WA",Metropolitan Statistical Area,WA,west,2,568521,568521,,,,,,,mega,unknown,medium_metro_proxy,,,,,,1,,,,,,metro,,,,,,,,,,,,,,,,,,,,,,,,,,2023-07,0.529
+44100,"Springfield, IL",Metropolitan Statistical Area,IL,midwest,2,206868,206868,,,,,,,very_large,unknown,small_metro_proxy,,,,,,1,,,,,,metro,,,,,,,,,,,,,,,,,,,,,,,,,,2023-07,0.529
+44140,"Springfield, MA",Metropolitan Statistical Area,MA,northeast,1,466372,466372,,,,,,,mega,unknown,medium_metro_proxy,,,,,,1,,,,,,metro,,,,,,,,,,,,,,,,,,,,,,,,,,2023-07,0.529
+44180,"Springfield, MO",Metropolitan Statistical Area,MO,midwest,5,470300,470300,,,,,,,mega,unknown,medium_metro_proxy,,,,,,1,,,,,,metro,,,,,,,,,,,,,,,,,,,,,,,,,,2023-07,0.529
+44220,"Springfield, OH",Metropolitan Statistical Area,OH,midwest,1,134083,134083,,,,,,,very_large,unknown,small_metro_proxy,,,,,,1,,,,,,metro,,,,,,,,,,,,,,,,,,,,,,,,,,2023-07,0.529
+44260,"Starkville, MS",Micropolitan Statistical Area,MS,south,2,59276,59276,,,,,,,large,unknown,micro_proxy,,,,,,0,,,,,,micro_or_unknown,,,,,,,,,,,,,,,,,,,,,,,,,,2023-07,0.529
+44300,"State College, PA",Metropolitan Statistical Area,PA,northeast,1,162385,162385,,,,,,,very_large,unknown,small_metro_proxy,,,,,,1,,,,,,metro,,,,,,,,,,,,,,,,,,,,,,,,,,2023-07,0.529
+44340,"Statesboro, GA",Micropolitan Statistical Area,GA,south,2,90262,90262,,,,,,,large,unknown,micro_proxy,,,,,,0,,,,,,micro_or_unknown,,,,,,,,,,,,,,,,,,,,,,,,,,2023-07,0.529
+44420,"Staunton-Stuarts Draft, VA",Metropolitan Statistical Area,VA,south,3,123120,123120,,,,,,,very_large,unknown,small_metro_proxy,,,,,,1,,,,,,metro,,,,,,,,,,,,,,,,,,,,,,,,,,2023-07,0.529
+44460,"Steamboat Springs, CO",Micropolitan Statistical Area,CO,west,2,38921,38921,,,,,,,medium,unknown,micro_proxy,,,,,,0,,,,,,micro_or_unknown,,,,,,,,,,,,,,,,,,,,,,,,,,2023-07,0.529
+44500,"Stephenville, TX",Micropolitan Statistical Area,TX,south,1,42698,42698,,,,,,,medium,unknown,micro_proxy,,,,,,0,,,,,,micro_or_unknown,,,,,,,,,,,,,,,,,,,,,,,,,,2023-07,0.529
+44540,"Sterling, CO",Micropolitan Statistical Area,CO,west,1,22409,22409,,,,,,,small,unknown,micro_proxy,,,,,,0,,,,,,micro_or_unknown,,,,,,,,,,,,,,,,,,,,,,,,,,2023-07,0.529
+44580,"Sterling, IL",Micropolitan Statistical Area,IL,midwest,1,55175,55175,,,,,,,medium,unknown,micro_proxy,,,,,,0,,,,,,micro_or_unknown,,,,,,,,,,,,,,,,,,,,,,,,,,2023-07,0.529
+44620,"Stevens Point-Plover, WI",Micropolitan Statistical Area,WI,midwest,1,70772,70772,,,,,,,large,unknown,micro_proxy,,,,,,0,,,,,,micro_or_unknown,,,,,,,,,,,,,,,,,,,,,,,,,,2023-07,0.529
+44660,"Stillwater, OK",Micropolitan Statistical Area,OK,south,1,81784,81784,,,,,,,large,unknown,micro_proxy,,,,,,0,,,,,,micro_or_unknown,,,,,,,,,,,,,,,,,,,,,,,,,,2023-07,0.529
+44700,"Stockton-Lodi, CA",Metropolitan Statistical Area,CA,west,1,762148,762148,,,,,,,mega,unknown,medium_metro_proxy,,,,,,1,,,,,,metro,,,,,,,,,,,,,,,,,,,,,,,,,,2023-07,0.529
+44740,"Storm Lake, IA",Micropolitan Statistical Area,IA,midwest,1,19620,19620,,,,,,,small,unknown,micro_proxy,,,,,,0,,,,,,micro_or_unknown,,,,,,,,,,,,,,,,,,,,,,,,,,2023-07,0.529
+44780,"Sturgis, MI",Micropolitan Statistical Area,MI,midwest,1,60964,60964,,,,,,,large,unknown,micro_proxy,,,,,,0,,,,,,micro_or_unknown,,,,,,,,,,,,,,,,,,,,,,,,,,2023-07,0.529
+44860,"Sulphur Springs, TX",Micropolitan Statistical Area,TX,south,1,37084,37084,,,,,,,small,unknown,micro_proxy,,,,,,0,,,,,,micro_or_unknown,,,,,,,,,,,,,,,,,,,,,,,,,,2023-07,0.529
+44900,"Summerville, GA",Micropolitan Statistical Area,GA,south,1,24789,24789,,,,,,,small,unknown,micro_proxy,,,,,,0,,,,,,micro_or_unknown,,,,,,,,,,,,,,,,,,,,,,,,,,2023-07,0.529
+44940,"Sumter, SC",Metropolitan Statistical Area,SC,south,1,106721,106721,,,,,,,large,unknown,small_metro_proxy,,,,,,1,,,,,,metro,,,,,,,,,,,,,,,,,,,,,,,,,,2023-07,0.529
+44980,"Sunbury, PA",Micropolitan Statistical Area,PA,northeast,2,109073,109073,,,,,,,very_large,unknown,micro_proxy,,,,,,0,,,,,,micro_or_unknown,,,,,,,,,,,,,,,,,,,,,,,,,,2023-07,0.529
+45000,"Susanville, CA",Micropolitan Statistical Area,CA,west,1,30573,30573,,,,,,,small,unknown,micro_proxy,,,,,,0,,,,,,micro_or_unknown,,,,,,,,,,,,,,,,,,,,,,,,,,2023-07,0.529
+45020,"Sweetwater, TX",Micropolitan Statistical Area,TX,south,1,14714,14714,,,,,,,small,unknown,micro_proxy,,,,,,0,,,,,,micro_or_unknown,,,,,,,,,,,,,,,,,,,,,,,,,,2023-07,0.529
+45060,"Syracuse, NY",Metropolitan Statistical Area,NY,northeast,3,648593,648593,,,,,,,mega,unknown,medium_metro_proxy,,,,,,1,,,,,,metro,,,,,,,,,,,,,,,,,,,,,,,,,,2023-07,0.529
+45140,"Tahlequah, OK",Micropolitan Statistical Area,OK,south,1,48657,48657,,,,,,,medium,unknown,micro_proxy,,,,,,0,,,,,,micro_or_unknown,,,,,,,,,,,,,,,,,,,,,,,,,,2023-07,0.529
+45180,"Talladega-Sylacauga, AL",Micropolitan Statistical Area,AL,south,2,90641,90641,,,,,,,large,unknown,micro_proxy,,,,,,0,,,,,,micro_or_unknown,,,,,,,,,,,,,,,,,,,,,,,,,,2023-07,0.529
+45220,"Tallahassee, FL",Metropolitan Statistical Area,FL,south,4,387227,387227,,,,,,,mega,unknown,medium_metro_proxy,,,,,,1,,,,,,metro,,,,,,,,,,,,,,,,,,,,,,,,,,2023-07,0.529
+45300,"Tampa-St. Petersburg-Clearwater, FL",Metropolitan Statistical Area,FL,south,4,3194831,3194831,,,,,,,mega,unknown,large_metro_proxy,,,,,,1,,,,,,metro,,,,,,,,,,,,,,,,,,,,,,,,,,2023-07,0.529
+45340,"Taos, NM",Micropolitan Statistical Area,NM,west,1,32723,32723,,,,,,,small,unknown,micro_proxy,,,,,,0,,,,,,micro_or_unknown,,,,,,,,,,,,,,,,,,,,,,,,,,2023-07,0.529
+45380,"Taylorville, IL",Micropolitan Statistical Area,IL,midwest,1,32304,32304,,,,,,,small,unknown,micro_proxy,,,,,,0,,,,,,micro_or_unknown,,,,,,,,,,,,,,,,,,,,,,,,,,2023-07,0.529
+45460,"Terre Haute, IN",Metropolitan Statistical Area,IN,midwest,4,169430,169430,,,,,,,very_large,unknown,small_metro_proxy,,,,,,1,,,,,,metro,,,,,,,,,,,,,,,,,,,,,,,,,,2023-07,0.529
+45500,"Texarkana, TX-AR",Metropolitan Statistical Area,AR;TX,south,3,148761,148761,,,,,,,very_large,unknown,small_metro_proxy,,,,,,1,,,,,,metro,,,,,,,,,,,,,,,,,,,,,,,,,,2023-07,0.529
+45520,"The Dalles, OR",Micropolitan Statistical Area,OR,west,1,26682,26682,,,,,,,small,unknown,micro_proxy,,,,,,0,,,,,,micro_or_unknown,,,,,,,,,,,,,,,,,,,,,,,,,,2023-07,0.529
+45580,"Thomaston, GA",Micropolitan Statistical Area,GA,south,1,26320,26320,,,,,,,small,unknown,micro_proxy,,,,,,0,,,,,,micro_or_unknown,,,,,,,,,,,,,,,,,,,,,,,,,,2023-07,0.529
+45620,"Thomasville, GA",Micropolitan Statistical Area,GA,south,2,69084,69084,,,,,,,large,unknown,micro_proxy,,,,,,0,,,,,,micro_or_unknown,,,,,,,,,,,,,,,,,,,,,,,,,,2023-07,0.529
+45660,"Tiffin, OH",Micropolitan Statistical Area,OH,midwest,1,55178,55178,,,,,,,medium,unknown,micro_proxy,,,,,,0,,,,,,micro_or_unknown,,,,,,,,,,,,,,,,,,,,,,,,,,2023-07,0.529
+45700,"Tifton, GA",Micropolitan Statistical Area,GA,south,2,48629,48629,,,,,,,medium,unknown,micro_proxy,,,,,,0,,,,,,micro_or_unknown,,,,,,,,,,,,,,,,,,,,,,,,,,2023-07,0.529
+45740,"Toccoa, GA",Micropolitan Statistical Area,GA,south,1,25925,25925,,,,,,,small,unknown,micro_proxy,,,,,,0,,,,,,micro_or_unknown,,,,,,,,,,,,,,,,,,,,,,,,,,2023-07,0.529
+45780,"Toledo, OH",Metropolitan Statistical Area,OH,midwest,3,601291,601291,,,,,,,mega,unknown,medium_metro_proxy,,,,,,1,,,,,,metro,,,,,,,,,,,,,,,,,,,,,,,,,,2023-07,0.529
+45820,"Topeka, KS",Metropolitan Statistical Area,KS,midwest,5,231969,231969,,,,,,,very_large,unknown,small_metro_proxy,,,,,,1,,,,,,metro,,,,,,,,,,,,,,,,,,,,,,,,,,2023-07,0.529
+45860,"Torrington, CT",Micropolitan Statistical Area,CT,northeast,1,,,,,,,,,unknown,unknown,micro_proxy,,,,,,0,,,,,,micro_or_unknown,,,,,,,,,,,,,,,,,,,,,,,,,,2023-07,0.412
+45880,"Town of Pecos, TX",Micropolitan Statistical Area,TX,south,1,15976,15976,,,,,,,small,unknown,micro_proxy,,,,,,0,,,,,,micro_or_unknown,,,,,,,,,,,,,,,,,,,,,,,,,,2023-07,0.529
+45900,"Traverse City, MI",Metropolitan Statistical Area,MI,midwest,4,150653,150653,,,,,,,very_large,unknown,small_metro_proxy,,,,,,1,,,,,,metro,,,,,,,,,,,,,,,,,,,,,,,,,,2023-07,0.529
+45940,"Trenton-Princeton, NJ",Metropolitan Statistical Area,NJ,northeast,1,367430,367430,,,,,,,mega,unknown,medium_metro_proxy,,,,,,1,,,,,,metro,,,,,,,,,,,,,,,,,,,,,,,,,,2023-07,0.529
+45980,"Troy, AL",Micropolitan Statistical Area,AL,south,1,33114,33114,,,,,,,small,unknown,micro_proxy,,,,,,0,,,,,,micro_or_unknown,,,,,,,,,,,,,,,,,,,,,,,,,,2023-07,0.529
+46020,"Truckee-Grass Valley, CA",Micropolitan Statistical Area,CA,west,1,99755,99755,,,,,,,large,unknown,micro_proxy,,,,,,0,,,,,,micro_or_unknown,,,,,,,,,,,,,,,,,,,,,,,,,,2023-07,0.529
+46060,"Tucson, AZ",Metropolitan Statistical Area,AZ,west,1,1047279,1047279,,,,,,,mega,unknown,large_metro_proxy,,,,,,1,,,,,,metro,,,,,,,,,,,,,,,,,,,,,,,,,,2023-07,0.529
+46100,"Tullahoma-Manchester, TN",Micropolitan Statistical Area,TN,south,2,63008,63008,,,,,,,large,unknown,micro_proxy,,,,,,0,,,,,,micro_or_unknown,,,,,,,,,,,,,,,,,,,,,,,,,,2023-07,0.529
+46140,"Tulsa, OK",Metropolitan Statistical Area,OK,south,7,998626,998626,,,,,,,mega,unknown,medium_metro_proxy,,,,,,1,,,,,,metro,,,,,,,,,,,,,,,,,,,,,,,,,,2023-07,0.529
+46180,"Tupelo, MS",Micropolitan Statistical Area,MS,south,3,133952,133952,,,,,,,very_large,unknown,micro_proxy,,,,,,0,,,,,,micro_or_unknown,,,,,,,,,,,,,,,,,,,,,,,,,,2023-07,0.529
+46220,"Tuscaloosa, AL",Metropolitan Statistical Area,AL,south,4,252047,252047,,,,,,,very_large,unknown,medium_metro_proxy,,,,,,1,,,,,,metro,,,,,,,,,,,,,,,,,,,,,,,,,,2023-07,0.529
+46300,"Twin Falls, ID",Metropolitan Statistical Area,ID,west,2,111290,111290,,,,,,,very_large,unknown,small_metro_proxy,,,,,,1,,,,,,metro,,,,,,,,,,,,,,,,,,,,,,,,,,2023-07,0.529
+46340,"Tyler, TX",Metropolitan Statistical Area,TX,south,1,232751,232751,,,,,,,very_large,unknown,small_metro_proxy,,,,,,1,,,,,,metro,,,,,,,,,,,,,,,,,,,,,,,,,,2023-07,0.529
+46380,"Ukiah, CA",Micropolitan Statistical Area,CA,west,1,86749,86749,,,,,,,large,unknown,micro_proxy,,,,,,0,,,,,,micro_or_unknown,,,,,,,,,,,,,,,,,,,,,,,,,,2023-07,0.529
+46460,"Union City, TN",Micropolitan Statistical Area,TN,south,1,30069,30069,,,,,,,small,unknown,micro_proxy,,,,,,0,,,,,,micro_or_unknown,,,,,,,,,,,,,,,,,,,,,,,,,,2023-07,0.529
+46500,"Urbana, OH",Micropolitan Statistical Area,OH,midwest,1,38885,38885,,,,,,,medium,unknown,micro_proxy,,,,,,0,,,,,,micro_or_unknown,,,,,,,,,,,,,,,,,,,,,,,,,,2023-07,0.529
+46520,"Urban Honolulu, HI",Metropolitan Statistical Area,HI,west,1,974563,974563,,,,,,,mega,unknown,medium_metro_proxy,,,,,,1,,,,,,metro,,,,,,,,,,,,,,,,,,,,,,,,,,2023-07,0.529
+46540,"Utica-Rome, NY",Metropolitan Statistical Area,NY,northeast,2,289990,289990,,,,,,,mega,unknown,medium_metro_proxy,,,,,,1,,,,,,metro,,,,,,,,,,,,,,,,,,,,,,,,,,2023-07,0.529
+46580,"Utuado, PR",Micropolitan Statistical Area,PR,unknown,1,,,,,,,,,unknown,unknown,micro_proxy,,,,,,0,,,,,,micro_or_unknown,,,,,,,,,,,,,,,,,,,,,,,,,,2023-07,0.412
+46620,"Uvalde, TX",Micropolitan Statistical Area,TX,south,1,26741,26741,,,,,,,small,unknown,micro_proxy,,,,,,0,,,,,,micro_or_unknown,,,,,,,,,,,,,,,,,,,,,,,,,,2023-07,0.529
+46660,"Valdosta, GA",Metropolitan Statistical Area,GA,south,4,147292,147292,,,,,,,very_large,unknown,small_metro_proxy,,,,,,1,,,,,,metro,,,,,,,,,,,,,,,,,,,,,,,,,,2023-07,0.529
+46700,"Vallejo, CA",Metropolitan Statistical Area,CA,west,1,447643,447643,,,,,,,mega,unknown,medium_metro_proxy,,,,,,1,,,,,,metro,,,,,,,,,,,,,,,,,,,,,,,,,,2023-07,0.529
+46780,"Van Wert, OH",Micropolitan Statistical Area,OH,midwest,1,28275,28275,,,,,,,small,unknown,micro_proxy,,,,,,0,,,,,,micro_or_unknown,,,,,,,,,,,,,,,,,,,,,,,,,,2023-07,0.529
+46820,"Vermillion, SD",Micropolitan Statistical Area,SD,midwest,1,14070,14070,,,,,,,small,unknown,micro_proxy,,,,,,0,,,,,,micro_or_unknown,,,,,,,,,,,,,,,,,,,,,,,,,,2023-07,0.529
+46860,"Vernal, UT",Micropolitan Statistical Area,UT,west,1,35734,35734,,,,,,,small,unknown,micro_proxy,,,,,,0,,,,,,micro_or_unknown,,,,,,,,,,,,,,,,,,,,,,,,,,2023-07,0.529
+46900,"Vernon, TX",Micropolitan Statistical Area,TX,south,1,12769,12769,,,,,,,small,unknown,micro_proxy,,,,,,0,,,,,,micro_or_unknown,,,,,,,,,,,,,,,,,,,,,,,,,,2023-07,0.529
+46980,"Vicksburg, MS",Micropolitan Statistical Area,MS,south,1,45381,45381,,,,,,,medium,unknown,micro_proxy,,,,,,0,,,,,,micro_or_unknown,,,,,,,,,,,,,,,,,,,,,,,,,,2023-07,0.529
+47020,"Victoria, TX",Metropolitan Statistical Area,TX,south,2,99742,99742,,,,,,,large,unknown,small_metro_proxy,,,,,,1,,,,,,metro,,,,,,,,,,,,,,,,,,,,,,,,,,2023-07,0.529
+47080,"Vidalia, GA",Micropolitan Statistical Area,GA,south,2,36002,36002,,,,,,,small,unknown,micro_proxy,,,,,,0,,,,,,micro_or_unknown,,,,,,,,,,,,,,,,,,,,,,,,,,2023-07,0.529
+47180,"Vincennes, IN",Micropolitan Statistical Area,IN,midwest,1,36594,36594,,,,,,,small,unknown,micro_proxy,,,,,,0,,,,,,micro_or_unknown,,,,,,,,,,,,,,,,,,,,,,,,,,2023-07,0.529
+47220,"Vineland, NJ",Metropolitan Statistical Area,NJ,northeast,1,149527,149527,,,,,,,very_large,unknown,small_metro_proxy,,,,,,1,,,,,,metro,,,,,,,,,,,,,,,,,,,,,,,,,,2023-07,0.529
+47240,"Vineyard Haven, MA",Micropolitan Statistical Area,MA,northeast,1,17332,17332,,,,,,,small,unknown,micro_proxy,,,,,,0,,,,,,micro_or_unknown,,,,,,,,,,,,,,,,,,,,,,,,,,2023-07,0.529
+47260,"Virginia Beach-Chesapeake-Norfolk, VA-NC",Metropolitan Statistical Area,NC;VA,south,18,1749725,1749725,,,,,,,mega,unknown,large_metro_proxy,,,,,,1,,,,,,metro,,,,,,,,,,,,,,,,,,,,,,,,,,2023-07,0.529
+47300,"Visalia, CA",Metropolitan Statistical Area,CA,west,1,466195,466195,,,,,,,mega,unknown,medium_metro_proxy,,,,,,1,,,,,,metro,,,,,,,,,,,,,,,,,,,,,,,,,,2023-07,0.529
+47340,"Wabash, IN",Micropolitan Statistical Area,IN,midwest,1,30996,30996,,,,,,,small,unknown,micro_proxy,,,,,,0,,,,,,micro_or_unknown,,,,,,,,,,,,,,,,,,,,,,,,,,2023-07,0.529
+47380,"Waco, TX",Metropolitan Statistical Area,TX,south,3,292605,292605,,,,,,,mega,unknown,medium_metro_proxy,,,,,,1,,,,,,metro,,,,,,,,,,,,,,,,,,,,,,,,,,2023-07,0.529
+47420,"Wahpeton, ND-MN",Micropolitan Statistical Area,MN;ND,midwest,2,22384,22384,,,,,,,small,unknown,micro_proxy,,,,,,0,,,,,,micro_or_unknown,,,,,,,,,,,,,,,,,,,,,,,,,,2023-07,0.529
+47460,"Walla Walla, WA",Metropolitan Statistical Area,WA,west,1,60760,60760,,,,,,,large,unknown,small_metro_proxy,,,,,,1,,,,,,metro,,,,,,,,,,,,,,,,,,,,,,,,,,2023-07,0.529
+47540,"Wapakoneta, OH",Micropolitan Statistical Area,OH,midwest,1,45656,45656,,,,,,,medium,unknown,micro_proxy,,,,,,0,,,,,,micro_or_unknown,,,,,,,,,,,,,,,,,,,,,,,,,,2023-07,0.529
+47580,"Warner Robins, GA",Metropolitan Statistical Area,GA,south,2,185409,185409,,,,,,,very_large,unknown,small_metro_proxy,,,,,,1,,,,,,metro,,,,,,,,,,,,,,,,,,,,,,,,,,2023-07,0.529
+47620,"Warren, PA",Micropolitan Statistical Area,PA,northeast,1,39191,39191,,,,,,,medium,unknown,micro_proxy,,,,,,0,,,,,,micro_or_unknown,,,,,,,,,,,,,,,,,,,,,,,,,,2023-07,0.529
+47660,"Warrensburg, MO",Micropolitan Statistical Area,MO,midwest,1,54062,54062,,,,,,,medium,unknown,micro_proxy,,,,,,0,,,,,,micro_or_unknown,,,,,,,,,,,,,,,,,,,,,,,,,,2023-07,0.529
+47700,"Warsaw, IN",Micropolitan Statistical Area,IN,midwest,1,79456,79456,,,,,,,large,unknown,micro_proxy,,,,,,0,,,,,,micro_or_unknown,,,,,,,,,,,,,,,,,,,,,,,,,,2023-07,0.529
+47780,"Washington, IN",Micropolitan Statistical Area,IN,midwest,1,33351,33351,,,,,,,small,unknown,micro_proxy,,,,,,0,,,,,,micro_or_unknown,,,,,,,,,,,,,,,,,,,,,,,,,,2023-07,0.529
+47820,"Washington, NC",Micropolitan Statistical Area,NC,south,1,46994,46994,,,,,,,medium,unknown,micro_proxy,,,,,,0,,,,,,micro_or_unknown,,,,,,,,,,,,,,,,,,,,,,,,,,2023-07,0.529
+47900,"Washington-Arlington-Alexandria, DC-VA-MD-WV",Metropolitan Statistical Area,DC;MD;VA;WV,south,23,6174701,6174701,,,,,,,mega,unknown,large_metro_proxy,,,,,,1,,,,,,metro,,,,,,,,,,,,,,,,,,,,,,,,,,2023-07,0.529
+47920,"Washington Court House, OH",Micropolitan Statistical Area,OH,midwest,1,28525,28525,,,,,,,small,unknown,micro_proxy,,,,,,0,,,,,,micro_or_unknown,,,,,,,,,,,,,,,,,,,,,,,,,,2023-07,0.529
+47930,"Waterbury-Shelton, CT",Metropolitan Statistical Area,CT,northeast,1,,,,,,,,,unknown,unknown,small_metro_proxy,,,,,,1,,,,,,metro,,,,,,,,,,,,,,,,,,,,,,,,,,2023-07,0.412
+47940,"Waterloo-Cedar Falls, IA",Metropolitan Statistical Area,IA,midwest,3,168522,168522,,,,,,,very_large,unknown,small_metro_proxy,,,,,,1,,,,,,metro,,,,,,,,,,,,,,,,,,,,,,,,,,2023-07,0.529
+47980,"Watertown, SD",Micropolitan Statistical Area,SD,midwest,1,28009,28009,,,,,,,small,unknown,micro_proxy,,,,,,0,,,,,,micro_or_unknown,,,,,,,,,,,,,,,,,,,,,,,,,,2023-07,0.529
+48020,"Watertown-Fort Atkinson, WI",Micropolitan Statistical Area,WI,midwest,1,84769,84769,,,,,,,large,unknown,micro_proxy,,,,,,0,,,,,,micro_or_unknown,,,,,,,,,,,,,,,,,,,,,,,,,,2023-07,0.529
+48060,"Watertown-Fort Drum, NY",Metropolitan Statistical Area,NY,northeast,1,109834,109834,,,,,,,very_large,unknown,small_metro_proxy,,,,,,1,,,,,,metro,,,,,,,,,,,,,,,,,,,,,,,,,,2023-07,0.529
+48140,"Wausau, WI",Metropolitan Statistical Area,WI,midwest,1,135692,135692,,,,,,,very_large,unknown,small_metro_proxy,,,,,,1,,,,,,metro,,,,,,,,,,,,,,,,,,,,,,,,,,2023-07,0.529
+48180,"Waycross, GA",Micropolitan Statistical Area,GA,south,2,55199,55199,,,,,,,medium,unknown,micro_proxy,,,,,,0,,,,,,micro_or_unknown,,,,,,,,,,,,,,,,,,,,,,,,,,2023-07,0.529
+48200,"Waynesville, NC",Micropolitan Statistical Area,NC,south,1,62317,62317,,,,,,,large,unknown,micro_proxy,,,,,,0,,,,,,micro_or_unknown,,,,,,,,,,,,,,,,,,,,,,,,,,2023-07,0.529
+48220,"Weatherford, OK",Micropolitan Statistical Area,OK,south,2,39919,39919,,,,,,,medium,unknown,micro_proxy,,,,,,0,,,,,,micro_or_unknown,,,,,,,,,,,,,,,,,,,,,,,,,,2023-07,0.529
+48260,"Weirton-Steubenville, WV-OH",Metropolitan Statistical Area,OH;WV,midwest,3,116074,116074,,,,,,,very_large,unknown,small_metro_proxy,,,,,,1,,,,,,metro,,,,,,,,,,,,,,,,,,,,,,,,,,2023-07,0.529
+48300,"Wenatchee-East Wenatchee, WA",Metropolitan Statistical Area,WA,west,2,120629,120629,,,,,,,very_large,unknown,small_metro_proxy,,,,,,1,,,,,,metro,,,,,,,,,,,,,,,,,,,,,,,,,,2023-07,0.529
+48460,"West Plains, MO",Micropolitan Statistical Area,MO,midwest,1,40117,40117,,,,,,,medium,unknown,micro_proxy,,,,,,0,,,,,,micro_or_unknown,,,,,,,,,,,,,,,,,,,,,,,,,,2023-07,0.529
+48540,"Wheeling, WV-OH",Metropolitan Statistical Area,OH;WV,midwest,3,138948,138948,,,,,,,very_large,unknown,small_metro_proxy,,,,,,1,,,,,,metro,,,,,,,,,,,,,,,,,,,,,,,,,,2023-07,0.529
+48580,"Whitewater-Elkhorn, WI",Micropolitan Statistical Area,WI,midwest,1,103868,103868,,,,,,,large,unknown,micro_proxy,,,,,,0,,,,,,micro_or_unknown,,,,,,,,,,,,,,,,,,,,,,,,,,2023-07,0.529
+48620,"Wichita, KS",Metropolitan Statistical Area,KS,midwest,4,640218,640218,,,,,,,mega,unknown,medium_metro_proxy,,,,,,1,,,,,,metro,,,,,,,,,,,,,,,,,,,,,,,,,,2023-07,0.529
+48660,"Wichita Falls, TX",Metropolitan Statistical Area,TX,south,3,151254,151254,,,,,,,very_large,unknown,small_metro_proxy,,,,,,1,,,,,,metro,,,,,,,,,,,,,,,,,,,,,,,,,,2023-07,0.529
+48680,"Wildwood-The Villages, FL",Metropolitan Statistical Area,FL,south,1,132420,132420,,,,,,,very_large,unknown,small_metro_proxy,,,,,,1,,,,,,metro,,,,,,,,,,,,,,,,,,,,,,,,,,2023-07,0.529
+48700,"Williamsport, PA",Metropolitan Statistical Area,PA,northeast,1,113299,113299,,,,,,,very_large,unknown,small_metro_proxy,,,,,,1,,,,,,metro,,,,,,,,,,,,,,,,,,,,,,,,,,2023-07,0.529
+48780,"Williston, ND",Micropolitan Statistical Area,ND,midwest,1,37589,37589,,,,,,,medium,unknown,micro_proxy,,,,,,0,,,,,,micro_or_unknown,,,,,,,,,,,,,,,,,,,,,,,,,,2023-07,0.529
+48820,"Willmar, MN",Micropolitan Statistical Area,MN,midwest,1,43199,43199,,,,,,,medium,unknown,micro_proxy,,,,,,0,,,,,,micro_or_unknown,,,,,,,,,,,,,,,,,,,,,,,,,,2023-07,0.529
+48900,"Wilmington, NC",Metropolitan Statistical Area,NC,south,3,440353,440353,,,,,,,mega,unknown,medium_metro_proxy,,,,,,1,,,,,,metro,,,,,,,,,,,,,,,,,,,,,,,,,,2023-07,0.529
+48940,"Wilmington, OH",Micropolitan Statistical Area,OH,midwest,1,41968,41968,,,,,,,medium,unknown,micro_proxy,,,,,,0,,,,,,micro_or_unknown,,,,,,,,,,,,,,,,,,,,,,,,,,2023-07,0.529
+48980,"Wilson, NC",Micropolitan Statistical Area,NC,south,1,81801,81801,,,,,,,large,unknown,micro_proxy,,,,,,0,,,,,,micro_or_unknown,,,,,,,,,,,,,,,,,,,,,,,,,,2023-07,0.529
+49010,"Winchester, TN",Micropolitan Statistical Area,TN,south,1,42208,42208,,,,,,,medium,unknown,micro_proxy,,,,,,0,,,,,,micro_or_unknown,,,,,,,,,,,,,,,,,,,,,,,,,,2023-07,0.529
+49020,"Winchester, VA-WV",Metropolitan Statistical Area,VA;WV,south,3,140566,140566,,,,,,,very_large,unknown,small_metro_proxy,,,,,,1,,,,,,metro,,,,,,,,,,,,,,,,,,,,,,,,,,2023-07,0.529
+49080,"Winnemucca, NV",Micropolitan Statistical Area,NV,west,1,16831,16831,,,,,,,small,unknown,micro_proxy,,,,,,0,,,,,,micro_or_unknown,,,,,,,,,,,,,,,,,,,,,,,,,,2023-07,0.529
+49100,"Winona, MN",Micropolitan Statistical Area,MN,midwest,1,50484,50484,,,,,,,medium,unknown,micro_proxy,,,,,,0,,,,,,micro_or_unknown,,,,,,,,,,,,,,,,,,,,,,,,,,2023-07,0.529
+49180,"Winston-Salem, NC",Metropolitan Statistical Area,NC,south,5,676008,676008,,,,,,,mega,unknown,medium_metro_proxy,,,,,,1,,,,,,metro,,,,,,,,,,,,,,,,,,,,,,,,,,2023-07,0.529
+49220,"Wisconsin Rapids-Marshfield, WI",Micropolitan Statistical Area,WI,midwest,1,72999,72999,,,,,,,large,unknown,micro_proxy,,,,,,0,,,,,,micro_or_unknown,,,,,,,,,,,,,,,,,,,,,,,,,,2023-07,0.529
+49260,"Woodward, OK",Micropolitan Statistical Area,OK,south,1,20211,20211,,,,,,,small,unknown,micro_proxy,,,,,,0,,,,,,micro_or_unknown,,,,,,,,,,,,,,,,,,,,,,,,,,2023-07,0.529
+49300,"Wooster, OH",Micropolitan Statistical Area,OH,midwest,1,115710,115710,,,,,,,very_large,unknown,micro_proxy,,,,,,0,,,,,,micro_or_unknown,,,,,,,,,,,,,,,,,,,,,,,,,,2023-07,0.529
+49340,"Worcester, MA",Metropolitan Statistical Area,MA,northeast,1,830622,830622,,,,,,,mega,unknown,medium_metro_proxy,,,,,,1,,,,,,metro,,,,,,,,,,,,,,,,,,,,,,,,,,2023-07,0.529
+49380,"Worthington, MN",Micropolitan Statistical Area,MN,midwest,1,21629,21629,,,,,,,small,unknown,micro_proxy,,,,,,0,,,,,,micro_or_unknown,,,,,,,,,,,,,,,,,,,,,,,,,,2023-07,0.529
+49420,"Yakima, WA",Metropolitan Statistical Area,WA,west,1,250873,250873,,,,,,,very_large,unknown,medium_metro_proxy,,,,,,1,,,,,,metro,,,,,,,,,,,,,,,,,,,,,,,,,,2023-07,0.529
+49460,"Yankton, SD",Micropolitan Statistical Area,SD,midwest,1,22814,22814,,,,,,,small,unknown,micro_proxy,,,,,,0,,,,,,micro_or_unknown,,,,,,,,,,,,,,,,,,,,,,,,,,2023-07,0.529
+49620,"York-Hanover, PA",Metropolitan Statistical Area,PA,northeast,1,449058,449058,,,,,,,mega,unknown,medium_metro_proxy,,,,,,1,,,,,,metro,,,,,,,,,,,,,,,,,,,,,,,,,,2023-07,0.529
+49660,"Youngstown-Warren, OH",Metropolitan Statistical Area,OH,midwest,2,426657,426657,,,,,,,mega,unknown,medium_metro_proxy,,,,,,1,,,,,,metro,,,,,,,,,,,,,,,,,,,,,,,,,,2023-07,0.529
+49700,"Yuba City, CA",Metropolitan Statistical Area,CA,west,2,175639,175639,,,,,,,very_large,unknown,small_metro_proxy,,,,,,1,,,,,,metro,,,,,,,,,,,,,,,,,,,,,,,,,,2023-07,0.529
+49740,"Yuma, AZ",Metropolitan Statistical Area,AZ,west,1,213787,213787,,,,,,,very_large,unknown,small_metro_proxy,,,,,,1,,,,,,metro,,,,,,,,,,,,,,,,,,,,,,,,,,2023-07,0.529
+49780,"Zanesville, OH",Micropolitan Statistical Area,OH,midwest,1,86215,86215,,,,,,,large,unknown,micro_proxy,,,,,,0,,,,,,micro_or_unknown,,,,,,,,,,,,,,,,,,,,,,,,,,2023-07,0.529
+49820,"Zapata, TX",Micropolitan Statistical Area,TX,south,1,14179,14179,,,,,,,small,unknown,micro_proxy,,,,,,0,,,,,,micro_or_unknown,,,,,,,,,,,,,,,,,,,,,,,,,,2023-07,0.529
